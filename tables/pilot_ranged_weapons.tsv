@@ -1,0 +1,21 @@
+key	name	tags	range	damage	source	rarity
+coldcore_sabot_aa_rifle	Coldcore Sabot AA Rifle	{accurate}, {loading}, {ordnance}	15	{energy: 3}	ssc	3
+eyestack_wink	EYESTACK_WINK	{limited: 1}, {ap}	2	{kinetic: 3}	horus	4
+implanted_gun	Implanted Gun	{independent_targeting}	2	{energy: 1}	ssc	1
+kottos_aa_largearm_rifle	KOTTOS AA/Largearm Rifle	{ordnance}	8	{kinetic: 1d3}	ha	1
+microcore_laser_rifle	Microcore Laser Rifle	{burn: 2}, {loading}	5	{energy: 1}	ha	2
+micropack_launcher	Micropack Launcher	{loading}	5, {blast: 1}	{explosive: 2}	ssc	3
+peacekeeper_r35	"Peacekeeper" R35	{limited: 6}	3	{explosive: 3}	ipsn	1
+pgr_gourd	PGR_GOURD	{smart}, {seeking}	5	{kinetic: 1}	horus	2
+primitive_ranged	Primitive Ranged	{unreliable}	5	{kinetic: 1}	gms	0
+prism_gun	Prism Gun	{inaccurate}	{cone: 3}	{energy: 2}	ipsn	4
+sidekick	Sidekick	{reliable: 1}	3	{kinetic: 1}	horus	2
+signature_sidearm_kinetic	Signature Sidearm (Kinetic)	{rerollable}	3	{kinetic: 1}	gms	0
+signature_combat_weapon_kinetic	Signature Combat Weapon (Kinetic)		5	{kinetic: 2}	gms	0
+signature_heavy_weapon_kinetic	Signature Heavy Weapon (Kinetic)	{ordnance}, {limited: 3}	10	{kinetic: 4}	gms	0
+signature_sidearm_energy	Signature Sidearm (Energy)	{rerollable}	3	{energy: 1}	gms	0
+signature_combat_weapon_energy	Signature Combat Weapon (Energy)		5	{energy: 2}	gms	0
+signature_heavy_weapon_energy	Signature Heavy Weapon (Energy)	{ordnance}, {limited: 3}	10	{energy: 4}	gms	0
+signature_sidearm_explosive	Signature Sidearm (Explosive)	{rerollable}	3	{explosive: 1}	gms	0
+signature_combat_weapon_explosive	Signature Combat Weapon (Explosive)		5	{explosive: 2}	gms	0
+signature_heavy_weapon_explosive	Signature Heavy Weapon (Explosive)	{ordnance}, {limited: 3}	10	{explosive: 4}	gms	0

@@ -1,0 +1,15 @@
+key	name	tags	range	damage	source	rarity
+light_alloy_composite_weapon	Light Alloy/Composite Weapon	{rerollable}	{threat}	{kinetic: 1}	gms	0
+combat_alloy_composite_weapon	Combat Alloy/Composite Weapon		{threat}	{kinetic: 2}	gms	0
+heavy_alloy_composite_weapon	Heavy Alloy/Composite Weapon	{inaccurate}	{threat}	{kinetic: 4}	gms	0
+arc_blade	Arc Blade	{reliable: 1}	{threat}	{energy: 2}	ssc	2
+atlatl	Atlatl	{seeking}	{threat}, {thrown: 5}	{explosive: 1}	ha	3
+hackiron	Hackiron	{reliable: 1}, {inaccurate}	{threat}	{kinetic: 3}	ipsn	2
+hardlight_weapon	Hardlight Weapon	{burn: 1}	{threat}	{energy: 2}	ha	4
+nanobot_whip	Nanobot Whip	{nanobot_defense}	{threat: 1}	{kinetic: 1}	horus	3
+null_spike	Null Spike	{stun}	{threat}	{kinetic: 0}	horus	3
+primitive_melee	Primitive Melee	{unreliable}	{threat}	{kinetic: 1}	gms	0
+ripjack	Ripjack		{threat}, {thrown: 4}	{kinetic: 2}	ipsn	3
+siege_hammer	Siege Hammer	{loading}, {ap}, {dashing}	{threat}	{kinetic: 5}	ipsn	3
+smart_knife	Smart Knife	{accurate}	{threat}	{kinetic: 1}	horus	2
+variable_sword	Variable Sword	{ap}, {limited: 6}	{threat: 1}	{kinetic: 3}	ssc	4
