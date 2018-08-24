@@ -1,0 +1,350 @@
+arc_blade:
+  damage:
+    - energy: 2
+  name: 'Arc Blade'
+  range:
+    - threat
+  rarity: 2
+  source: ssc
+  tags:
+    - reliable: 1
+atlatl:
+  damage:
+    - explosive: 1
+  name: Atlatl
+  range:
+    - threat
+    - thrown: 5
+  rarity: 3
+  source: ha
+  tags:
+    - seeking
+coldcore_sabot_aa_rifle:
+  damage:
+    - energy: 3
+  name: 'Coldcore Sabot AA Rifle'
+  range:
+    - point: 15
+  rarity: 3
+  source: ssc
+  tags:
+    - accurate
+    - loading
+    - ordnance
+combat_alloy_composite_weapon:
+  damage:
+    - kinetic: 2
+  name: 'Combat Alloy/Composite Weapon'
+  range:
+    - threat
+  rarity: 0
+  source: gms
+  tags: []
+eyestack_wink:
+  damage:
+    - kinetic: 3
+  name: EYESTACK_WINK
+  range:
+    - point: 2
+  rarity: 4
+  source: horus
+  tags:
+    - limited: 1
+    - ap
+hackiron:
+  damage:
+    - kinetic: 3
+  name: Hackiron
+  range:
+    - threat
+  rarity: 2
+  source: ipsn
+  tags:
+    - reliable: 1
+    - inaccurate
+hardlight_weapon:
+  damage:
+    - energy: 2
+  name: 'Hardlight Weapon'
+  range:
+    - threat
+  rarity: 4
+  source: ha
+  tags:
+    - burn: 1
+heavy_alloy_composite_weapon:
+  damage:
+    - kinetic: 4
+  name: 'Heavy Alloy/Composite Weapon'
+  range:
+    - threat
+  rarity: 0
+  source: gms
+  tags:
+    - inaccurate
+implanted_gun:
+  damage:
+    - energy: 1
+  name: 'Implanted Gun'
+  range:
+    - point: 2
+  rarity: 1
+  source: ssc
+  tags:
+    - independent_targeting
+kottos_aa_largearm_rifle:
+  damage:
+    - kinetic: 1d3
+  name: 'KOTTOS AA/Largearm Rifle'
+  range:
+    - point: 8
+  rarity: 1
+  source: ha
+  tags:
+    - ordnance
+light_alloy_composite_weapon:
+  damage:
+    - kinetic: 1
+  name: 'Light Alloy/Composite Weapon'
+  range:
+    - threat
+  rarity: 0
+  source: gms
+  tags:
+    - rerollable
+microcore_laser_rifle:
+  damage:
+    - energy: 1
+  name: 'Microcore Laser Rifle'
+  range:
+    - point: 5
+  rarity: 2
+  source: ha
+  tags:
+    - burn: 2
+    - loading
+micropack_launcher:
+  damage:
+    - explosive: 2
+  name: 'Micropack Launcher'
+  range:
+    - point: 5
+    - blast: 1
+  rarity: 3
+  source: ssc
+  tags:
+    - loading
+nanobot_whip:
+  damage:
+    - kinetic: 1
+  name: 'Nanobot Whip'
+  range:
+    - threat: 1
+  rarity: 3
+  source: horus
+  tags:
+    - nanobot_defense
+null_spike:
+  damage:
+    - kinetic: 0
+  name: 'Null Spike'
+  range:
+    - threat
+  rarity: 3
+  source: horus
+  tags:
+    - stun
+peacekeeper_r35:
+  damage:
+    - explosive: 3
+  name: 'Peacekeeper R35'
+  range:
+    - point: 3
+  rarity: 1
+  source: ipsn
+  tags:
+    - limited: 6
+pgr_gourd:
+  damage:
+    - kinetic: 1
+  name: PGR_GOURD
+  range:
+    - point: 5
+  rarity: 2
+  source: horus
+  tags:
+    - smart
+    - seeking
+primitive_melee:
+  damage:
+    - kinetic: 1
+  name: 'Primitive Melee'
+  range:
+    - threat
+  rarity: 0
+  source: gms
+  tags:
+    - unreliable
+primitive_ranged:
+  damage:
+    - kinetic: 1
+  name: 'Primitive Ranged'
+  range:
+    - point: 5
+  rarity: 0
+  source: gms
+  tags:
+    - unreliable
+prism_gun:
+  damage:
+    - energy: 2
+  name: 'Prism Gun'
+  range:
+    - cone: 3
+  rarity: 4
+  source: ipsn
+  tags:
+    - inaccurate
+ripjack:
+  damage:
+    - kinetic: 2
+  name: Ripjack
+  range:
+    - threat
+    - thrown: 4
+  rarity: 3
+  source: ipsn
+  tags: []
+sidekick:
+  damage:
+    - kinetic: 1
+  name: Sidekick
+  range:
+    - point: 3
+  rarity: 2
+  source: horus
+  tags:
+    - reliable: 1
+siege_hammer:
+  damage:
+    - kinetic: 5
+  name: 'Siege Hammer'
+  range:
+    - threat
+  rarity: 3
+  source: ipsn
+  tags:
+    - loading
+    - ap
+    - dashing
+signature_combat_weapon_energy:
+  damage:
+    - energy: 2
+  name: 'Signature Combat Weapon (Energy)'
+  range:
+    - point: 5
+  rarity: 0
+  source: gms
+  tags: []
+signature_combat_weapon_explosive:
+  damage:
+    - explosive: 2
+  name: 'Signature Combat Weapon (Explosive)'
+  range:
+    - point: 5
+  rarity: 0
+  source: gms
+  tags: []
+signature_combat_weapon_kinetic:
+  damage:
+    - kinetic: 2
+  name: 'Signature Combat Weapon (Kinetic)'
+  range:
+    - point: 5
+  rarity: 0
+  source: gms
+  tags: []
+signature_heavy_weapon_energy:
+  damage:
+    - energy: 4
+  name: 'Signature Heavy Weapon (Energy)'
+  range:
+    - point: 10
+  rarity: 0
+  source: gms
+  tags:
+    - ordnance
+    - limited: 3
+signature_heavy_weapon_explosive:
+  damage:
+    - explosive: 4
+  name: 'Signature Heavy Weapon (Explosive)'
+  range:
+    - point: 10
+  rarity: 0
+  source: gms
+  tags:
+    - ordnance
+    - limited: 3
+signature_heavy_weapon_kinetic:
+  damage:
+    - kinetic: 4
+  name: 'Signature Heavy Weapon (Kinetic)'
+  range:
+    - point: 10
+  rarity: 0
+  source: gms
+  tags:
+    - ordnance
+    - limited: 3
+signature_sidearm_energy:
+  damage:
+    - energy: 1
+  name: 'Signature Sidearm (Energy)'
+  range:
+    - point: 3
+  rarity: 0
+  source: gms
+  tags:
+    - rerollable
+signature_sidearm_explosive:
+  damage:
+    - explosive: 1
+  name: 'Signature Sidearm (Explosive)'
+  range:
+    - point: 3
+  rarity: 0
+  source: gms
+  tags:
+    - rerollable
+signature_sidearm_kinetic:
+  damage:
+    - kinetic: 1
+  name: 'Signature Sidearm (Kinetic)'
+  range:
+    - point: 3
+  rarity: 0
+  source: gms
+  tags:
+    - rerollable
+smart_knife:
+  damage:
+    - kinetic: 1
+  name: 'Smart Knife'
+  range:
+    - threat
+  rarity: 2
+  source: horus
+  tags:
+    - accurate
+variable_sword:
+  damage:
+    - kinetic: 3
+  name: 'Variable Sword'
+  range:
+    - threat: 1
+  rarity: 4
+  source: ssc
+  tags:
+    - ap
+    - limited: 6
