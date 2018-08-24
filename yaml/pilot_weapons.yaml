@@ -145,8 +145,7 @@ nanobot_whip:
   tags:
     - nanobot_defense
 null_spike:
-  damage:
-    - kinetic: 0
+  damage: []
   name: 'Null Spike'
   range:
     - threat

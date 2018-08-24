@@ -7,7 +7,7 @@ atlatl	Atlatl	{seeking}	{threat}, {thrown: 5}	{explosive: 1}	ha	3
 hackiron	Hackiron	{reliable: 1}, {inaccurate}	{threat}	{kinetic: 3}	ipsn	2
 hardlight_weapon	Hardlight Weapon	{burn: 1}	{threat}	{energy: 2}	ha	4
 nanobot_whip	Nanobot Whip	{nanobot_defense}	{threat: 1}	{kinetic: 1}	horus	3
-null_spike	Null Spike	{stun}	{threat}	{kinetic: 0}	horus	3
+null_spike	Null Spike	{stun}	{threat}		horus	3
 primitive_melee	Primitive Melee	{unreliable}	{threat}	{kinetic: 1}	gms	0
 ripjack	Ripjack		{threat}, {thrown: 4}	{kinetic: 2}	ipsn	3
 siege_hammer	Siege Hammer	{loading}, {ap}, {dashing}	{threat}	{kinetic: 5}	ipsn	3
