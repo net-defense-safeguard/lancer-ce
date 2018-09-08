@@ -12,9 +12,9 @@
     </head>
     <body>
         <h1>Weapon Cards</h1>
-        <div class="container-fluid display-table">
+        <div class="card-columns">
         {% for weapon in weapons %}
-            <div class="card float-left d-inline-block w-25 h-100 display table-cell">
+            <div class="card">
                 <div class="card-header">
                 <h5 class="card-title">{{ weapon['Name']}} </h5>
                 <span class="badge badge-secondary">{{ weapon['Size'] }}</span>
@@ -50,7 +50,6 @@
                     <h6 class="card-title d-inline">Notes: </h6>
                     <p>{{ weapon['Notes'] }}</p>
                 </div>
-                <div class="card-footer"></div>
             </div>
         {% endfor %}
         </div>
