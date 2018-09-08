@@ -67,7 +67,7 @@ Arc Projector	Main	CQB	2 heat (self)	Cone 5	1d3+1 Heat	-	HORUS Manticore I	0
 Autogun	Main	Cannon	1 SP	20	3 Kinetic	This weapon can fire itself as a Free Action at the end of round, using your mechs bonuses.	HORUS Pegasus I	1
 Ushabti Omnigun	-	-	AP	30	1 Kinetic	Free action to fire 1/round. This doesn't count as an attack, can't miss, ignores Cover, and the damage can't be prevented. Core System of the HORUS Pegasus.	HORUS Pegasus SHELL	0
 Smart Gun	Main	Rifle	2 SP, Smart, Seeking, Accurate	20	4 Kinetic	-	HORUS Pegasus II	2
-Mimic Gun	Heavy	'???'	-	'???'	'???'	At the start of your turn, roll 1d20. This gun has range equal to the number rolled, and damage equal to half that number(rounded up) +1. If the roll is odd, it deals energy damage, if even, then explosive.	HORUS Pegasus III	0
+Mimic Gun	Heavy	???	-	'???'	'???'	At the start of your turn, roll 1d20. This gun has range equal to the number rolled, and damage equal to half that number(rounded up) +1. If the roll is odd, it deals energy damage, if even, then explosive.	HORUS Pegasus III	0
 Annihilator	Main	CQB	2 heat (self), AP	Cone 5	1d3+1 Energy	-	HA Tokugawa I	0
 Plasma Lash	Main	Melee	Burn 3	Threat 3	 1 Energy Damage+ Burn 3	Can be used in either profile, but not both in the same round.	HA Tokugawa II	0
 Torch	Main	Melee	1 heat (self), Burn 2	Threat	1d6 Energy + Burn 2	-	HA Tokugawa III	0
