@@ -1,0 +1,1758 @@
+Annihilator:
+    Damage:
+        - '1d3+1 Energy'
+    License: 'HA Tokugawa I'
+    Name: Annihilator
+    Notes: "-"
+    Range:
+        - 'Cone 5'
+    SP: 0
+    Size: Main
+    Tags:
+        - '2 heat (self)'
+        - AP
+    Type: CQB
+'Anti-Material Rifle':
+    Damage:
+        - '2d6+2 Kinetic'
+    License: GMS
+    Name: 'Anti-Material Rifle'
+    Notes: "-"
+    Range:
+        - 20
+    SP: 0
+    Size: Heavy
+    Tags:
+        - Loading
+        - Ordnance
+        - AP
+    Type: Rifle
+'Arc Projector':
+    Damage:
+        - '1d3+1 Heat'
+    License: 'HORUS Manticore I'
+    Name: 'Arc Projector'
+    Notes: "-"
+    Range:
+        - 'Cone 5'
+    SP: 0
+    Size: Main
+    Tags:
+        - '2 heat (self)'
+    Type: CQB
+'Assault Cannon':
+    Damage:
+        - '2d6+2 Kinetic'
+    License: 'IPS-N Drake I'
+    Name: 'Assault Cannon'
+    Notes: "-"
+    Range:
+        - 10
+    SP: 0
+    Size: Heavy
+    Tags:
+        - '1 heat (self)'
+        - Unreliable
+    Type: Cannon
+'Assault Launcher':
+    Damage:
+        - "-"
+    License: 'HA Iskander II'
+    Name: 'Assault Launcher'
+    Notes: 'When you take this weapon, choose a deployable. You can fire and deploy
+        it using this weapon’s range, using the regular rules for planting deployables.
+        You can only target the ground with this weapon, not enemy mechs.'
+    Range:
+        - 15
+    SP: 0
+    Size: Auxiliary
+    Tags:
+        - Arcing
+    Type: Launcher
+'Assault Rifle':
+    Damage:
+        - '1d6 Kinetic'
+    License: GMS
+    Name: 'Assault Rifle'
+    Notes: "-"
+    Range:
+        - 10
+    SP: 0
+    Size: Main
+    Tags:
+        - "-"
+    Type: Rifle
+Autogun:
+    Damage:
+        - '3 Kinetic'
+    License: 'HORUS Pegasus I'
+    Name: Autogun
+    Notes: 'This weapon can fire itself as a Free Action at the end of round, using
+        your mechs bonuses.'
+    Range:
+        - 20
+    SP: 1
+    Size: Main
+    Tags:
+        - '1 SP'
+    Type: Cannon
+'Automatic Shotgun':
+    Damage:
+        - '2d6 Kinetic'
+    License: 'IPS-N Tortuga I'
+    Name: 'Automatic Shotgun'
+    Notes: "-"
+    Range:
+        - 3
+        - 'Threat 3'
+    SP: 0
+    Size: Main
+    Tags:
+        - Inaccurate
+    Type: CQB
+Autopod:
+    Damage:
+        - '2 Kinetic'
+    License: 'HORUS Goblin II'
+    Name: Autopod
+    Notes: 'This gun cannot be fired normally. Instead, whenever a Lock On is consumed
+        within range, whether you or an ally does so, this gun automatically fires
+        at the target as a reaction. This can be done any number of times per round.'
+    Range:
+        - 10
+    SP: 0
+    Size: Auxiliary
+    Tags:
+        - Unique
+        - Seeking
+    Type: Launcher
+'Bolt Thrower':
+    Damage:
+        - '1d6 Kinetic + 1d6 Explosive'
+    License: 'IPS-N Raleigh II'
+    Name: 'Bolt Thrower'
+    Notes: "-"
+    Range:
+        - 10
+    SP: 0
+    Size: Heavy
+    Tags:
+        - "-"
+    Type: Cannon
+'Burst Launcher':
+    Damage:
+        - '1d3 Heat'
+    License: 'SSC Dusk Wing II'
+    Name: 'Burst Launcher'
+    Notes: 'On a critical hit, a target struck by this weapon must pass an engineering
+        skill check or become impaired until the start of your next turn.'
+    Range:
+        - 10
+    SP: 0
+    Size: Main
+    Tags:
+        - Arcing
+    Type: Launcher
+'Chain Axe':
+    Damage:
+        - 1d6
+    License: 'IPS-N Blackbeard I'
+    Name: 'Chain Axe'
+    Notes: "-"
+    Range:
+        - 'Threat 1'
+    SP: 0
+    Size: Main
+    Tags:
+        - 'Reliable 2'
+    Type: Melee
+'Charged Blade':
+    Damage:
+        - '1d3+3 Energy'
+    License: GMS
+    Name: 'Charged Blade'
+    Notes: "-"
+    Range:
+        - 'Threat 1'
+    SP: 0
+    Size: Main
+    Tags:
+        - AP
+    Type: Melee
+'Combat Drill':
+    Damage:
+        - '3d6 Kinetic + 1d6 Energy'
+    License: 'IPS-N Vlad III'
+    Name: 'Combat Drill'
+    Notes: "-"
+    Range:
+        - 'Threat 1'
+    SP: 0
+    Size: Superheavy
+    Tags:
+        - Unreliable
+        - AP
+    Type: Melee
+'Concussion Missiles':
+    Damage:
+        - '1d3+1 Explosive'
+    License: 'IPS-N Drake II'
+    Name: 'Concussion Missiles'
+    Notes: 'Targets struck by these missiles are knocked back 1 space and must pass
+        a systems check or become impaired until the end of their next turn.'
+    Range:
+        - 8
+    SP: 0
+    Size: Main
+    Tags:
+        - "-"
+    Type: Launcher
+'Daisy Cutter':
+    Damage:
+        - '3d6 Kinetic'
+    License: 'IPS-N Tortuga II'
+    Name: 'Daisy Cutter'
+    Notes: 'The blast cloud from firing this weapon lingers until the end of the round
+        after the round in which this weapon was fired, providing light cover to any
+        target in the affected area.'
+    Range:
+        - 'Cone 7'
+    SP: 0
+    Size: Heavy
+    Tags:
+        - 'Limited (2)'
+    Type: CQB
+Displacer:
+    Damage:
+        - '12 Energy'
+    License: 'HA Napoleon III'
+    Name: Displacer
+    Notes: "-"
+    Range:
+        - 15
+        - 'Blast 1'
+    SP: 0
+    Size: Main
+    Tags:
+        - Unique
+        - Loading
+        - AP
+        - '10 Heat (Self)'
+    Type: Rifle
+'Drone Nexus (Hunter-Killer)':
+    Damage:
+        - '1d6 Kinetic'
+    License: GMS
+    Name: 'Drone Nexus (Hunter-Killer)'
+    Notes: "-"
+    Range:
+        - 10
+    SP: 0
+    Size: Main
+    Tags:
+        - Smart
+    Type: Nexus
+'Drone Nexus (Light)':
+    Damage:
+        - '1d3 Kinetic'
+    License: GMS
+    Name: 'Drone Nexus (Light)'
+    Notes: "-"
+    Range:
+        - 8
+    SP: 0
+    Size: Auxiliary
+    Tags:
+        - Smart
+    Type: Nexus
+Empty:
+    Damage:
+        - "-"
+    License: "-"
+    Name: Empty
+    Notes: "-"
+    Range:
+        - "-"
+    SP: 0
+    Size: "-"
+    Tags:
+        - "-"
+    Type: "-"
+'Final Draft Remove Reactor Shielding CQB':
+    Damage:
+        - '1d6 Kinetic'
+        - Explosive
+        - 'or Energy'
+    License: 'Engineer III'
+    Name: 'Final Draft Remove Reactor Shielding CQB'
+    Notes: 'Can also fire as Cone 3, Line 5, or Blast 1, but costs 2 Heat'
+    Range:
+        - 8
+    SP: 0
+    Size: Main
+    Tags:
+        - 'Limited (2d6+1)'
+        - Unreliable
+    Type: CQB
+'Final Draft Remove Reactor Shielding Cannon':
+    Damage:
+        - '1d6 Kinetic'
+        - Explosive
+        - 'or Energy'
+    License: 'Engineer III'
+    Name: 'Final Draft Remove Reactor Shielding Cannon'
+    Notes: 'Can also fire as Cone 3, Line 5, or Blast 1, but costs 2 Heat'
+    Range:
+        - 8
+    SP: 0
+    Size: Main
+    Tags:
+        - 'Limited (2d6+1)'
+        - Unreliable
+    Type: Cannon
+'Final Draft Remove Reactor Shielding Launcher':
+    Damage:
+        - '1d6 Kinetic'
+        - Explosive
+        - 'or Energy'
+    License: 'Engineer III'
+    Name: 'Final Draft Remove Reactor Shielding Launcher'
+    Notes: 'Can also fire as Cone 3, Line 5, or Blast 1, but costs 2 Heat'
+    Range:
+        - 8
+    SP: 0
+    Size: Main
+    Tags:
+        - 'Limited (2d6+1)'
+        - Unreliable
+    Type: Launcher
+'Final Draft Remove Reactor Shielding Melee':
+    Damage:
+        - '1d6 Kinetic'
+        - Explosive
+        - 'or Energy'
+    License: 'Engineer III'
+    Name: 'Final Draft Remove Reactor Shielding Melee'
+    Notes: 'Can also fire as Cone 3, Line 5, or Blast 1, but costs 2 Heat'
+    Range:
+        - Threat
+    SP: 0
+    Size: Main
+    Tags:
+        - 'Limited (2d6+1)'
+        - Unreliable
+    Type: Melee
+'Final Draft Remove Reactor Shielding Rifle':
+    Damage:
+        - '1d6 Kinetic'
+        - Explosive
+        - 'or Energy'
+    License: 'Engineer III'
+    Name: 'Final Draft Remove Reactor Shielding Rifle'
+    Notes: 'Can also fire as Cone 3, Line 5, or Blast 1, but costs 2 Heat'
+    Range:
+        - 8
+    SP: 0
+    Size: Main
+    Tags:
+        - 'Limited (2d6+1)'
+        - Unreliable
+    Type: Rifle
+'Final Draft Tweaked Computer CQB':
+    Damage:
+        - '1d6 Kinetic'
+        - Explosive
+        - 'or Energy'
+    License: 'Engineer III'
+    Name: 'Final Draft Tweaked Computer CQB'
+    Notes: "-"
+    Range:
+        - 8
+    SP: 0
+    Size: Main
+    Tags:
+        - 'Limited (2d6+1)'
+        - Unreliable
+        - Smart
+    Type: CQB
+'Final Draft Tweaked Computer Cannon':
+    Damage:
+        - '1d6 Kinetic'
+        - Explosive
+        - 'or Energy'
+    License: 'Engineer III'
+    Name: 'Final Draft Tweaked Computer Cannon'
+    Notes: "-"
+    Range:
+        - 8
+    SP: 0
+    Size: Main
+    Tags:
+        - 'Limited (2d6+1)'
+        - Unreliable
+        - Smart
+    Type: Cannon
+'Final Draft Tweaked Computer Launcher':
+    Damage:
+        - '1d6 Kinetic'
+        - Explosive
+        - 'or Energy'
+    License: 'Engineer III'
+    Name: 'Final Draft Tweaked Computer Launcher'
+    Notes: "-"
+    Range:
+        - 8
+    SP: 0
+    Size: Main
+    Tags:
+        - 'Limited (2d6+1)'
+        - Unreliable
+        - Smart
+    Type: Launcher
+'Final Draft Tweaked Computer Melee':
+    Damage:
+        - '1d6 Kinetic'
+        - Explosive
+        - 'or Energy'
+    License: 'Engineer III'
+    Name: 'Final Draft Tweaked Computer Melee'
+    Notes: "-"
+    Range:
+        - Threat
+    SP: 0
+    Size: Main
+    Tags:
+        - 'Limited (2d6+1)'
+        - Unreliable
+        - Smart
+    Type: Melee
+'Final Draft Tweaked Computer Rifle':
+    Damage:
+        - '1d6 Kinetic'
+        - Explosive
+        - 'or Energy'
+    License: 'Engineer III'
+    Name: 'Final Draft Tweaked Computer Rifle'
+    Notes: "-"
+    Range:
+        - 8
+    SP: 0
+    Size: Main
+    Tags:
+        - 'Limited (2d6+1)'
+        - Unreliable
+        - Smart
+    Type: Rifle
+'Final Draft Tweaked Optics CQB':
+    Damage:
+        - '1d6 Kinetic'
+        - Explosive
+        - 'or Energy'
+    License: 'Engineer III'
+    Name: 'Final Draft Tweaked Optics CQB'
+    Notes: 'This weapon always has +1 Accuracy'
+    Range:
+        - 8
+    SP: 0
+    Size: Main
+    Tags:
+        - 'Limited (2d6+1)'
+        - Unreliable
+    Type: CQB
+'Final Draft Tweaked Optics Cannon':
+    Damage:
+        - '1d6 Kinetic'
+        - Explosive
+        - 'or Energy'
+    License: 'Engineer III'
+    Name: 'Final Draft Tweaked Optics Cannon'
+    Notes: 'This weapon always has +1 Accuracy'
+    Range:
+        - 8
+    SP: 0
+    Size: Main
+    Tags:
+        - 'Limited (2d6+1)'
+        - Unreliable
+    Type: Cannon
+'Final Draft Tweaked Optics Melee':
+    Damage:
+        - '1d6 Kinetic'
+        - Explosive
+        - 'or Energy'
+    License: 'Engineer III'
+    Name: 'Final Draft Tweaked Optics Melee'
+    Notes: 'This weapon always has +1 Accuracy'
+    Range:
+        - 8
+    SP: 0
+    Size: Main
+    Tags:
+        - 'Limited (2d6+1)'
+        - Unreliable
+    Type: Launcher
+'Final Draft Tweaked Optics Rifle':
+    Damage:
+        - '1d6 Kinetic'
+        - Explosive
+        - 'or Energy'
+    License: 'Engineer III'
+    Name: 'Final Draft Tweaked Optics Rifle'
+    Notes: 'This weapon always has +1 Accuracy'
+    Range:
+        - 8
+    SP: 0
+    Size: Main
+    Tags:
+        - 'Limited (2d6+1)'
+        - Unreliable
+    Type: Rifle
+'Flak Cannon':
+    Damage:
+        - '1d3 Kinetic'
+    License: 'HA Barbarossa II'
+    Name: 'Flak Cannon'
+    Notes: 'Any flying target damaged by this weapon must pass an Agility check or
+        immediately fall.'
+    Range:
+        - 20
+    SP: 0
+    Size: Main
+    Tags:
+        - 'Reliable 1'
+    Type: Cannon
+Flamethrower:
+    Damage:
+        - '1 Heat + Burn 4'
+    License: 'HA Genghis I'
+    Name: Flamethrower
+    Notes: "-"
+    Range:
+        - 'Cone 5'
+    SP: 0
+    Size: Heavy
+    Tags:
+        - 'Burn 4'
+    Type: CQB
+'Flechette Launcher':
+    Damage:
+        - '1 Kinetic'
+    License: 'IPS-N Blackbeard II'
+    Name: 'Flechette Launcher'
+    Notes: 'Deal +2 bonus damage against grappled targets or targets with the Biological
+        tag.'
+    Range:
+        - 'Burst 1'
+    SP: 0
+    Size: Auxiliary
+    Tags:
+        - "-"
+    Type: CQB
+'Fuel Rod Gun':
+    Damage:
+        - '1d3+1 Energy'
+    License: 'Nuclear Cavalier III'
+    Name: 'Fuel Rod Gun'
+    Notes: 'When you fire this weapon, hit or miss, cool 1d3+1 Heat'
+    Range:
+        - 8
+    SP: 0
+    Size: Auxiliary
+    Tags:
+        - Unique
+        - 'Limited (6)'
+    Type: CQB
+'GHAST Drone Nexus':
+    Damage:
+        - '1d6+3 Explosive'
+    License: 'HORUS Hydra II'
+    Name: 'GHAST Drone Nexus'
+    Notes: "-"
+    Range:
+        - 15
+    SP: 0
+    Size: Heavy
+    Tags:
+        - Smart
+    Type: Nexus
+'Gandiva Missiles':
+    Damage:
+        - '1d6+1 Energy'
+    License: 'SSC Monarch II'
+    Name: 'Gandiva Missiles'
+    Notes: "-"
+    Range:
+        - 15
+    SP: 1
+    Size: Heavy
+    Tags:
+        - Smart
+        - Seeking
+        - Accurate
+        - '1 SP'
+    Type: Launcher
+'Ghoul Nexus':
+    Damage:
+        - '1d3+1 Kinetic'
+        - Explosive
+        - 'or Energy'
+    License: 'HORUS Hydra I'
+    Name: 'Ghoul Nexus'
+    Notes: 'Choose damage type when attacking.'
+    Range:
+        - 15
+    SP: 0
+    Size: Main
+    Tags:
+        - Smart
+    Type: Nexus
+'Gravity Gun':
+    Damage:
+        - 'See Notes'
+    License: 'HA Iskander II'
+    Name: 'Gravity Gun'
+    Notes: 'All targets caught in the Blast must pass a Hull check or take 1d6 Energy
+        damage and be pulled to the center of the area.'
+    Range:
+        - 8
+        - 'Blast 3'
+    SP: 0
+    Size: Heavy
+    Tags:
+        - "-"
+    Type: Rifle
+'Hand Cannon':
+    Damage:
+        - 1d6+1
+    License: 'IPS-N Raleigh I'
+    Name: 'Hand Cannon'
+    Notes: "-"
+    Range:
+        - 5
+        - 'Threat 3'
+    SP: 0
+    Size: Auxiliary
+    Tags:
+        - Loading
+    Type: CQB
+'Heavy Charged Blade':
+    Damage:
+        - '1d6+3 Energy'
+    License: GMS
+    Name: 'Heavy Charged Blade'
+    Notes: "-"
+    Range:
+        - 'Threat 1'
+    SP: 0
+    Size: Heavy
+    Tags:
+        - AP
+    Type: Melee
+'Heavy Laser':
+    Damage:
+        - '2d6 Energy + Burn 3'
+    License: 'HA Sherman II'
+    Name: 'Heavy Laser'
+    Notes: "-"
+    Range:
+        - 15
+    SP: 0
+    Size: Heavy
+    Tags:
+        - '3 heat (self)'
+        - 'Burn 3'
+    Type: Cannon
+'Heavy Machine Gun':
+    Damage:
+        - '2d6+1 Kinetic'
+    License: GMS
+    Name: 'Heavy Machine Gun'
+    Notes: "-"
+    Range:
+        - 10
+    SP: 0
+    Size: Heavy
+    Tags:
+        - Inaccurate
+    Type: Cannon
+'Heavy Melee Weapon':
+    Damage:
+        - '2d6+2 Kinetic'
+    License: GMS
+    Name: 'Heavy Melee Weapon'
+    Notes: "-"
+    Range:
+        - 'Threat 1'
+    SP: 0
+    Size: Heavy
+    Tags:
+        - "-"
+    Type: Melee
+Howitzer:
+    Damage:
+        - '2d6 Explosive'
+    License: GMS
+    Name: Howitzer
+    Notes: "-"
+    Range:
+        - 20
+        - 'Blast 2'
+    SP: 0
+    Size: Heavy
+    Tags:
+        - Arcing
+        - Loading
+        - Ordnance
+        - Inaccurate
+    Type: Cannon
+'IPS-N Argonaut Shield':
+    Damage:
+        - '1d6 Kinetic'
+    License: 'IPS-N Drake SHELL'
+    Name: 'IPS-N Argonaut Shield'
+    Notes: 'Core System of the IPS-N Drake'
+    Range:
+        - 'Threat 1'
+    SP: 0
+    Size: Main
+    Tags:
+        - "-"
+    Type: Melee
+Impaler:
+    Damage:
+        - '1d6 Kinetic'
+    License: 'IPS-N Vlad I'
+    Name: Impaler
+    Notes: 'The farthest target from you hit by this weapon must pass a hull check
+        or become immobilized until the start of your next turn.'
+    Range:
+        - 'Line 5'
+    SP: 0
+    Size: Main
+    Tags:
+        - AP
+        - '1 heat (self)'
+    Type: Launcher
+'Kinetic Hammer':
+    Damage:
+        - '2d6+1 Kinetic'
+    License: 'IPS-N Raleigh III'
+    Name: 'Kinetic Hammer'
+    Notes: "-"
+    Range:
+        - Threat
+    SP: 0
+    Size: Heavy
+    Tags:
+        - 'Reliable 3'
+    Type: Melee
+'Kodandam Missiles':
+    Damage:
+        - '1d6 Explosive'
+    License: 'SSC Death''s Head II'
+    Name: 'Kodandam Missiles'
+    Notes: "-"
+    Range:
+        - 20
+        - 'Blast 1'
+    SP: 0
+    Size: Auxiliary
+    Tags:
+        - 'Limited (3)'
+    Type: Launcher
+'Laser Rifle (SOL-Pattern)':
+    Damage:
+        - '1d6 Energy + Burn 1'
+    License: 'HA Sherman I'
+    Name: 'Laser Rifle (SOL-Pattern)'
+    Notes: "-"
+    Range:
+        - 10
+    SP: 0
+    Size: Main
+    Tags:
+        - '1 heat (self)'
+        - 'Burn 1'
+    Type: Rifle
+'Latch Drone':
+    Damage:
+        - "-"
+    License: 'IPS-N Lancaster II'
+    Name: 'Latch Drone'
+    Notes: 'Targeting versus Evasion 8 against any friendly mech in range (taking
+        cover and LOS into account); on a hit, target can spend 1 repair to heal.
+        Core system of the IPS-N Lancaster.'
+    Range:
+        - 8
+    SP: 0
+    Size: Auxiliary
+    Tags:
+        - "-"
+    Type: Launcher
+'Leviathan Heavy Assault Cannon':
+    Damage:
+        - '1d6 Kinetic'
+    License: 'IPS-N Drake III'
+    Name: 'Leviathan Heavy Assault Cannon'
+    Notes: 'As a quick action, you can pre-cycle this weapon’s barrels. While this
+        weapon’s barrels are spinning, your mech is crippled, but this weapon’s damage
+        increases to 4d6+4 kinetic and it gains Reliable 4. You can stop the spin-up
+        as a free action at the start of your turn, but lose the increased damage
+        until you spin the weapon up again.'
+    Range:
+        - 8
+    SP: 0
+    Size: Superheavy
+    Tags:
+        - '2 heat (self)'
+    Type: Cannon
+'M-35 MJOLNIR cannon':
+    Damage:
+        - '3 Kinetic'
+    License: 'IPS-N Raleigh SHELL'
+    Name: 'M-35 MJOLNIR cannon'
+    Notes: 'Core System of the Raleigh; doesn''t take a mount, cannot be modified
+        or use special ammo.'
+    Range:
+        - 5
+        - 'Threat 3'
+    SP: 0
+    Size: Auxiliary
+    Tags:
+        - "-"
+    Type: CQB
+'Mag Cannon':
+    Damage:
+        - '1d3+1 Heat'
+    License: 'SSC Black Witch I'
+    Name: 'Mag Cannon'
+    Notes: "-"
+    Range:
+        - 'Line 8'
+    SP: 0
+    Size: Main
+    Tags:
+        - "-"
+    Type: Cannon
+Markerlight:
+    Damage:
+        - "-"
+    License: 'SSC Swallowtail II'
+    Name: Markerlight
+    Notes: 'This weapon deals no damage and cannot deal damage (from talents or otherwise),
+        but on hit, it inflict Lock On on your target at the end of your turn.'
+    Range:
+        - 20
+    SP: 0
+    Size: Main
+    Tags:
+        - "-"
+    Type: Rifle
+'Mimic Gun':
+    Damage:
+        - ???
+    License: 'HORUS Pegasus III'
+    Name: 'Mimic Gun'
+    Notes: 'At the start of your turn, roll 1d20. This gun has range equal to the
+        number rolled, and damage equal to half that number(rounded up) +1. If the
+        roll is odd, it deals energy damage, if even, then explosive.'
+    Range:
+        - ???
+    SP: 0
+    Size: Heavy
+    Tags:
+        - "-"
+    Type: ???
+'Missile Rack':
+    Damage:
+        - '1d3+1 Explosive'
+    License: GMS
+    Name: 'Missile Rack'
+    Notes: "-"
+    Range:
+        - 10
+        - 'Blast 1'
+    SP: 0
+    Size: Auxiliary
+    Tags:
+        - Loading
+    Type: Launcher
+Mortar:
+    Damage:
+        - '1d6 Explosive'
+    License: GMS
+    Name: Mortar
+    Notes: "-"
+    Range:
+        - 10
+        - 'Blast 1'
+    SP: 0
+    Size: Main
+    Tags:
+        - Arcing
+        - Inaccurate
+    Type: Launcher
+Nailgun:
+    Damage:
+        - '1d6 Kinetic'
+    License: 'IPS-N Vlad II'
+    Name: Nailgun
+    Notes: 'On a critical hit, the target of this attack must pass an hull check or
+        be immobilized until the start of your next turn.'
+    Range:
+        - 8
+        - 'Threat 3'
+    SP: 0
+    Size: Main
+    Tags:
+        - AP
+        - '1 heat (self)'
+    Type: CQB
+'Nanobot Whip':
+    Damage:
+        - '2d6 Kinetic'
+    License: 'HORUS Balor III'
+    Name: 'Nanobot Whip'
+    Notes: 'On a critical hit (20+), the target must pass a systems check to scramble
+        the nanites or be pulled to any free adjacent space to your mech (or be pulled
+        as far as possible while obeying obstrutions)'
+    Range:
+        - 'Threat 3'
+    SP: 2
+    Size: Heavy
+    Tags:
+        - '2 SP'
+    Type: Melee
+'Nanocarbon Sword':
+    Damage:
+        - '1d6+3 Kinetic'
+    License: 'IPS-N Blackbeard II'
+    Name: 'Nanocarbon Sword'
+    Notes: "-"
+    Range:
+        - 'Threat 2'
+    SP: 0
+    Size: Heavy
+    Tags:
+        - 'Reliable 3'
+    Type: Melee
+'ORACLE Light Machine Gun':
+    Damage:
+        - '1d3 Kinetic'
+    License: 'SSC Swallowtail I'
+    Name: 'ORACLE Light Machine Gun'
+    Notes: "-"
+    Range:
+        - 15
+    SP: 1
+    Size: Auxiliary
+    Tags:
+        - Arcing
+        - Accurate
+    Type: Rifle
+'Pinaka Missiles':
+    Damage:
+        - '2d6+4 Explosive'
+    License: 'SSC Monarch III'
+    Name: 'Pinaka Missiles'
+    Notes: 'When this weapon is fired, it choses one or two Blast 2 areas within range
+        to attack. These areas cannot overlap.'
+    Range:
+        - 30
+        - 'one or two Blast 2 areas'
+    SP: 0
+    Size: Superheavy
+    Tags:
+        - Arcing
+        - '2 heat (self)'
+    Type: Launcher
+Pistol:
+    Damage:
+        - '1d3 Kinetic'
+    License: GMS
+    Name: Pistol
+    Notes: "-"
+    Range:
+        - 5
+        - 'Threat 3'
+    SP: 0
+    Size: Auxiliary
+    Tags:
+        - "-"
+    Type: CQB
+'Plasma Cutter':
+    Damage:
+        - '1 Energy +1 Heat + Burn 1'
+    License: 'IPS-N Lancaster III'
+    Name: 'Plasma Cutter'
+    Notes: .nan
+    Range:
+        - 'Threat 1'
+    SP: 0
+    Size: Auxiliary
+    Tags:
+        - '1 heat (self)'
+    Type: Melee
+'Plasma Lash':
+    Damage:
+        - '1 Energy Damage+ Burn 3'
+    License: 'HA Tokugawa II'
+    Name: 'Plasma Lash'
+    Notes: 'Can be used in either profile, but not both in the same round.'
+    Range:
+        - 'Threat 3'
+    SP: 0
+    Size: Main
+    Tags:
+        - 'Burn 3'
+    Type: Melee
+'Plasma Thrower':
+    Damage:
+        - 'Burn 5 + 1d6 Heat'
+    License: 'HA Genghis III'
+    Name: 'Plasma Thrower'
+    Notes: "-"
+    Range:
+        - 'Cone 7'
+    SP: 0
+    Size: Superheavy
+    Tags:
+        - '4 heat (Self)'
+        - 'Burn 5'
+    Type: CQB
+'Pneumatic Hammer':
+    Damage:
+        - '1d3+4 Kinetic'
+    License: 'IPS-N Tortuga III'
+    Name: 'Pneumatic Hammer'
+    Notes: 'On a critical hit with this weapon, your target must pass a hull check
+        or be stunned until the end of its next turn.'
+    Range:
+        - 'Threat 1'
+    SP: 0
+    Size: Main
+    Tags:
+        - Loading
+    Type: Melee
+'Power Knuckles':
+    Damage:
+        - '1d3+1 Explosive'
+    License: 'IPS-N Nelson III'
+    Name: 'Power Knuckles'
+    Notes: 'On a critical hit, your target must pass a hull check or be knocked prone'
+    Range:
+        - 'Threat 1'
+    SP: 0
+    Size: Auxiliary
+    Tags:
+        - "-"
+    Type: Melee
+'Prototype CQB':
+    Damage:
+        - '1d6 Kinetic'
+        - Explosive
+        - 'or Energy'
+    License: 'Engineer I'
+    Name: 'Prototype CQB'
+    Notes: "-"
+    Range:
+        - 8
+    SP: 0
+    Size: Main
+    Tags:
+        - 'Limited (1d6+2)'
+        - Unreliable
+    Type: CQB
+'Prototype Cannon':
+    Damage:
+        - '1d6 Kinetic'
+        - Explosive
+        - 'or Energy'
+    License: 'Engineer I'
+    Name: 'Prototype Cannon'
+    Notes: "-"
+    Range:
+        - 8
+    SP: 0
+    Size: Main
+    Tags:
+        - 'Limited (1d6+2)'
+        - Unreliable
+    Type: Cannon
+'Prototype Launcher':
+    Damage:
+        - '1d6 Kinetic'
+        - Explosive
+        - 'or Energy'
+    License: 'Engineer I'
+    Name: 'Prototype Launcher'
+    Notes: "-"
+    Range:
+        - 8
+    SP: 0
+    Size: Main
+    Tags:
+        - 'Limited (1d6+2)'
+        - Unreliable
+    Type: Launcher
+'Prototype Melee':
+    Damage:
+        - '1d6 Kinetic'
+        - Explosive
+        - 'or Energy'
+    License: 'Engineer I'
+    Name: 'Prototype Melee'
+    Notes: "-"
+    Range:
+        - 'Threat 1'
+    SP: 0
+    Size: Main
+    Tags:
+        - 'Limited (1d6+2)'
+        - Unreliable
+    Type: Melee
+'Prototype Remove Reactor Shielding CQB':
+    Damage:
+        - '1d6 Kinetic'
+        - Explosive
+        - 'or Energy'
+    License: 'Engineer II'
+    Name: 'Prototype Remove Reactor Shielding CQB'
+    Notes: 'Can also fire as Cone 3, Line 5, or Blast 1, but costs 2 Heat'
+    Range:
+        - 8
+    SP: 0
+    Size: Main
+    Tags:
+        - 'Limited (1d6+2)'
+        - Unreliable
+    Type: CQB
+'Prototype Remove Reactor Shielding Cannon':
+    Damage:
+        - '1d6 Kinetic'
+        - Explosive
+        - 'or Energy'
+    License: 'Engineer II'
+    Name: 'Prototype Remove Reactor Shielding Cannon'
+    Notes: 'Can also fire as Cone 3, Line 5, or Blast 1, but costs 2 Heat'
+    Range:
+        - 8
+    SP: 0
+    Size: Main
+    Tags:
+        - 'Limited (1d6+2)'
+        - Unreliable
+    Type: Cannon
+'Prototype Remove Reactor Shielding Launcher':
+    Damage:
+        - '1d6 Kinetic'
+        - Explosive
+        - 'or Energy'
+    License: 'Engineer II'
+    Name: 'Prototype Remove Reactor Shielding Launcher'
+    Notes: 'Can also fire as Cone 3, Line 5, or Blast 1, but costs 2 Heat'
+    Range:
+        - 8
+    SP: 0
+    Size: Main
+    Tags:
+        - 'Limited (1d6+2)'
+        - Unreliable
+    Type: Launcher
+'Prototype Remove Reactor Shielding Melee':
+    Damage:
+        - '1d6 Kinetic'
+        - Explosive
+        - 'or Energy'
+    License: 'Engineer II'
+    Name: 'Prototype Remove Reactor Shielding Melee'
+    Notes: 'Can also fire as Cone 3, Line 5, or Blast 1, but costs 2 Heat'
+    Range:
+        - Threat
+    SP: 0
+    Size: Main
+    Tags:
+        - 'Limited (1d6+2)'
+        - Unreliable
+    Type: Melee
+'Prototype Remove Reactor Shielding Rifle':
+    Damage:
+        - '1d6 Kinetic'
+        - Explosive
+        - 'or Energy'
+    License: 'Engineer II'
+    Name: 'Prototype Remove Reactor Shielding Rifle'
+    Notes: 'Can also fire as Cone 3, Line 5, or Blast 1, but costs 2 Heat'
+    Range:
+        - 8
+    SP: 0
+    Size: Main
+    Tags:
+        - 'Limited (1d6+2)'
+        - Unreliable
+    Type: Rifle
+'Prototype Rifle':
+    Damage:
+        - '1d6 Kinetic'
+        - Explosive
+        - 'or Energy'
+    License: 'Engineer I'
+    Name: 'Prototype Rifle'
+    Notes: "-"
+    Range:
+        - 8
+    SP: 0
+    Size: Main
+    Tags:
+        - 'Limited (1d6+2)'
+        - Unreliable
+    Type: Rifle
+'Prototype Tweaked Computer CQB':
+    Damage:
+        - '1d6 Kinetic'
+        - Explosive
+        - 'or Energy'
+    License: 'Engineer II'
+    Name: 'Prototype Tweaked Computer CQB'
+    Notes: "-"
+    Range:
+        - 8
+    SP: 0
+    Size: Main
+    Tags:
+        - 'Limited (1d6+2)'
+        - Unreliable
+        - Smart
+    Type: CQB
+'Prototype Tweaked Computer Cannon':
+    Damage:
+        - '1d6 Kinetic'
+        - Explosive
+        - 'or Energy'
+    License: 'Engineer II'
+    Name: 'Prototype Tweaked Computer Cannon'
+    Notes: "-"
+    Range:
+        - 8
+    SP: 0
+    Size: Main
+    Tags:
+        - 'Limited (1d6+2)'
+        - Unreliable
+        - Smart
+    Type: Cannon
+'Prototype Tweaked Computer Launcher':
+    Damage:
+        - '1d6 Kinetic'
+        - Explosive
+        - 'or Energy'
+    License: 'Engineer II'
+    Name: 'Prototype Tweaked Computer Launcher'
+    Notes: "-"
+    Range:
+        - 8
+    SP: 0
+    Size: Main
+    Tags:
+        - 'Limited (1d6+2)'
+        - Unreliable
+        - Smart
+    Type: Launcher
+'Prototype Tweaked Computer Melee':
+    Damage:
+        - '1d6 Kinetic'
+        - Explosive
+        - 'or Energy'
+    License: 'Engineer II'
+    Name: 'Prototype Tweaked Computer Melee'
+    Notes: "-"
+    Range:
+        - Threat
+    SP: 0
+    Size: Main
+    Tags:
+        - 'Limited (1d6+2)'
+        - Unreliable
+        - Smart
+    Type: Melee
+'Prototype Tweaked Computer Rifle':
+    Damage:
+        - '1d6 Kinetic'
+        - Explosive
+        - 'or Energy'
+    License: 'Engineer II'
+    Name: 'Prototype Tweaked Computer Rifle'
+    Notes: "-"
+    Range:
+        - 8
+    SP: 0
+    Size: Main
+    Tags:
+        - 'Limited (1d6+2)'
+        - Unreliable
+        - Smart
+    Type: Rifle
+'Prototype Tweaked Optics CQB':
+    Damage:
+        - '1d6 Kinetic'
+        - Explosive
+        - 'or Energy'
+    License: 'Engineer II'
+    Name: 'Prototype Tweaked Optics CQB'
+    Notes: 'This weapon always has +1 Accuracy'
+    Range:
+        - 8
+    SP: 0
+    Size: Main
+    Tags:
+        - 'Limited (1d6+2)'
+        - Unreliable
+    Type: CQB
+'Prototype Tweaked Optics Cannon':
+    Damage:
+        - '1d6 Kinetic'
+        - Explosive
+        - 'or Energy'
+    License: 'Engineer II'
+    Name: 'Prototype Tweaked Optics Cannon'
+    Notes: 'This weapon always has +1 Accuracy'
+    Range:
+        - 8
+    SP: 0
+    Size: Main
+    Tags:
+        - 'Limited (1d6+2)'
+        - Unreliable
+    Type: Cannon
+'Prototype Tweaked Optics Melee':
+    Damage:
+        - '1d6 Kinetic'
+        - Explosive
+        - 'or Energy'
+    License: 'Engineer II'
+    Name: 'Prototype Tweaked Optics Melee'
+    Notes: 'This weapon always has +1 Accuracy'
+    Range:
+        - 8
+    SP: 0
+    Size: Main
+    Tags:
+        - 'Limited (1d6+2)'
+        - Unreliable
+    Type: Launcher
+'Prototype Tweaked Optics Rifle':
+    Damage:
+        - '1d6 Kinetic'
+        - Explosive
+        - 'or Energy'
+    License: 'Engineer II'
+    Name: 'Prototype Tweaked Optics Rifle'
+    Notes: 'This weapon always has +1 Accuracy'
+    Range:
+        - 8
+    SP: 0
+    Size: Main
+    Tags:
+        - 'Limited (1d6+2)'
+        - Unreliable
+    Type: Rifle
+'Pulse Rifle':
+    Damage:
+        - '3d6+3 Kinetic'
+    License: GMS
+    Name: 'Pulse Rifle'
+    Notes: "-"
+    Range:
+        - 15
+    SP: 0
+    Size: Superheavy
+    Tags:
+        - 'Reliable 5'
+        - Accurate
+        - Loading
+    Type: Rifle
+RPG:
+    Damage:
+        - '1d6 Explosive'
+    License: GMS
+    Name: RPG
+    Notes: "-"
+    Range:
+        - 10
+        - 'blast 2'
+    SP: 0
+    Size: Main
+    Tags:
+        - Loading
+    Type: Launcher
+'Rail Rifle':
+    Damage:
+        - '1d6 Kinetic'
+    License: 'SSC Metalmark II'
+    Name: 'Rail Rifle'
+    Notes: "-"
+    Range:
+        - 'Line 10'
+    SP: 0
+    Size: Main
+    Tags:
+        - "-"
+    Type: Rifle
+Railgun:
+    Damage:
+        - '1d6+3 Kinetic'
+    License: 'SSC Death''s Head III'
+    Name: Railgun
+    Notes: "-"
+    Range:
+        - 'Line 20'
+    SP: 0
+    Size: Heavy
+    Tags:
+        - AP
+        - Ordnance
+    Type: Rifle
+'Seeker Swarm Nexus':
+    Damage:
+        - '1 Kinetic'
+    License: 'HORUS Balor III'
+    Name: 'Seeker Swarm Nexus'
+    Notes: "-"
+    Range:
+        - 10
+    SP: 0
+    Size: Main
+    Tags:
+        - Smart
+        - Seeking
+        - 'Burn 2'
+    Type: Nexus
+'Sharanga Missiles':
+    Damage:
+        - '3 Explosive'
+    License: 'SSC Monarch I'
+    Name: 'Sharanga Missiles'
+    Notes: 'When you fire this weapon, you can choose one or two targets in range
+        and line of sight, making attack rolls for reach.'
+    Range:
+        - 15
+    SP: 0
+    Size: Main
+    Tags:
+        - Arcing
+    Type: Launcher
+'Shock Knife':
+    Damage:
+        - '1 Energy'
+    License: 'SSC Metalmark III'
+    Name: 'Shock Knife'
+    Notes: "-"
+    Range:
+        - 'Threat 1'
+    SP: 0
+    Size: Auxiliary
+    Tags:
+        - '1 heat (self)'
+        - 'Burn 2'
+    Type: Melee
+Shotgun:
+    Damage:
+        - '1d6 Kinetic'
+    License: GMS
+    Name: Shotgun
+    Notes: "-"
+    Range:
+        - 5
+        - 'Threat 3'
+    SP: 0
+    Size: Main
+    Tags:
+        - 'Reliable 1'
+    Type: CQB
+'Siege Cannon':
+    Damage:
+        - '3d6 Explosive'
+    License: 'HA Barbarossa III'
+    Name: 'Siege Cannon'
+    Notes: "-"
+    Range:
+        - 30
+        - 'Blast 3'
+    SP: 0
+    Size: Superheavy
+    Tags:
+        - '4 heat (self)'
+        - Arcing
+        - Ordnance
+        - Loading
+    Type: Cannon
+'Siege Ram':
+    Damage:
+        - "-"
+    License: 'IPS-N Tortuga I'
+    Name: 'Siege Ram'
+    Notes: 'Treat this ram like a weapon system. While it''s installed, your ram attacks
+        do +1d6 damage on a hit.'
+    Range:
+        - 'Threat 1'
+    SP: 0
+    Size: Main
+    Tags:
+        - Unique
+    Type: Melee
+'Smart Gun':
+    Damage:
+        - '4 Kinetic'
+    License: 'HORUS Pegasus II'
+    Name: 'Smart Gun'
+    Notes: "-"
+    Range:
+        - 20
+    SP: 2
+    Size: Main
+    Tags:
+        - '2 SP'
+        - Smart
+        - Seeking
+        - Accurate
+    Type: Rifle
+'Sticky Bomb Launcher':
+    Damage:
+        - "-"
+    License: 'HA Iskander III'
+    Name: 'Sticky Bomb Launcher'
+    Notes: 'To fire this weapon, you can attack a point on the environment within
+        range without rolling, or make a regular attack roll against a target within
+        range. On a hit, the target or area does not take damage, but instead has
+        a sticky bomb attached. It takes an action and a successful engineering check
+        to remove all sticky bombs from an area or mech. As an end of round action,
+        you can detonate all sticky bombs fired by this weapon to deal 1d6 explosive
+        damage in blast 1 centered on all targeted mechs or areas. Mechs caught in
+        the blast area can pass an agility check to halve this damage, but mechs ‘stuck’
+        by this weapon fail their check automatically.'
+    Range:
+        - 15
+    SP: 0
+    Size: Main
+    Tags:
+        - Arcing
+    Type: Launcher
+'Stub Cannon':
+    Damage:
+        - '3 Kinetic'
+    License: 'HA Iskander I'
+    Name: 'Stub Cannon'
+    Notes: 'Targets hit by this weapon are knocked one space back, directly away from
+        the attacker.'
+    Range:
+        - 5
+    SP: 0
+    Size: Auxiliary
+    Tags:
+        - 'Limited (6)'
+    Type: Cannon
+'Tachyon Lance':
+    Damage:
+        - '2d6 Energy + Burn 8'
+    License: 'HA Sherman III'
+    Name: 'Tachyon Lance'
+    Notes: "-"
+    Range:
+        - 20
+    SP: 0
+    Size: Superheavy
+    Tags:
+        - Ordnance
+        - '4 heat (self)'
+    Type: Cannon
+'Tactical Knife':
+    Damage:
+        - '1d3+1 Kinetic'
+    License: GMS
+    Name: 'Tactical Knife'
+    Notes: "-"
+    Range:
+        - 'Threat 1'
+    SP: 0
+    Size: Auxiliary
+    Tags:
+        - "-"
+    Type: Melee
+'Tactical Melee':
+    Damage:
+        - '1d6+2 Kinetic'
+    License: GMS
+    Name: 'Tactical Melee'
+    Notes: "-"
+    Range:
+        - 'Threat 1'
+    SP: 0
+    Size: Main
+    Tags:
+        - "-"
+    Type: Melee
+'Thermal Lance':
+    Damage:
+        - '2d6 Energy'
+    License: GMS
+    Name: 'Thermal Lance'
+    Notes: "-"
+    Range:
+        - 'Line 10'
+    SP: 0
+    Size: Heavy
+    Tags:
+        - '2 heat (self)'
+    Type: Cannon
+'Thermal Pistol':
+    Damage:
+        - '2 Energy'
+    License: GMS
+    Name: 'Thermal Pistol'
+    Notes: "-"
+    Range:
+        - 'Line 5'
+    SP: 0
+    Size: Auxiliary
+    Tags:
+        - "-"
+    Type: CQB
+'Thermal Rifle':
+    Damage:
+        - '1d3+1 Energy'
+    License: GMS
+    Name: 'Thermal Rifle'
+    Notes: "-"
+    Range:
+        - 5
+    SP: 0
+    Size: Main
+    Tags:
+        - AP
+    Type: Rifle
+Torch:
+    Damage:
+        - '1d6 Energy + Burn 2'
+    License: 'HA Tokugawa III'
+    Name: Torch
+    Notes: "-"
+    Range:
+        - Threat
+    SP: 0
+    Size: Main
+    Tags:
+        - '1 heat (self)'
+        - 'Burn 2'
+    Type: Melee
+'Ushabti Omnigun':
+    Damage:
+        - '1 Kinetic'
+    License: 'HORUS Pegasus SHELL'
+    Name: 'Ushabti Omnigun'
+    Notes: 'Free action to fire 1/round. This doesn''t count as an attack, can''t
+        miss, ignores Cover, and the damage can''t be prevented. Core System of the
+        HORUS Pegasus.'
+    Range:
+        - 30
+    SP: 0
+    Size: "-"
+    Tags:
+        - AP
+    Type: "-"
+'Variable Knife':
+    Damage:
+        - '2 Kinetic'
+    License: 'SSC Mourning Cloak I'
+    Name: 'Variable Knife'
+    Notes: "-"
+    Range:
+        - Threat
+    SP: 0
+    Size: Auxiliary
+    Tags:
+        - AP
+        - Accurate
+    Type: Melee
+'Variable Sword':
+    Damage:
+        - '4 Kinetic'
+    License: 'SSC Mourning Cloak III'
+    Name: 'Variable Sword'
+    Notes: "-"
+    Range:
+        - 'Threat 2'
+    SP: 0
+    Size: Main
+    Tags:
+        - AP
+        - Accurate
+        - Unique
+    Type: Melee
+'Vijaya Rockets':
+    Damage:
+        - '1d3 Explosive'
+    License: 'SSC Mourning Cloak I'
+    Name: 'Vijaya Rockets'
+    Notes: "-"
+    Range:
+        - 5
+    SP: 0
+    Size: Auxiliary
+    Tags:
+        - Accurate
+    Type: Launcher
+'Vorpal Gun':
+    Damage:
+        - '2d6 Kinetic'
+    License: 'HORUS Gorgon III'
+    Name: 'Vorpal Gun'
+    Notes: 'This weapon cannot be fired normally. Instead, it can only be fired 1/round
+        as a reaction to an ally taking damage from a target within its range.'
+    Range:
+        - 5
+    SP: 0
+    Size: Main
+    Tags:
+        - "-"
+    Type: Cannon
+'Vulture Battle Rifle':
+    Damage:
+        - '1d6+1 Kinetic'
+    License: 'SSC Dusk Wing I'
+    Name: 'Vulture Battle Rifle'
+    Notes: "-"
+    Range:
+        - 15
+    SP: 0
+    Size: Main
+    Tags:
+        - Unreliable
+        - Accurate
+    Type: Rifle
+'War Pike':
+    Damage:
+        - '1d6 Kinetic'
+    License: 'IPS-N Nelson I'
+    Name: 'War Pike'
+    Notes: "-"
+    Range:
+        - Thrown(5)
+        - 'Threat 2'
+    SP: 0
+    Size: Main
+    Tags:
+        - "-"
+    Type: Melee
+'Zone Focus Mk IV SOLIDCORE':
+    Damage:
+        - '1d3+1 Energy'
+    License: 'HA Sherman II'
+    Name: 'Zone Focus Mk IV SOLIDCORE'
+    Notes: 'Core system of the Sherman; doesn''t take a mount.'
+    Range:
+        - 'Line 15'
+    SP: 0
+    Size: Main
+    Tags:
+        - Ordnance
+    Type: Cannon
