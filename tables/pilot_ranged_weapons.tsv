@@ -5,7 +5,7 @@ implanted_gun	Implanted Gun	{independent_targeting}	{point: 2}	{energy: 1}	ssc	1
 kottos_aa_largearm_rifle	KOTTOS AA/Largearm Rifle	{ordnance}	{point: 8}	{kinetic: 1d3}	ha	1
 microcore_laser_rifle	Microcore Laser Rifle	{burn: 2}, {loading}	{point: 5}	{energy: 1}	ha	2
 micropack_launcher	Micropack Launcher	{loading}	{point: 5}, {blast: 1}	{explosive: 2}	ssc	3
-peacekeeper_r35	"Peacekeeper" R35	{limited: 6}	{point: 3}	{explosive: 3}	ipsn	1
+peacekeeper_r35	Peacekeeper R35	{limited: 6}	{point: 3}	{explosive: 3}	ipsn	1
 pgr_gourd	PGR_GOURD	{smart}, {seeking}	{point: 5}	{kinetic: 1}	horus	2
 primitive_ranged	Primitive Ranged	{unreliable}	{point: 5}	{kinetic: 1}	gms	0
 prism_gun	Prism Gun	{inaccurate}	{cone: 3}	{energy: 2}	ipsn	4
