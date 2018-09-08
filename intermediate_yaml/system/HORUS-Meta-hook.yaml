@@ -1,0 +1,12 @@
+Cost: 1
+Effect: 'Gain the following quick tech option: Link: Choose a friendly target in sensor
+  range. You link systems with that target. From hereon, you can count that target’s
+  sensor range as your sensor range for the purposes of tech actions, etc. In addition,
+  you can make system skill checks for your target as a reaction, using your systems
+  score. However, you both suffer the effects from any failed check (heat, statuses,
+  etc). You can only link systems with one target at a time, and the effect ends if
+  your target moves out of your sensor range.'
+Keywords: 'Quick Tech'
+License: 'HORUS Goblin I'
+Name: 'HORUS Meta-hook'
+Unique: "-"

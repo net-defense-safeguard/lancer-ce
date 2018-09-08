@@ -1,0 +1,13 @@
+Cost: 2
+Effect: "Gain the following quick tech options:\n- Puppet system - Make a tech attack\
+  \ against a target in your sensor range. On hit, your target immediately moves in\
+  \ a direction of your choice as a reaction up to its maximum speed. This could carry\
+  \ it into hazardous areas, obstacles, etc, but it still obeys difficultterrain and\
+  \ other rules of movement.\n- Eject power cores - Make a tech attack against a target\
+  \ in your sensor range. On hit,  your target becomes Jammed until the end of its\
+  \ next turn, ejecting ammo magazines and temporarily disrupting its computer. A\
+  \ target can only be affected by this effect once per combat."
+Keywords: 'Quick Tech'
+License: 'HORUS Goblin I'
+Name: 'H0r_OS System Upgrade I'
+Unique: true

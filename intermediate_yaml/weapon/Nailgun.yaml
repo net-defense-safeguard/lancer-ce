@@ -1,0 +1,10 @@
+Damage: '1d6 Kinetic'
+License: 'IPS-N Vlad II'
+Name: Nailgun
+Notes: 'On a critical hit, the target of this attack must pass an hull check or be
+  immobilized until the start of your next turn.'
+Range: '8, Threat 3'
+SP: 0
+Size: Main
+Tags: 'AP, 1 heat (self)'
+Type: CQB

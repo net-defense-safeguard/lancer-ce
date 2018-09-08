@@ -1,0 +1,9 @@
+Damage: '1d3 Kinetic'
+License: GMS
+Name: 'Drone Nexus (Light)'
+Notes: "-"
+Range: 8
+SP: 0
+Size: Auxiliary
+Tags: Smart
+Type: Nexus

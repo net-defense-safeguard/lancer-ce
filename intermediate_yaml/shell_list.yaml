@@ -1,0 +1,864 @@
+Everest:
+    AGI: 0
+    ARMOR: 0
+    EDEF: 0
+    ENG: 0
+    EVASION: 0
+    HEAT-CAP: 0
+    HP: 0
+    HULL: 0
+    MOUNT1: Heavy
+    MOUNT2: Main
+    MOUNT3: Flex
+    Name: Everest
+    SIZE: 1.0
+    SP: 6
+    SPEED: 0
+    SYS: 0
+    TARGETTING: 0
+    Ultimate-Active: 'Power Up (1 core power, Protocol): This turn only, gain an additional
+        1d3 actions. These actions must be used this turn or lost. The usual rules
+        apply (you cannot make duplicate actions).'
+    Ultimate-Name: 'Hyperspec Fuel Injectors'
+    Ultimate-Passive: '+1 to any HASE stat.  If you roll a ‘20’ on your d20 for the
+        first roll of any kind on your turn (the actual number 20 on the physical
+        die, before modifiers, sometimes called a ‘natural’ 20) you gain an additional
+        action that you must use before the end of your turn. This passive can only
+        take effect once per turn, and only on your turn.'
+HA-Barbarossa:
+    AGI: -2
+    ARMOR: 2
+    EDEF: 0
+    ENG: 1
+    EVASION: 0
+    HEAT-CAP: 0
+    HP: 0
+    HULL: 0
+    MOUNT1: 'Apocalypse Rail'
+    MOUNT2: Flex
+    MOUNT3: N/a
+    Name: 'HA Barbarossa'
+    SIZE: 3.0
+    SP: 6
+    SPEED: 0
+    SYS: 0
+    TARGETTING: 0
+    Ultimate-Active: 'Convert to Battery (Action): While this is active, you have
+        the following drawbacks: Your mech is immobilized, cannot directly attack
+        a target within range 5, and can only make attacks with the weapon mounted
+        in your Apocalypse Rail. However, you are immune to knockback and being knocked
+        prone, you cannot be moved by a target smaller than you(such as a grapple),
+        you have resistance to Heat, and the weapon mounted in your Apocalypse Rail
+        can be fired twice with the barrage action instead of just once. If it has
+        the Loading tag, it can still be fired twice, but must be reloaded normally
+        after.'
+    Ultimate-Name: 'Apocalypse Rail'
+    Ultimate-Passive: 'Your mech has the apocalypse rail, a weapon mount that takes
+        a superheavy or smaller sized weapon. You can still mount smaller weapons
+        on the apocalypse rail. You don’t need an additional mount to add superheavy
+        weapon to this mount. This mount is not modifiable(such as from core bonuses).'
+HA-Genghis:
+    AGI: -1
+    ARMOR: 3
+    EDEF: 0
+    ENG: 2
+    EVASION: 0
+    HEAT-CAP: 2
+    HP: 0
+    HULL: 0
+    MOUNT1: Spinal
+    MOUNT2: Flex
+    MOUNT3: N/a
+    Name: 'HA Genghis'
+    SIZE: 1.0
+    SP: 5
+    SPEED: 0
+    SYS: 0
+    TARGETTING: 0
+    Ultimate-Active: 'Expose Power Cells (Action): You ignore the next overheating
+        check you make this challenge. When you would overheat, clear your heat from
+        your gauge as normal, but ignore the check (you don’t take stress either).
+        You vent an enormous cloud of burning matter from your mech, creating a burst
+        3 area centered on your mech. Inside the area, all targets (allied and enemy)
+        count as invisible to everyone except you, and all mechs other than you that
+        enter the area for the first time on their turn or start their turn there
+        take 2 Burn and 2 heat. On the following round, the benefit from the area
+        reduces to heavy cover (which you ignore). On the round after that, it reduces
+        to light cover. On the round after that round, the zone disperses.'
+    Ultimate-Name: 'TBK Sustain Suite'
+    Ultimate-Passive: 'When you lose a point of structure, you immediately clear your
+        heat gauge.'
+HA-Iskander:
+    AGI: 0
+    ARMOR: 1
+    EDEF: 0
+    ENG: 1
+    EVASION: 0
+    HEAT-CAP: 0
+    HP: 0
+    HULL: 0
+    MOUNT1: Heavy
+    MOUNT2: N/a
+    MOUNT3: Flex
+    Name: 'HA Iskander'
+    SIZE: 2.0
+    SP: 7
+    SPEED: 0
+    SYS: 1
+    TARGETTING: 0
+    Ultimate-Active: 'Death Cloud (action): As an action, your mech fires an enormous
+        expanding cloud of micro-mines across the whole battlefield. Any mech on the
+        whole battlefield (or a roughly 50x50x50 area), allied or enemy, that moves
+        more than 1 space must first pass an engineering check. If they fail that
+        check, they take 3 AP explosive damage, but can move normally. If a mech boosts,
+        it automatically takes 3 AP explosive damage (no check allowed). Mechs are
+        aware of the presence of the mines. They last until the end of 3 rounds, counting
+        this one, then deactivate. You do not activate mines from this system.'
+    Ultimate-Name: 'Broad-Sweep Seeder'
+    Ultimate-Passive: 'Your mech cannot activate mines (allied or enemy) or systems
+        that activate once a hostile target comes within range unless it chooses to
+        do soWhen your mech uses a quick action to plant a mine, you may plant up
+        to 2 additional mines in free adjacent spaces as a free action.'
+HA-Napoleon:
+    AGI: 1
+    ARMOR: 0
+    EDEF: 0
+    ENG: 2
+    EVASION: 0
+    HEAT-CAP: 0
+    HP: 0
+    HULL: -1
+    MOUNT1: Flex
+    MOUNT2: Main
+    MOUNT3: N/a
+    Name: 'HA Napoleon'
+    SIZE: 0.5
+    SP: 8
+    SPEED: 0
+    SYS: 0
+    TARGETTING: 0
+    Ultimate-Active: 'Activate Aegis (Action): A shimmering, utterly black field envelops
+        your mech, covering it like a second skin, and taking only a few moments to
+        activate. While this field is active, your mech reduces all damage from any
+        source to 1, though it can still be grabbed, knocked back, pinned, thrown,
+        and affected by other mechs. While this shield is active, your mech can only
+        make the grapple, improvised attack, ram, boost, and stabilize systems actions.
+        It cannot take free actions, reactions, or overcharge, and cannot fly(If flying,
+        it falls). It cannot activate systems, though it can interact normally with
+        the world otherwise. It cannot benefit from, be the target of, or make tech
+        actions (including lock on, etc), and cannot communicate or receive communications
+        with or from anyone except the GM (though hand signals are still possible).
+        The shield lasts until the end of the current challenge, or about an hour
+        otherwise. Damage that goes through reduction (such as paracausal ammo) can
+        still harm the Napoleon while its aegis is up.'
+    Ultimate-Name: 'HA Vantablack Aegis'
+    Ultimate-Passive: 'If you would take half damage from an effect (weapon, system,
+        explosion, etc) on a successful check of any kind, you instead take 0 damage.'
+HA-Saladin:
+    AGI: -1
+    ARMOR: 1
+    EDEF: 0
+    ENG: 2
+    EVASION: 0
+    HEAT-CAP: 0
+    HP: 0
+    HULL: 1
+    MOUNT1: Main
+    MOUNT2: Flex
+    MOUNT3: N/a
+    Name: 'HA Saladin'
+    SIZE: 2.0
+    SP: 7
+    SPEED: 0
+    SYS: 1
+    TARGETTING: 0
+    Ultimate-Active: 'Empower Shield (Action): You can empower this shield, projecting
+        it over an ally in your sensor range. As long as they remain in your sensor
+        range, they also benefit from your shield’s passive. In addition, once per
+        round, when an attack roll misses either you or the target of this shield,
+        you can force the attacker to repeat the attack roll against a target of your
+        choice within range (even a target allied to your attacker). This effect lasts
+        until the end of the current challenge, and you can swap your target by taking
+        this action again.'
+    Ultimate-Name: 'Tachyon Loop'
+    Ultimate-Passive: 'The very first attack made against you in a round is made at
+        +1 difficulty'
+HA-Sherman:
+    AGI: 0
+    ARMOR: 0
+    EDEF: 0
+    ENG: 1
+    EVASION: 0
+    HEAT-CAP: 0
+    HP: 0
+    HULL: 0
+    MOUNT1: Spinal
+    MOUNT2: Main
+    MOUNT3: Flex
+    Name: 'HA Sherman'
+    SIZE: 1.0
+    SP: 5
+    SPEED: 0
+    SYS: 0
+    TARGETTING: 0
+    Ultimate-Active: 'COREBURN Beam (Full Action): As an action, your mech begins
+        to charge this weapon but cannot move or take any other action this turn.
+        Your mech stops charging this weapon if it becomes stunned, shut down, jammed,
+        knocked prone, or any effect that would cause it to be unable to attack (if
+        it is unable to fire, don’t spend the core power). The turn after you start
+        charging this weapon, you may fire it by taking 2 actions again. Choose a
+        line 30 area originating from your mech. All mechs caught in the area must
+        pass an engineering check or take 12d6 energy damage, and half on a successful
+        check. Any obstacles or deployables in the way are hit automatically and this
+        weapon obliterates incidental or light cover, obstacles, non-reinforced walls,
+        etc. After firing this weapon, your mech takes 1d6 heat.'
+    Ultimate-Name: 'Zone Focus Mk IV SOLIDCORE'
+    Ultimate-Passive: 'Your mech mounts the ZFMk IV SOLIDCORE, a powerful energy beam
+        weapon. It doesn’t take a mount. Main Cannon, Ordnance, Line 15, 1d3+1 Energy
+        damage.'
+HA-Tokugawa:
+    AGI: 0
+    ARMOR: 0
+    EDEF: 0
+    ENG: 1
+    EVASION: 0
+    HEAT-CAP: 1
+    HP: 0
+    HULL: 0
+    MOUNT1: Main
+    MOUNT2: Main
+    MOUNT3: Flex
+    Name: 'HA Tokugawa'
+    SIZE: 1.0
+    SP: 6
+    SPEED: 0
+    SYS: 0
+    TARGETTING: 0
+    Ultimate-Active: 'Radiance (Protocol): Choose 1 energy weapon your mech is wielding.
+        If it is a ranged weapon, its range increases by 5, if it is a melee weapon,
+        its reach increases by +1. For the rest of this combat, this weapon also deals
+        +1d6 Burn damage (roll on each attack). However, each time you fire this weapon,
+        you gain +3 heat.'
+    Ultimate-Name: 'Superheated Reactor Feed'
+    Ultimate-Passive: 'While your mech is in the Danger Zone you deal +2 Burn on the
+        first hit with any attack on your turn.'
+HORUS-Balor:
+    AGI: 0
+    ARMOR: 1
+    EDEF: 0
+    ENG: 0
+    EVASION: 0
+    HEAT-CAP: 0
+    HP: 1
+    HULL: 0
+    MOUNT1: Spinal
+    MOUNT2: Main
+    MOUNT3: N/a
+    Name: 'HORUS Balor'
+    SIZE: 2.0
+    SP: 7
+    SPEED: 0
+    SYS: 1
+    TARGETTING: 0
+    Ultimate-Active: 'Hive Frenzy (Protocol): Your swarm goes into a hyper-active
+        mode. You can set your swarm to one of three modes, and swap at the start
+        of your turn as a free action. Hive Shield: 1/round as a reaction, you can
+        gain resistance to all the damage from one attack that just hit you. Hive
+        Repulse:You have resistance to all damage from Smart weapons, and hostile
+        tech actions are made at +1 Difficulty against you. Hive Scour: The damage
+        from your passive increases to 3 AP Kinetic damage.'
+    Ultimate-Name: Hellswarm
+    Ultimate-Passive: 'Any target grappled by your mech or that starts their turn
+        adjacent to your mech takes 2 kinetic damage at the start of your turn.'
+HORUS-Goblin:
+    AGI: 1
+    ARMOR: 0
+    EDEF: 2
+    ENG: 0
+    EVASION: 0
+    HEAT-CAP: 0
+    HP: 0
+    HULL: -2
+    MOUNT1: Flex
+    MOUNT2: N/a
+    MOUNT3: N/a
+    Name: 'HORUS Goblin'
+    SIZE: 0.5
+    SP: 8
+    SPEED: 0
+    SYS: 2
+    TARGETTING: 0
+    Ultimate-Active: 'Your mech targets another adjacent NPC mech the same size or
+        larger that is shut down or destroyed. The targeted mech cannot have the Ultra
+        or Elite tags. Your mech clamps on to that mech and retracts its core systems,
+        becoming like a vestigial blister on that mech. The mech immediately heals
+        to full HP, clears 1 point of stress and structure damage, and clears all
+        heat, though it retains any other damage it has already taken. Your mech’s
+        systems completely consume the other mech’s core systems for a time, granting
+        you total control of your target, even if the other mech’s pilot is still
+        alive. While you control your target, you take action as that NPC would, counting
+        as a friendly NPC that has already acted in the turn you take control. While
+        controlling your target, your GOBLIN can be targeted and damaged separate
+        from the mech it’s controlling. It beneﬁts from light cover while attached.
+        If you take 1 point of structure damage, your mech detaches and control is
+        immediately lost. Otherwise you can control the target up to a maximum of
+        a ten minutes, when your target is destroyed, or when you deactivate this
+        system. You can even control your target if the other pilot is missing or
+        dead.'
+    Ultimate-Name: 'Devouring Code'
+    Ultimate-Passive: 'Gain +1 Accuracy on all Tech Attacks.'
+HORUS-Gorgon:
+    AGI: 0
+    ARMOR: 0
+    EDEF: 1
+    ENG: 0
+    EVASION: 0
+    HEAT-CAP: 0
+    HP: 0
+    HULL: 0
+    MOUNT1: Main
+    MOUNT2: Auxiliary
+    MOUNT3: Flex
+    Name: 'HORUS Gorgon'
+    SIZE: 2.0
+    SP: 7
+    SPEED: 0
+    SYS: 1
+    TARGETTING: 0
+    Ultimate-Active: 'Meta-State Paralysis (Action): Your mech projects a horrifying
+        Basilisk pattern, incredibly harmful to NHPs, software, and hard to look at
+        even for humans (typically causes 5-8 hours of headaches and intense subdermal
+        bleeding, can often cause blood vessels to pop in the eye). Until the end
+        of the current combat, any target that attacks either you or any ally within
+        range 5 of you must first pass a systems(or GRIT) check or be stunned until
+        the end of their next turn. A target can only be stunned once by this effect
+        per combat.'
+    Ultimate-Name: 'Harnessed Basilisk'
+    Ultimate-Passive: 'Any attacker that rolls a 1 or 2 on their d20 roll to attack
+        you is automatically stunned until the end of their next turn (their attack
+        also automatically misses).'
+HORUS-Hydra:
+    AGI: 0
+    ARMOR: 0
+    EDEF: 0
+    ENG: -1
+    EVASION: 0
+    HEAT-CAP: 0
+    HP: 0
+    HULL: 1
+    MOUNT1: Main
+    MOUNT2: Spinal
+    MOUNT3: Flex
+    Name: 'HORUS Hydra'
+    SIZE: 2.0
+    SP: 7
+    SPEED: 0
+    SYS: 1
+    TARGETTING: 0
+    Ultimate-Active: 'OROCHI mode (Quick Action): Your mech has been heavily modified,
+        and a large number of its subsystems and structure are controlled by semi-autonomous
+        drones. Choose up to 3 weapons or systems on your mech. As an action, these
+        parts of your mech can split off and become autonomous units. They are size
+        1, have evasion equal to your evasion, have hp equal to your HP, 1 structure,
+        and heat capacity equal to your heat capacity. They inherit your speed and
+        other mech stats. On your turn, they can move, take the activate system, and
+        skirmish actions, but no other actions. If they overheat or go to 0HP, they
+        are destroyed, and if they are destroyed, the associate weapon or system is
+        also destroyed (it can be repaired as normal during a rest). You can re-unite
+        any parts of your mech as an action, but inherit any heat they currently have,
+        and cannot deploy them again without taking the special action as part of
+        this system. '
+    Ultimate-Name: 'OROCHI Disarticulation'
+    Ultimate-Passive: 'Your NHP partitions itself into many cloned personalities that
+        can help you with maintaining your mech. Once per round, you can re-roll any
+        systems or engineering check of your choice, but must keep the second result.'
+HORUS-Manticore:
+    AGI: 0
+    ARMOR: 2
+    EDEF: 0
+    ENG: 1
+    EVASION: 0
+    HEAT-CAP: 0
+    HP: 0
+    HULL: 0
+    MOUNT1: Spinal
+    MOUNT2: Flex
+    MOUNT3: N/a
+    Name: 'HORUS Manticore'
+    SIZE: 1.0
+    SP: 5
+    SPEED: 0
+    SYS: 1
+    TARGETTING: 0
+    Ultimate-Active: 'Active (Protocol): Your mech crackles with energy. For the rest
+        of this combat your mech has resistance to heat from any source (round up).
+        Set aside a charge die, starting at 1. When you take heat (from any source,
+        even self), increase the die by 1, to a maximum of 6. You can discharge the
+        accumulated energy in a burst 2 area around you by taking an action to do
+        so. This deals 1d6 energy damage to all targets caught inside, allied or enemy,
+        per charge on the die, and affected mechs can pass a system check to halve
+        the damage. This system then deactivates for the remainder of combat, including
+        its passive.'
+    Ultimate-Name: 'Charged Exoskeleton'
+    Ultimate-Passive: 'When you take heat damage from any source, one target in range
+        3 of you takes 1 energy damage.'
+HORUS-Minotaur:
+    AGI: 0
+    ARMOR: 0
+    EDEF: 0
+    ENG: 0
+    EVASION: 0
+    HEAT-CAP: 0
+    HP: 0
+    HULL: 0
+    MOUNT1: Heavy
+    MOUNT2: Flex
+    MOUNT3: N/a
+    Name: 'HORUS Minotaur'
+    SIZE: 1.0
+    SP: 8
+    SPEED: 0
+    SYS: 2
+    TARGETTING: 0
+    Ultimate-Active: 'Maze (2 actions): You hurl an opposing mech’s systems into a
+        metaphysical information trap so tangled that it can do nothing but try and
+        escape it. Choose a target of your choice that can be affected by tech actions
+        within your sensor range. That target must pass a systems check with 4 difficulty
+        or become stunned as its systems start to figure out the trap you have thrown
+        it in. At the start of its next turn (and on subsequent turns), it can repeat
+        this check, this time with only 3 difficulty, ending the stun on itself on
+        a success. It gains +1 accuracy on its check each time it repeats this check
+        until it is successful. Otherwise it remains stunned.'
+    Ultimate-Name: 'Metafold Maze'
+    Ultimate-Passive: 'You can spend a quick action after any successful hostile tech
+        action to cripple your target until the start of your next turn. If your target
+        is already crippled, they become immobilized. If they are already immobilized,
+        they are stunned until the end of your next turn. This passive can only stun
+        the same target once per combat, but cripple or immobilize them any number
+        of times'
+HORUS-Pegasus:
+    AGI: 0
+    ARMOR: 0
+    EDEF: 0
+    ENG: 0
+    EVASION: 0
+    HEAT-CAP: 0
+    HP: 0
+    HULL: -1
+    MOUNT1: Heavy
+    MOUNT2: Flex
+    MOUNT3: Flex
+    Name: 'HORUS Pegasus'
+    SIZE: 1.0
+    SP: 7
+    SPEED: 0
+    SYS: 1
+    TARGETTING: 0
+    Ultimate-Active: 'Unshackle Ushabti: For the rest of this combat, you can fire
+        your omnigun up to 3 times per turn instead of just once.'
+    Ultimate-Name: 'Ushabti Omnigun'
+    Ultimate-Passive: 'Your mech mounts an omnigun, a weapon and piece of experimental
+        hardware so advanced that it does not classify as any weapon weight or type
+        (so it cannot be modified or benefit from talents). It also doesn’t take a
+        mount. Once, at any point during your turn, you can hit a target in range
+        30 with the omnigun as a free action, dealing 1 AP kinetic damage. This does
+        not count as an attack, cannot miss, does not need line of sight, ignores
+        cover, and this damage cannot be reduced by any means.'
+IPS-N-Blackbeard:
+    AGI: 1
+    ARMOR: 1
+    EDEF: 0
+    ENG: -1
+    EVASION: 0
+    HEAT-CAP: 0
+    HP: 0
+    HULL: 2
+    MOUNT1: Heavy
+    MOUNT2: Auxiliary
+    MOUNT3: Flex
+    Name: 'IPS-N Blackbeard'
+    SIZE: 1.0
+    SP: 5
+    SPEED: 0
+    SYS: -1
+    TARGETTING: 0
+    Ultimate-Active: 'Omni-Harpoon (1 core power, Action): This one-shot system fires
+        harpoon-like grapples at any number of targets within line of sight and within
+        range 5. Those targets must pass a hull check with 1 difficulty or be knocked
+        prone and pulled adjacent to your mech, or as far as possible towards your
+        mech without being obstructed. All targets are then immobilized until the
+        end of your next turn'
+    Ultimate-Name: 'Assault Grapples'
+    Ultimate-Passive: 'As a full action, your mech can fire the assault grapples at
+        any surface in range 8 (even vertical or overhanging), pulling your mech in
+        a straight line to that location as long as your mech is not obstructed during
+        that movement. Your mech can hold on to that location as long as it remains
+        immobile. Your mech can also use this system to attempt to grapple and maintain
+        a grapple on any target within range 8, instead of being adjacent to that
+        target.'
+IPS-N-Drake:
+    AGI: -2
+    ARMOR: 3
+    EDEF: 0
+    ENG: -1
+    EVASION: 0
+    HEAT-CAP: 0
+    HP: 0
+    HULL: 1
+    MOUNT1: Heavy
+    MOUNT2: Main
+    MOUNT3: Flex
+    Name: 'IPS-N Drake'
+    SIZE: 2.0
+    SP: 5
+    SPEED: 0
+    SYS: 0
+    TARGETTING: 0
+    Ultimate-Active: 'Fortress (1 core power, Protocol): When you activate this protocol,
+        you plant your shield and deploy stabilizers, becoming more like a fortified
+        emplacement than a mech. While this system is active, your mech is Immobilized,
+        though you can still rotate and aim in any direction. You are immune to being
+        knocked back, rammed, grappled, or involuntarily moved by any reason. Two
+        line 2 sections of heavy cover unfold, drawn from your mech in any direction.
+        Your mech grants heavy cover for allied mechs while this system is active,
+        has heavy cover itself, has resistance to damage from blast, line, and cone
+        attacks, and also grants this resistance to any mechs making use of its cover.
+        This system can be deactivated at the start of your turn but cannot be reactivated
+        without more core power.'
+    Ultimate-Name: 'IPS-N Argonaut Shield'
+    Ultimate-Passive: 'This huge, plated shield can be used to bash enemies. It counts
+        as its own mount (doesn’t take mount space). Main Melee, Threat 1, 1d6 Kinetic
+        Damage.'
+IPS-N-Lancaster:
+    AGI: 0
+    ARMOR: 0
+    EDEF: 0
+    ENG: 1
+    EVASION: 0
+    HEAT-CAP: 0
+    HP: 0
+    HULL: 1
+    MOUNT1: Flex
+    MOUNT2: Flex
+    MOUNT3: N/a
+    Name: 'IPS-N Lancaster'
+    SIZE: 1.0
+    SP: 8
+    SPEED: 0
+    SYS: 0
+    TARGETTING: 0
+    Ultimate-Active: 'Supercharger (1 core power, quick action): You fire your drone
+        at a friendly mech in range, where it clamps onto the target. For the rest
+        of this combat, you take 1 heat at the start of your turn, but the targeted
+        mech gains +1 Accuracy on all attacks and checks, and is immune to the impaired,
+        jammed, crippled, and immobilized conditions. This effect ends if you or the
+        targeted mech is stunned or shut down. While this system is active, you cannot
+        fire your drone as a weapon (using the passive of this system).'
+    Ultimate-Name: 'Latch Drone'
+    Ultimate-Passive: 'You can send out this companion drone as a weapon system with
+        the following profile. It counts as its own mount and doesn’t take up regular
+        mount space. Auxillary Launcher, Range 8. Make a Targeting roll vs Evasion
+        8 and target any friendly mech in range(still take cover and LoS into account).
+        On hit, the target may spend up to 1 repair to heal.'
+IPS-N-Nelson:
+    AGI: 1
+    ARMOR: 0
+    EDEF: 0
+    ENG: 0
+    EVASION: 0
+    HEAT-CAP: 0
+    HP: 0
+    HULL: 1
+    MOUNT1: Main
+    MOUNT2: Main
+    MOUNT3: Flex
+    Name: 'IPS-N Nelson'
+    SIZE: 1.0
+    SP: 5
+    SPEED: 1
+    SYS: 0
+    TARGETTING: 0
+    Ultimate-Active: 'Spool Up PMD (1 core power, Protocol): Once activated, this
+        system remains active until the rest of the current challenge. While its active,
+        the free movement from this system’s passive increases to 5.'
+    Ultimate-Name: 'Perpetual Momentum Drive'
+    Ultimate-Passive: 'Before or after you make any skirmish or barrage action, you
+        can move 1 in any direction. This movement doesn’t provoke reactions, ignores
+        engagement, and doesn’t count against your movement for the turn.'
+IPS-N-Raleigh:
+    AGI: 0
+    ARMOR: 0
+    EDEF: 0
+    ENG: 0
+    EVASION: 0
+    HEAT-CAP: 0
+    HP: 0
+    HULL: 1
+    MOUNT1: Heavy
+    MOUNT2: Main
+    MOUNT3: Aux
+    Name: 'IPS-N Raleigh'
+    SIZE: 1.0
+    SP: 5
+    SPEED: 0
+    SYS: 0
+    TARGETTING: 0
+    Ultimate-Active: 'Thunder God (1 core power, Protocol): Until the end of the current
+        challenge, if you didn’t fire your M35 this round, it gains 1 more round in
+        the chamber at the end of the round (you can use a d6 to track this), starting
+        at 1. When you next fire the weapon, it fires all chambers, for 3 damage per
+        chamber, then loads 1 round. The M35 has six chambers, for a maximum of 18
+        damage. If 3 or more chambers are fired at once, this weapon gains the AP
+        tag and any target struck must pass a hull check or be knocked prone.'
+    Ultimate-Name: 'M-35 MJOLNIR cannon'
+    Ultimate-Passive: 'Gain the M35 cannon, it doesn''t take a mount. Auxillary, CQB,
+        Range 5, Threat 3, 3 Kinetic Damage.'
+IPS-N-Tortuga:
+    AGI: 0
+    ARMOR: 2
+    EDEF: 0
+    ENG: 0
+    EVASION: 0
+    HEAT-CAP: 0
+    HP: 0
+    HULL: 2
+    MOUNT1: Spinal
+    MOUNT2: Flex
+    MOUNT3: N/a
+    Name: 'IPS-N Tortuga'
+    SIZE: 2.0
+    SP: 6
+    SPEED: 0
+    SYS: 1
+    TARGETTING: 0
+    Ultimate-Active: 'Hyper-Reflex Mode (1 core power, Protocol): For the rest of
+        this combat, your threat with ranged weapons increases to 5 if it was less
+        than 5. You can make one additional overwatch attack per round, and any target
+        struck by your overwatch attacks is immediately immobilized until the start
+        of its next turn.'
+    Ultimate-Name: SENTINEL
+    Ultimate-Passive: 'Gain +1 Accuracy to all overwatch attacks.'
+IPS-N-Vlad:
+    AGI: 0
+    ARMOR: 2
+    EDEF: 0
+    ENG: -2
+    EVASION: 0
+    HEAT-CAP: 0
+    HP: 0
+    HULL: 1
+    MOUNT1: Spinal
+    MOUNT2: Flex
+    MOUNT3: Flex
+    Name: 'IPS-N Vlad'
+    SIZE: 1.0
+    SP: 4
+    SPEED: 0
+    SYS: 0
+    TARGETTING: 0
+    Ultimate-Active: 'Tormentor Spines (1 core power, Protocol): Until the end of
+        the current challenge, you gain resistance to all damage from within range
+        3, and your damage from this armor’s passive increases to 3 AP kinetic damage.'
+    Ultimate-Name: 'SHRIKE armor'
+    Ultimate-Passive: 'When you are attacked by a non-grunt target within range 3,
+        your attacker takes 1 AP kinetic damage before they attack'
+SSC-Black-Witch:
+    AGI: 1
+    ARMOR: 0
+    EDEF: 0
+    ENG: 0
+    EVASION: 0
+    HEAT-CAP: 0
+    HP: 0
+    HULL: 0
+    MOUNT1: Auxiliary
+    MOUNT2: Flex
+    MOUNT3: N/a
+    Name: 'SSC Black Witch'
+    SIZE: 1.0
+    SP: 8
+    SPEED: 0
+    SYS: 1
+    TARGETTING: 0
+    Ultimate-Active: 'Mag Field (1 core power): As an action, activate the mag field
+        to create a Blast 4 area with at least one square adjacent to you. Inside,
+        ranged weapon attacks that deal kinetic or explosive damage cannot penetrate
+        into or out of the field and deal no damage (keep track of them). The field
+        is difficult terrain for all mechs and vehicles made at least partly of metal.
+        Targets that start their turn in the Mag Field or enter it for the first time
+        must make a successful Engineering chec with 1 difficulty or be pulled to
+        the center and immobilized. You can repeat this check at the start of your
+        turns while trapped this way, and can move normally on a success, otherwise
+        you remain trapped. The field persists for 3 round after deployment. At the
+        end of the third round, any attacks fired into the field resume trajectory
+        towards the center of the zone; the GM rolls a single attack roll versus each
+        target still inside the zone with +1 targeting per attack fired into the zone
+        (max +6). Successful hits deal 1d6 Kinetic per attack (cumulative). Then,
+        the zone deactivates.'
+    Ultimate-Name: 'Mag Projector'
+    Ultimate-Passive: 'Once per turn, you can attempt to parry any attack that hits
+        your mech as a reaction. Roll a d6; on a 6, reduce the damage from that attack
+        to 0, and deal 1d6 heat back to your attacker.'
+SSC-Death-s-Head:
+    AGI: 2
+    ARMOR: 0
+    EDEF: 0
+    ENG: 0
+    EVASION: 0
+    HEAT-CAP: 0
+    HP: 0
+    HULL: -2
+    MOUNT1: Heavy
+    MOUNT2: Auxiliary
+    MOUNT3: Flex
+    Name: 'SSC Death''s Head'
+    SIZE: 1.0
+    SP: 6
+    SPEED: 0
+    SYS: 0
+    TARGETTING: 1
+    Ultimate-Active: 'Activate Neural Shunt (1 core power, action): Gain this protocol:
+        Transcranial Ego Ballistics (Protocol): ntegrated combat routines make your
+        next weapon attack gain the seeking tag, its maximum range increases by +10,
+        and it automatically hits, no matter how difficult the shot.'
+    Ultimate-Name: 'Precognitive Targeting'
+    Ultimate-Passive: 'You can re-roll the first attack roll you make each round,
+        but must keep the second result.'
+SSC-Dusk-Wing:
+    AGI: 1
+    ARMOR: 0
+    EDEF: 0
+    ENG: -1
+    EVASION: 0
+    HEAT-CAP: 0
+    HP: 0
+    HULL: -1
+    MOUNT1: Auxiliary
+    MOUNT2: Auxiliary
+    MOUNT3: Flex
+    Name: 'SSC Dusk Wing'
+    SIZE: 0.5
+    SP: 7
+    SPEED: 0
+    SYS: 1
+    TARGETTING: 0
+    Ultimate-Active: 'Engage Flicker Drives (1 core power, Protocol): For the rest
+        of this challenge, your mech can Hover when it moves or boosts (it can fly,
+        doesn''t need to move, can move without going in a straight line, and doesn''t
+        need to land). During your turn, your mech counts as Invisible.'
+    Ultimate-Name: 'EX Hover Propulsion System'
+    Ultimate-Passive: 'When your mech moves or boosts, it can Fly.'
+SSC-Metalmark:
+    AGI: 1
+    ARMOR: 0
+    EDEF: 0
+    ENG: 0
+    EVASION: 0
+    HEAT-CAP: 0
+    HP: 0
+    HULL: 0
+    MOUNT1: Heavy
+    MOUNT2: Auxiliary
+    MOUNT3: Flex
+    Name: 'SSC Metalmark'
+    SIZE: 1.0
+    SP: 5
+    SPEED: 0
+    SYS: 0
+    TARGETTING: 0
+    Ultimate-Active: 'Cloaking Protocol (1 core power): Until the end of current combat,
+        or when you deactivate this module at the start of your turn, you become invisible.
+        If you take damage or roll an overheating roll, you lose the benefit of this
+        module until the start of your next turn. No other action will deactivate
+        it.'
+    Ultimate-Name: 'Tactical Cloak'
+    Ultimate-Passive: 'You are invisible while moving or boosting, but reappear once
+        you finish your movement.'
+SSC-Monarch:
+    AGI: 1
+    ARMOR: 1
+    EDEF: 0
+    ENG: 0
+    EVASION: 0
+    HEAT-CAP: 0
+    HP: 0
+    HULL: -1
+    MOUNT1: Spinal
+    MOUNT2: Main
+    MOUNT3: Flex
+    Name: 'SSC Monarch'
+    SIZE: 2.0
+    SP: 5
+    SPEED: 0
+    SYS: 1
+    TARGETTING: 0
+    Ultimate-Active: 'Divine Punishment (1 core power, Full Action): You unload your
+        Avenger silos. All targets of your choice on the battlefield (or range 50)
+        must pass an agility check with 1 difficulty or take 1d6+3 explosive damage,
+        and half on a successful save. You do not need line of sight to any targets,
+        and the self-guiding missiles can perfectly seek any target as long as they
+        can trace a path. Once used, you cannot benefit from the passive of this system
+        until you take a full repair'
+    Ultimate-Name: 'Avenger SIlos'
+    Ultimate-Passive: 'When you score a critical hit with a Launcher weapon, a target
+        different to your first target in range and LoS takes 2 Explosive damage,
+        no roll required.'
+SSC-Mourning-Cloak:
+    AGI: 1
+    ARMOR: 0
+    EDEF: 0
+    ENG: 0
+    EVASION: 2
+    HEAT-CAP: 0
+    HP: 0
+    HULL: -1
+    MOUNT1: Flex
+    MOUNT2: Flex
+    MOUNT3: N/a
+    Name: 'SSC Mourning Cloak'
+    SIZE: 1.0
+    SP: 6
+    SPEED: 0
+    SYS: -1
+    TARGETTING: 0
+    Ultimate-Active: 'Stabilize Singularity (1 core power, Protocol): Until the end
+        of this challenge, when you move or boost, you instead teleport up to the
+        same distance'
+    Ultimate-Name: 'EX Slipstream Module'
+    Ultimate-Passive: 'This dangerous and experimental module is a miniaturized starship
+        nearlight drive. You can use it instead of moving or taking the boost action.
+        When you use it, roll 3d6. You can teleport to a point within that range around
+        you as long as there is space for your mech. You don’t have to be able to
+        see this point, but if you attempt to teleport to an already occupied space
+        (by terrain, another mech, etc), the teleport fails and you take 2d6 kinetic
+        damage. If you roll triples for this system, your mech disappears and does
+        not re-appear, either indefinitely or until your party rests (up to you).'
+SSC-Swallowtail:
+    AGI: 2
+    ARMOR: 0
+    EDEF: 0
+    ENG: 0
+    EVASION: 0
+    HEAT-CAP: 0
+    HP: 0
+    HULL: -2
+    MOUNT1: Auxiliary
+    MOUNT2: Flex
+    MOUNT3: N/a
+    Name: 'SSC Swallowtail'
+    SIZE: 1.0
+    SP: 8
+    SPEED: 1
+    SYS: 1
+    TARGETTING: 0
+    Ultimate-Active: 'Prophetic Interjection (1 core power): Until the end of the
+        current challenge, once per round, as a reaction when an allied target you
+        can see is damaged by another target you can see, you can  ake a systems check.
+        On success, the attack hitting was actually a simulation that your mech predicted.
+        Your ally gains resistance to all the damage from that attack, and your ally
+        can move 3 in any direction to where they ‘actually’ were. This movement does
+        not provoke reactions and ignores engagement.'
+    Ultimate-Name: 'Cloudscout TACSIM swarms'
+    Ultimate-Passive: 'Gain +1 Accuracy to all agility checks against effects you
+        can see or are aware of. If you can’t see a target when it attacks you (it’s
+        invisible or hiding, for example), you don’t gain this benefit.'

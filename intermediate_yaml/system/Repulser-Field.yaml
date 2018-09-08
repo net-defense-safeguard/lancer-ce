@@ -1,0 +1,9 @@
+Cost: 1
+Effect: 'You can use this system as a quick action to emit a burst 2 pulse around
+  your mech. Targets caught in the area (allied or enemy) must pass a hull check or
+  be knocked back directly away from you 3 spaces. The pulse then detonates any mines
+  or explosives caught in the field.'
+Keywords: 'Quick Action'
+License: 'HA Iskander I'
+Name: 'Repulser Field'
+Unique: true

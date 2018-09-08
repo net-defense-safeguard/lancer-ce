@@ -1,0 +1,8 @@
+Description: '1 Use: ‘Patch’ is a catch all term for sprayable medi-gel, instant-acting
+  medical patches, or other first aid gear. Using a patch takes two actions and restores
+  ½ your pilot’s HP (round up). It can be used on another adjacent pilot for the same
+  effects, and although it can heal a down and out pilot, it won’t bring them back
+  to consciousness. Has no effect on mechs'
+License: GMS
+Name: Patch
+Rarity: 0

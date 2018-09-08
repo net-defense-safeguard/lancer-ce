@@ -1,0 +1,290 @@
+Ambrosia-Reservoir:
+    Description: 'Typically collar-mounted, an Ambrosia Reservoir carries a two-week
+        complement of flavored or unflavored Ambrosia, a fuel-paste that can keep
+        pilots fed and hydrated in emergency situation.'
+    License: GMS
+    Name: 'Ambrosia Reservoir'
+    Rarity: 0
+Antiphoton-Visor:
+    Description: 'Flash/light protection, commonly found among breach teams, solarforward
+        operators. Effective against flash weapons, intense UV light, and incidental
+        charge from energy weapons.'
+    License: GMS
+    Name: 'Antiphoton Visor'
+    Rarity: 0
+Camo-Cloth:
+    Description: 'A 5x5 square of reactive material that slowly shifts to reflect
+        the environment around it. The effect takes about 10 seconds to complete,
+        and makes anything hidden underneath very hard to spot.'
+    License: GMS
+    Name: 'Camo Cloth'
+    Rarity: 0
+Concussion-Grenade:
+    Description: '2 Uses: Grenades that detonate for a burst of concussive energy
+        and a bright flash on impact. A pilot can throw a concussion grenade at any
+        point in range 5 as an action. It detonates on impact in a blast 1 area. Make
+        an attack roll against each target caught in the area, on hit, the target
+        is stunned until the start of your next turn. Does not affect mechs or targets
+        larger than human-sized.'
+    License: GMS
+    Name: 'Concussion Grenade'
+    Rarity: 0
+Corrective:
+    Description: '1 Use: This clear, plastic-sheet like medical deployable can be
+        attached to severely wounded pilot, where it instantly begins stabilizing
+        them, injecting medicine, and deploying nanites to stitch shut wounds. A corrective
+        can be applied to any pilot that’s Down and Out to instantly bring them back
+        to consciousness at ½ HP as if they had taken a rest.'
+    License: GMS
+    Name: Corrective
+    Rarity: 0
+Dispersal-Dropshield:
+    Description: 'This shield can be deployed as an action in a free adjacent space.
+        Once deployed, it creates a burst 2 zone around it. Ranged attacks against
+        all non-mech targets size ½ or smaller in the zone suffer from +1 difficulty.
+        The shield deactivates after the current challenge and must recharge on a
+        full repair.'
+    License: HA
+    Name: 'Dispersal Dropshield'
+    Rarity: 2
+Dream-Projector:
+    Description: 'This small, puck-like system can be deployed or thrown to a point
+        within range 4 as an action and remotely activated as another action. While
+        deployed and active, it can project extremely convincing holographic images
+        within 2 spaces of its location of nearly any size that could fit in that
+        space. If inspected closely, a Tech or Swindle pilot action might be required
+        to maintain the illusion.'
+    License: HORUS
+    Name: 'Dream Projector'
+    Rarity: 1
+External-Dataplating:
+    Description: 'Linked jewelry/faceplates that allow sub-vocal communication and
+        augmented reality. Dataplates can quickly translate many languages, and anyone
+        with a dataplate can talk to any other person with a dataplate without vocalizing,
+        creating something eerily similar to telepathy.'
+    License: HA
+    Name: 'External Dataplating'
+    Rarity: 1
+Extra-Rations:
+    Description: 'Pilot rations are typically no better than their nautical antecedents
+        - hard tack and nutritious paste. It’s not uncommon for pilots to store extra
+        food or luxuries such as chocolate, coffee, alcohol, or canned or dried goods
+        from their home world'
+    License: GMS
+    Name: 'Extra Rations'
+    Rarity: 0
+Flexsuit:
+    Description: 'A strong, under-clothing suit that recycles water, generates nutrients,
+        and adapts very rapidly to hostile environs, keeping its wearer in a state
+        of stability and extending their survivability. Very good for colonists adapting
+        to a new environs.'
+    License: HA
+    Name: Flexsuit
+    Rarity: 1
+Fragmentation-Grenade:
+    Description: '2 Uses: A pilot can throw a frag grenade at any point in range 5
+        as an action. It detonates on impact in a blast 1 area. Make an attack roll
+        against each target caught in the area, on hit, it deals 2 explosive damage.'
+    License: GMS
+    Name: 'Fragmentation Grenade'
+    Rarity: 0
+Handheld-Printer:
+    Description: 'A miniaturized version of the much larger Union printers, can make
+        simple objects out of a flexible and durable plastic as long as you have the
+        pattern chip for them.'
+    License: GMS
+    Name: 'Handheld Printer'
+    Rarity: 0
+Hold-Lock-Nonlethal:
+    Description: 'This mine can be planted in a free adjacent space as an action,
+        and detonated remotely as an action. It can also be set to detonate once any
+        target moves adjacent to it. Once detonated, any target caught in a burst
+        1 zone around the mine is stunned and immune to all damage until the end of
+        their next turn. Mechs cannot be affected.'
+    License: HA
+    Name: 'Hold/Lock Nonlethal'
+    Rarity: 1
+Infoskin:
+    Description: 'This reactive, synthetic polymer bonds easily to real skin and hair.
+        It responds to electronic signals and can rapidly change color, texture, or
+        even contort or distort, allowing a wearer to make minor changes in their
+        appearance such as facial features, hair color, or makeup patterns with a
+        linked program.'
+    License: SSC
+    Name: Infoskin
+    Rarity: 1
+K-Cal-Wafer:
+    Description: 'Provides a full day’s worth of sustenance in compact form. Nobody
+        can vouch for the taste.'
+    License: IPS-N
+    Name: 'K-Cal Wafer'
+    Rarity: 1
+Lifesaver:
+    Description: 'A personal transponder and vacuum movement device, in case you get
+        spaced. The lifesaver compacts to a tiny pack that can be strapped on the
+        body, provides good EVA movement, and once deployed has power for several
+        days.'
+    License: IPS-N
+    Name: Lifesaver
+    Rarity: 1
+Mag-clamps:
+    Description: 'These clamps attach easily onto any metal surface, giving good maneuverability
+        in zero-g or when repairing mechs. Can be fitted to boots.'
+    License: GMS
+    Name: Mag-clamps
+    Rarity: 0
+Nanite-Spray:
+    Description: 'This spray paint can be sprayed on any surface. It is invisible
+        to the naked eye but can be used to transmit a simple message or limited data
+        packets when scanned'
+    License: GMS
+    Name: 'Nanite Spray'
+    Rarity: 0
+Null-Rad-Caps:
+    Description: 'Anti-radiation medication for extended interstellar trips. If taken
+        in concentrated form, a pilot can pass through areas of high or even deadly
+        radiation for around an hour, with relative safety.'
+    License: IPS-N
+    Name: 'Null-Rad Caps'
+    Rarity: 1
+Omnihook:
+    Description: 'A bulky, miniaturized, portable field omninet terminal that allows
+        for communication, data transfer, and limited hotspotting. Very valuable.
+        Most mech teams have at least one of these, mounted or carried by a designated
+        operator. Tuning an omnihook requires a high degree of skill.'
+    License: GMS
+    Name: Omnihook
+    Rarity: 0
+Panacea:
+    Description: 'This fast healing injectable derived from the Sylph protects its
+        host from disease and promotes rapid healing. When injected as an action,
+        heals a pilot to full HP, but the shock means a pilot cannot take any action
+        other than to move on their following turn.'
+    License: SSC
+    Name: Panacea
+    Rarity: 3
+Patch:
+    Description: '1 Use: ‘Patch’ is a catch all term for sprayable medi-gel, instant-acting
+        medical patches, or other first aid gear. Using a patch takes two actions
+        and restores ½ your pilot’s HP (round up). It can be used on another adjacent
+        pilot for the same effects, and although it can heal a down and out pilot,
+        it won’t bring them back to consciousness. Has no effect on mechs'
+    License: GMS
+    Name: Patch
+    Rarity: 0
+Personal-Drone:
+    Description: 'A small, non-combat drone. Fairly noisy, but can fly with good maneuverability
+        up to half a mile without losing signal and can relay audio and visual information.'
+    License: GMS
+    Name: 'Personal Drone'
+    Rarity: 0
+Pilot-Gear:
+    Description: "-"
+    License: "-"
+    Name: 'Pilot Gear'
+    Rarity: 0
+Player-Two:
+    Description: 'With this implant, you can hand complete control of your body’s
+        motor functions over to an NHP, allowing you to sleep, rest, or relax while
+        it performs tasks. It’s not skilled enough to pilot a mech in combat or perform
+        very complex tasks, but it can pilot your mech out of combat and perform certain
+        tasks or work such as cooking, administrative work, data entry, mech repair,
+        piloting a ship or driving, or other mundane tasks. It can also imitate you
+        and your personality fairly well, though not to a degree that someone who
+        knows you well would be fooled in the slightest.'
+    License: HORUS
+    Name: Player_Two
+    Rarity: 2
+Prosocollar:
+    Description: 'A collar-like device that fits snugly around the mech and projects
+        a holographic image over your face and head. The collar can change your voice
+        and scramble or change your appearance. It doesn’t stand up to close inspection,
+        but it’s very easy to fool electronic systems.'
+    License: HORUS
+    Name: Prosocollar
+    Rarity: 1
+Sleep-Suit:
+    Description: 'Once activated, the suit can put an individual into a state of human
+        hibernation for 3 hours and up to 6 months, lowering their vital signs to
+        almost nothing, relieving them of the need for food, air, or sleep, and halting
+        the process of any diseases. During the first 10 minutes, the suit extrudes
+        a hardened polymer around the sleeper, protecting them from impact and making
+        them resistant to all damage.'
+    License: HA
+    Name: 'Sleep Suit'
+    Rarity: 1
+Sleeping-Bag:
+    Description: 'Compact enough to fit in a mech cockpit, highly resistant to changes
+        in temperature. Some mech pilots swear by them as emergency fire protection'
+    License: GMS
+    Name: 'Sleeping Bag'
+    Rarity: 0
+Smart-Scope:
+    Description: 'A powerful electronic scope that can give good vision up to two
+        miles away, automatically adjusts its reticle for wind, gravity, and pressure.
+        Can be paired with other thermal, optical, or simulated-vision devices to
+        allow for more precise targeting. Can project its FoV and all data to a user
+        or networked user’s HUD.'
+    License: GMS
+    Name: 'Smart Scope'
+    Rarity: 0
+Sound-System:
+    Description: 'Though not strictly necessary, many mech pilots hook up internal
+        speakers to give them a clear line to their compatriots during combat, or
+        simply play music'
+    License: GMS
+    Name: 'Sound System'
+    Rarity: 0
+Stims:
+    Description: '3 Uses: These chemical stimulants are sometimes administered automatically
+        by built-in injectors in a pilot’s suit, or even their body. Choose one when
+        you take a stim: Kick: Keeps a pilot awake and alert for up to 30 hours. Freeze:
+        Keeps a pilot calm and emotionally stable, deadens fear or other strong reactions.
+        Juice: Heightens senses, alertness, dispels fatigue, and shortens reaction
+        times. Known to occasionally provoke rage in some users. Uncontrolled use
+        of any stims can be addictive and dangerous to health in the long term and
+        is a problem for some pilots.'
+    License: GMS
+    Name: Stims
+    Rarity: 0
+Subjectivity-Enhancement-Suite:
+    Description: 'Cybernetic implants that allow you to hack without gear or a rig.
+        While you have these implants, you can extrude cables or ports from within
+        your body to plug in and experience an alternate reality interface that provides
+        full interactivity and omninet access.'
+    License: HORUS
+    Name: 'Subjectivity Enhancement Suite'
+    Rarity: 1
+Tertiary-Arm:
+    Description: 'A powered third arm, mounted on a bracket on the hardsuit. Can be
+        equipped with a manipulator to allow for fine motor control, fitted with a
+        weapon to allow for greater combat efficacy, or a specialty tool. It is powered,
+        and controlled via the same neurological bridge processes that lets hardsuits
+        respond to user input.'
+    License: GMS
+    Name: 'Tertiary Arm'
+    Rarity: 0
+Thermal-Charge:
+    Description: '1 Use: This charge can be planted on any free space for two actions,
+        and detonated remotely as an action. Once detonated, it explodes in a blast
+        1 area. Attack all targets in the area, aim vs evasion, for 3 AP energy damage.
+        This deals double damage to objects such as doors, walls, and automatically
+        hits them.'
+    License: GMS
+    Name: 'Thermal Charge'
+    Rarity: 0
+Vascular-Stabilizers:
+    Description: 'A custom drug cocktail that helps the human body deal with combat-rated
+        gee forces; ensures blood movement to brain, mixed with a suite of anti-nausea
+        and anti-fatigue drugs. When you take them, until the end of the current challenge,
+        you can reroll any Down and Out check you make, though you must choose the
+        second result.'
+    License: IPS-N
+    Name: 'Vascular Stabilizers'
+    Rarity: 2
+Wilderness-Survival-Kit:
+    Description: 'Contains many of the essentials for surviving in a hostile environment
+        - rebreather, water filter, backup environmental suit, bivouac kit, etc'
+    License: GMS
+    Name: 'Wilderness Survival Kit'
+    Rarity: 0

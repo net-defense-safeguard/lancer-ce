@@ -1,0 +1,271 @@
+ASHOKA-Overarmor:
+    Armor: 2
+    Bonuses: 'While wearing this armor, if you would take more than ½ your maximum
+        HP in damage, reduce the damage instead to ½ your maximum HP.'
+    E-defense: 8
+    Evasion: 8
+    Manufacturer: HA
+    Name: 'ASHOKA Overarmor'
+    Rarity: 4
+    Speed: 3
+Acherontia-Panoply:
+    Armor: 1
+    Bonuses: "-"
+    E-defense: 10
+    Evasion: 10
+    Manufacturer: SSC
+    Name: 'Acherontia Panoply'
+    Rarity: 2
+    Speed: 6
+Assault-hardsuit:
+    Armor: 2
+    Bonuses: "-"
+    E-defense: 8
+    Evasion: 8
+    Manufacturer: GMS
+    Name: 'Assault hardsuit'
+    Rarity: 0
+    Speed: 4
+Buckler:
+    Armor: "-"
+    Bonuses: 'While wearing plain clothes (not armor or a hardsuit), as a reaction
+        to taking damage from a single source, you can activate this shield to reduce
+        that damage to 0. This shield must recharge and can be used once every full
+        repair.'
+    E-defense: "-"
+    Evasion: "-"
+    Manufacturer: HA
+    Name: Buckler
+    Rarity: 1
+    Speed: "-"
+CALADBOLG-Mobile-Cuirass:
+    Armor: 2
+    Bonuses: 'While wearing this, a pilot has +5 HP.'
+    E-defense: 7
+    Evasion: 7
+    Manufacturer: IPS-N
+    Name: 'CALADBOLG Mobile Cuirass'
+    Rarity: 4
+    Speed: 3
+Combat-Webbing:
+    Armor: "-"
+    Bonuses: 'Can bring an extra weapon and some small items.'
+    E-defense: "-"
+    Evasion: "-"
+    Manufacturer: IPS-N
+    Name: 'Combat Webbing'
+    Rarity: 1
+    Speed: "-"
+DJED-Overarmor:
+    Armor: 2
+    Bonuses: 'When you go Down and Out, instead of rolling a check, you can activate
+        this armor’s stasis system. Until the end of the current challenge, you are
+        put into a stasis state where you cannot take damage, but also cannot move
+        or take any actions (or be revived from this state). Once the challenge ends,
+        roll for Down and Out as normal.'
+    E-defense: 8
+    Evasion: 8
+    Manufacturer: HA
+    Name: 'DJED Overarmor'
+    Rarity: 3
+    Speed: 4
+DURENDAL-Mobile-Cuirass:
+    Armor: 2
+    Bonuses: 'You always have a sidearm (1 kinetic, re-roll first attack, range 3)
+        and a light melee weapon (1 kinetic, re-roll first attack, threat), they don''t
+        count against the weapons you can take with you on a mission.'
+    E-defense: 8
+    Evasion: 8
+    Manufacturer: IPS-N
+    Name: 'DURENDAL Mobile Cuirass'
+    Rarity: 2
+    Speed: 4
+Eloria-Panoply:
+    Armor: "-"
+    Bonuses: 'A pilot can use the integrated flight systems in this hardsuit to fly
+        when they move or boost.'
+    E-defense: 10
+    Evasion: 10
+    Manufacturer: SSC
+    Name: 'Eloria Panoply'
+    Rarity: 3
+    Speed: 5
+Falling-Water-Overcoat:
+    Armor: "-"
+    Bonuses: 'This couture overcoat fits over any armor or clothing and is interwoven
+        with infowebbing. It has full ominnet access, can display image, color, or
+        video on its internal or external paneling, and has an integrated companion/concierge
+        unit.'
+    E-defense: "-"
+    Evasion: "-"
+    Manufacturer: SSC
+    Name: '"Falling Water" Overcoat'
+    Rarity: 1
+    Speed: "-"
+Goliath-Weave:
+    Armor: "-"
+    Bonuses: 'Must be wearing armor; +5 HP, reroll all Brawl checks and take better
+        result. Can lift and throw items of size 1, and drag items of size 2.'
+    E-defense: "-"
+    Evasion: "-"
+    Manufacturer: IPS-N
+    Name: 'Goliath Weave'
+    Rarity: 3
+    Speed: "-"
+ICEPACK:
+    Armor: "-"
+    Bonuses: 'While wearing armor with this enhancement, each time you take a full
+        repair, gain 5 charges. You can spend a charge as a pilot to take an extra
+        pilot action on your turn.'
+    E-defense: "-"
+    Evasion: "-"
+    Manufacturer: HA
+    Name: ICEPACK
+    Rarity: 4
+    Speed: "-"
+Light-hardsuit:
+    Armor: 1
+    Bonuses: "-"
+    E-defense: 10
+    Evasion: 10
+    Manufacturer: GMS
+    Name: 'Light hardsuit'
+    Rarity: 0
+    Speed: 4
+MINE-ALL-MINE:
+    Armor: 1
+    Bonuses: 'While jockeying a mech and wearing this suit, force it to make a Systems
+        skill check with 1 difficulty or immediately move its full speed in a direction
+        of your choice.'
+    E-defense: 10
+    Evasion: 10
+    Manufacturer: HORUS
+    Name: MINE/ALL/MINE
+    Rarity: 4
+    Speed: 4
+Metafold-Processor:
+    Armor: "-"
+    Bonuses: 'Must be wearing armor; +2 E-defense and can make Invasion tech actions
+        as if a mech with a +3 Systems score.'
+    E-defense: "-"
+    Evasion: "-"
+    Manufacturer: HORUS
+    Name: 'Metafold Processor'
+    Rarity: 4
+    Speed: "-"
+Mythimna-Panoply:
+    Armor: 1
+    Bonuses: 'This light hardsuit has a reactive weave that allows a wearer to turn
+        invisible. A pilot can become invisible as an action. The invisibility breaks
+        if a pilot takes damage or makes an attack roll. Used outside of combat, it
+        lasts about 10 minutes before it must be recharged for another 10.'
+    E-defense: 10
+    Evasion: 10
+    Manufacturer: SSC
+    Name: 'Mythimna Panoply'
+    Rarity: 4
+    Speed: 4
+Nerveweave:
+    Armor: "-"
+    Bonuses: 'This enhancement can only be taken as a part of armor. While wearing
+        this armor, a pilot gains +2 speed and +2 evasion.'
+    E-defense: "-"
+    Evasion: "-"
+    Manufacturer: SSC
+    Name: Nerveweave
+    Rarity: 4
+    Speed: "-"
+Pilot-Armor:
+    Armor: "-"
+    Bonuses: "-"
+    E-defense: "-"
+    Evasion: "-"
+    Manufacturer: "-"
+    Name: 'Pilot Armor'
+    Rarity: 0
+    Speed: "-"
+Plain-clothes:
+    Armor: 0
+    Bonuses: "-"
+    E-defense: 10
+    Evasion: 10
+    Manufacturer: GMS
+    Name: 'Plain clothes'
+    Rarity: 0
+    Speed: 4
+STAMBHA-Overarmor:
+    Armor: 1
+    Bonuses: 'If you didn’t move on your turn, at the end of your turn, until the
+        start of your next turn, gain a protective shield that grants all ranged weapon
+        attacks against you +1 difficulty.'
+    E-defense: 10
+    Evasion: 10
+    Manufacturer: HA
+    Name: 'STAMBHA Overarmor'
+    Rarity: 2
+    Speed: 4
+Sylph:
+    Armor: "-"
+    Bonuses: 'This semi-biological, skin-tight undersuit can be worn for extended
+        periods. In its natural form, it is translucent and semi-liquid, and can be
+        stored easily. It cleans the body, aids its natural healing processes, and
+        eliminates waste. Parts of it can be made opaque or translucent or change
+        color or texture. It can cowl over the head, providing sealant from vacuum,
+        high protection against radiation, and filtering of air or liquid, providing
+        the ability to breathe water for a limited time.'
+    E-defense: "-"
+    Evasion: "-"
+    Manufacturer: SSC
+    Name: Sylph
+    Rarity: 1
+    Speed: "-"
+UNAVOIDABLE-VOID:
+    Armor: 1
+    Bonuses: 'Causes errors in whatever prints it. Doesn''t appear on electronic systems,
+        is immune to system attacks, cannot be targeted by smart weapons or drones,
+        and cannot be seen by NHPs or AIs (they treat you as permanently invisible).'
+    E-defense: "-"
+    Evasion: 10
+    Manufacturer: HORUS
+    Name: UNAVOIDABLE_VOID
+    Rarity: 3
+    Speed: 4
+UNCLEAR-END-NTT:
+    Armor: 2
+    Bonuses: 'If you go unconscious or die while wearing this suit, a digitial consciousness
+        of yourself animates your body. You''re still unconscious (or dead) but can
+        take 1 action and can''t benefit from talents on your turn. You regain 5 HP
+        and otherwise act as normal. If you go to 0 again, you are returned to a normal
+        Down and Out state or death. This effect also wears off after the current
+        challenge or about 10 minutes, and can''t be activated again until you take
+        a full repair. If dying caused this ability to trigger, you are dead once
+        this effect wears off. The homunculus cannot respond to novel situations or
+        stimuli, but in a familiar setting it interacts mostly as normal; this trends
+        deep into the uncanny valley, and won''t fool people into thinking that it''s
+        "you".'
+    E-defense: 8
+    Evasion: 8
+    Manufacturer: HORUS
+    Name: UNCLEAR_END/NTT
+    Rarity: 2
+    Speed: 4
+WAYLAND-Mobile-Cuirass:
+    Armor: 1
+    Bonuses: 'When you take the dash action, you may fly (land by end of turn or fall).
+        Has a range 4 grappling hook to cling to walls, snag items, etc.'
+    E-defense: 10
+    Evasion: 10
+    Manufacturer: IPS-N
+    Name: 'WAYLAND Mobile Cuirass'
+    Rarity: 2
+    Speed: 4
+WILD-AND-CRAZY:
+    Armor: "-"
+    Bonuses: 'While wearing this clothing, any space adjacent to your pilot counts
+        as your mech''s sensor range for the purpose of making tech actions only.'
+    E-defense: "-"
+    Evasion: "-"
+    Manufacturer: HORUS
+    Name: WILD_AND_CRAZY
+    Rarity: 1
+    Speed: "-"

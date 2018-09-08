@@ -1,0 +1,11 @@
+Cost: 1
+Effect: 'Choose 1 CQB, cannon, or rifle weapon. When you fire this weapon, draw a
+  line 3 spaces long from your mech, then measure its original range from the end
+  of this line as though the attack was fired from that position (also measure cover
+  from this new position for the rest of the attack). This line can easily punch through
+  walls or other barriers. Any targets hit by this line are also hit by the attack
+  (ignoring cover). The attack cannot change directions after being fired.'
+Keywords: Ammo
+License: 'IPS-N Tortuga II'
+Name: 'Throughbolt Rounds'
+Unique: "-"

@@ -1,0 +1,7 @@
+Cost: 2
+Effect: 'At the start of your turn, you can take 1 heat (self) to deal 1d3 energy
+  damage to all targets adjacent to you, no roll required.'
+Keywords: "-"
+License: 'HORUS Manticore III'
+Name: 'Lightning Generator'
+Unique: true

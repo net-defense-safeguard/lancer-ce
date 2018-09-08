@@ -1,0 +1,10 @@
+Damage: '2d6+4 Explosive'
+License: 'SSC Monarch III'
+Name: 'Pinaka Missiles'
+Notes: 'When this weapon is fired, it choses one or two Blast 2 areas within range
+  to attack. These areas cannot overlap.'
+Range: '30, one or two Blast 2 areas'
+SP: 0
+Size: Superheavy
+Tags: 'Arcing, 2 heat (self)'
+Type: Launcher

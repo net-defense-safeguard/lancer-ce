@@ -1,0 +1,9 @@
+Damage: '2d6 Energy + Burn 3'
+License: 'HA Sherman II'
+Name: 'Heavy Laser'
+Notes: "-"
+Range: 15
+SP: 0
+Size: Heavy
+Tags: '3 heat (self), Burn 3'
+Type: Cannon

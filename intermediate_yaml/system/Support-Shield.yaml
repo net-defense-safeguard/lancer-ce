@@ -1,0 +1,9 @@
+Cost: 2
+Effect: 'Activating this system generates a Burst 3 area centered on user until the
+  end of the user’s next turn. All ranged weapon attacks made against you and any
+  allied targets inside the shield are made with +1 Difficulty, but your mech is immobilized
+  for the same duration.'
+Keywords: 'Shield, Quick Action, 2 heat (self)'
+License: 'HA Saladin I'
+Name: 'Support Shield'
+Unique: true

@@ -1,0 +1,10 @@
+Cost: 2
+Effect: "This system fires a turret drone that attaches to any friendly mech or surface\
+  \ within sensor range. While attached, you gain the following reaction once for\
+  \ each turret you have deployed.\nTurret attack. Trigger: An allied mech hits with\
+  \ an attack within range 15 of the turret. Deal 2 kinetic damage to that target.\
+  \ The turret can be attacked and damage as normal, like any other deployable drone"
+Keywords: 'Limited (4), Drone, Quick Action'
+License: 'HORUS Hydra II'
+Name: 'Turret Drone Nexus'
+Unique: "-"

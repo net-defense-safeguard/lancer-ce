@@ -1,0 +1,28 @@
+AGI: 0
+ARMOR: 2
+EDEF: 0
+ENG: 1
+EVASION: 0
+HEAT-CAP: 0
+HP: 0
+HULL: 0
+MOUNT1: Spinal
+MOUNT2: Flex
+MOUNT3: N/a
+Name: 'HORUS Manticore'
+SIZE: 1.0
+SP: 5
+SPEED: 0
+SYS: 1
+TARGETTING: 0
+Ultimate-Active: 'Active (Protocol): Your mech crackles with energy. For the rest
+  of this combat your mech has resistance to heat from any source (round up). Set
+  aside a charge die, starting at 1. When you take heat (from any source, even self),
+  increase the die by 1, to a maximum of 6. You can discharge the accumulated energy
+  in a burst 2 area around you by taking an action to do so. This deals 1d6 energy
+  damage to all targets caught inside, allied or enemy, per charge on the die, and
+  affected mechs can pass a system check to halve the damage. This system then deactivates
+  for the remainder of combat, including its passive.'
+Ultimate-Name: 'Charged Exoskeleton'
+Ultimate-Passive: 'When you take heat damage from any source, one target in range
+  3 of you takes 1 energy damage.'

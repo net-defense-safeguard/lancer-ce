@@ -1,0 +1,27 @@
+AGI: 1
+ARMOR: 1
+EDEF: 0
+ENG: 0
+EVASION: 0
+HEAT-CAP: 0
+HP: 0
+HULL: -1
+MOUNT1: Spinal
+MOUNT2: Main
+MOUNT3: Flex
+Name: 'SSC Monarch'
+SIZE: 2.0
+SP: 5
+SPEED: 0
+SYS: 1
+TARGETTING: 0
+Ultimate-Active: 'Divine Punishment (1 core power, Full Action): You unload your Avenger
+  silos. All targets of your choice on the battlefield (or range 50) must pass an
+  agility check with 1 difficulty or take 1d6+3 explosive damage, and half on a successful
+  save. You do not need line of sight to any targets, and the self-guiding missiles
+  can perfectly seek any target as long as they can trace a path. Once used, you cannot
+  benefit from the passive of this system until you take a full repair'
+Ultimate-Name: 'Avenger SIlos'
+Ultimate-Passive: 'When you score a critical hit with a Launcher weapon, a target
+  different to your first target in range and LoS takes 2 Explosive damage, no roll
+  required.'

@@ -1,0 +1,8 @@
+Cost: 1
+Effect: 'This mine activates for a burst 1 area centered on itself. All targets caught
+  in that area, allied or enemy, must pass a systems check or become immobilized until
+  the end of their next turn.'
+Keywords: 'Limited (2), Mine'
+License: 'HORUS Minotaur II'
+Name: 'Mesmer Mine'
+Unique: "-"

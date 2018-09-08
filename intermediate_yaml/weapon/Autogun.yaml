@@ -1,0 +1,10 @@
+Damage: '3 Kinetic'
+License: 'HORUS Pegasus I'
+Name: Autogun
+Notes: 'This weapon can fire itself as a Free Action at the end of round, using your
+  mechs bonuses.'
+Range: 20
+SP: 1
+Size: Main
+Tags: '1 SP'
+Type: Cannon

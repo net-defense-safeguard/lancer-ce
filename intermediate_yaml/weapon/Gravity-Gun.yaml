@@ -1,0 +1,10 @@
+Damage: 'See Notes'
+License: 'HA Iskander II'
+Name: 'Gravity Gun'
+Notes: 'All targets caught in the Blast must pass a Hull check or take 1d6 Energy
+  damage and be pulled to the center of the area.'
+Range: '8, Blast 3'
+SP: 0
+Size: Heavy
+Tags: "-"
+Type: Rifle

@@ -1,0 +1,9 @@
+Damage: '2d6+1 Kinetic'
+License: GMS
+Name: 'Heavy Machine Gun'
+Notes: "-"
+Range: 10
+SP: 0
+Size: Heavy
+Tags: Inaccurate
+Type: Cannon

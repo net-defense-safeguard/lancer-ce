@@ -1,0 +1,12 @@
+Cost: 2
+Effect: "Gain the following quick tech choices: Shrike Code: Make a tech attack against\
+  \ a target in your sensor range with +1 difficulty. On hit, until the end of your\
+  \ next turn, each time your target makes an attack roll, it first takes 1 heat.\n\
+  Mirage: Make a tech attack against a target in your sensor range. On hit, choose\
+  \ yourself or a friendly mech you can see. Your target’s systems relay illusory\
+  \ duplicates of that mech that confuse your target’s systems. That friendly mech\
+  \ (or your mech) counts as invisible to your target until the end of your next turn."
+Keywords: 'Quick Tech'
+License: 'SSC Dusk Wing II'
+Name: 'SSC Neurospike Mk1'
+Unique: true

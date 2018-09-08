@@ -1,0 +1,9 @@
+Cost: 1
+Effect: 'Gain 2 extra sets of limbs. These limbs cannot be used to make attacks, but
+  can otherwise hold and manipulate the environment and items as normal. In addition,
+  these manipulators can interact with objects in the environment that a pilot would
+  normally have to interact with (a pilot sized touch pad, etc) with no penalty.'
+Keywords: "-"
+License: GMS
+Name: Manipulators
+Unique: true

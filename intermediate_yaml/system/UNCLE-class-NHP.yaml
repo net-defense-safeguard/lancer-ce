@@ -1,0 +1,12 @@
+Cost: 3
+Effect: 'Choose 1 weapon - The weapon and its associate systems gain an NHP that has
+  control over that specific weapon. This is not a full AI and can’t control your
+  mech or become unshackled (and doesn’t have the AI tag). The weapon gains the unreliable
+  tag (if this tag triggers, it is because the weapon’s personality is not cooperating).
+  It can attack by itself once on your turn as a free action, using the mech’s targeting
+  but with +1 Difficulty. It can’t fire a weapon that has already been fired this
+  turn.'
+Keywords: "-"
+License: 'IPS-N Raleigh III'
+Name: 'UNCLE-class NHP'
+Unique: true

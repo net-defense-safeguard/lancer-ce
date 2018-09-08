@@ -1,0 +1,27 @@
+AGI: 0
+ARMOR: 1
+EDEF: 0
+ENG: 0
+EVASION: 0
+HEAT-CAP: 0
+HP: 1
+HULL: 0
+MOUNT1: Spinal
+MOUNT2: Main
+MOUNT3: N/a
+Name: 'HORUS Balor'
+SIZE: 2.0
+SP: 7
+SPEED: 0
+SYS: 1
+TARGETTING: 0
+Ultimate-Active: 'Hive Frenzy (Protocol): Your swarm goes into a hyper-active mode.
+  You can set your swarm to one of three modes, and swap at the start of your turn
+  as a free action. Hive Shield: 1/round as a reaction, you can gain resistance to
+  all the damage from one attack that just hit you. Hive Repulse:You have resistance
+  to all damage from Smart weapons, and hostile tech actions are made at +1 Difficulty
+  against you. Hive Scour: The damage from your passive increases to 3 AP Kinetic
+  damage.'
+Ultimate-Name: Hellswarm
+Ultimate-Passive: 'Any target grappled by your mech or that starts their turn adjacent
+  to your mech takes 2 kinetic damage at the start of your turn.'

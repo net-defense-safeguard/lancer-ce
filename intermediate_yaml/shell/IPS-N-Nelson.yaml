@@ -1,0 +1,24 @@
+AGI: 1
+ARMOR: 0
+EDEF: 0
+ENG: 0
+EVASION: 0
+HEAT-CAP: 0
+HP: 0
+HULL: 1
+MOUNT1: Main
+MOUNT2: Main
+MOUNT3: Flex
+Name: 'IPS-N Nelson'
+SIZE: 1.0
+SP: 5
+SPEED: 1
+SYS: 0
+TARGETTING: 0
+Ultimate-Active: 'Spool Up PMD (1 core power, Protocol): Once activated, this system
+  remains active until the rest of the current challenge. While its active, the free
+  movement from this system’s passive increases to 5.'
+Ultimate-Name: 'Perpetual Momentum Drive'
+Ultimate-Passive: 'Before or after you make any skirmish or barrage action, you can
+  move 1 in any direction. This movement doesn’t provoke reactions, ignores engagement,
+  and doesn’t count against your movement for the turn.'

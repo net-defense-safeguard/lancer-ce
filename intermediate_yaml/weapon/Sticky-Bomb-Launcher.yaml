@@ -1,0 +1,16 @@
+Damage: "-"
+License: 'HA Iskander III'
+Name: 'Sticky Bomb Launcher'
+Notes: 'To fire this weapon, you can attack a point on the environment within range
+  without rolling, or make a regular attack roll against a target within range. On
+  a hit, the target or area does not take damage, but instead has a sticky bomb attached.
+  It takes an action and a successful engineering check to remove all sticky bombs
+  from an area or mech. As an end of round action, you can detonate all sticky bombs
+  fired by this weapon to deal 1d6 explosive damage in blast 1 centered on all targeted
+  mechs or areas. Mechs caught in the blast area can pass an agility check to halve
+  this damage, but mechs ‘stuck’ by this weapon fail their check automatically.'
+Range: 15
+SP: 0
+Size: Main
+Tags: Arcing
+Type: Launcher

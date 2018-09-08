@@ -1,0 +1,6 @@
+Description: 'A 5x5 square of reactive material that slowly shifts to reflect the
+  environment around it. The effect takes about 10 seconds to complete, and makes
+  anything hidden underneath very hard to spot.'
+License: GMS
+Name: 'Camo Cloth'
+Rarity: 0

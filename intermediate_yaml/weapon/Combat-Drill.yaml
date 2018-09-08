@@ -1,0 +1,9 @@
+Damage: '3d6 Kinetic + 1d6 Energy'
+License: 'IPS-N Vlad III'
+Name: 'Combat Drill'
+Notes: "-"
+Range: 'Threat 1'
+SP: 0
+Size: Superheavy
+Tags: 'Unreliable, AP'
+Type: Melee

@@ -1,0 +1,9 @@
+Damage: '1d6 Kinetic'
+License: GMS
+Name: Shotgun
+Notes: "-"
+Range: '5, Threat 3'
+SP: 0
+Size: Main
+Tags: 'Reliable 1'
+Type: CQB

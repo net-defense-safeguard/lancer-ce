@@ -1,0 +1,10 @@
+Damage: "-"
+License: 'SSC Swallowtail II'
+Name: Markerlight
+Notes: 'This weapon deals no damage and cannot deal damage (from talents or otherwise),
+  but on hit, it inflict Lock On on your target at the end of your turn.'
+Range: 20
+SP: 0
+Size: Main
+Tags: "-"
+Type: Rifle

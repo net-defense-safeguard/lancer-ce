@@ -1,0 +1,24 @@
+AGI: 2
+ARMOR: 0
+EDEF: 0
+ENG: 0
+EVASION: 0
+HEAT-CAP: 0
+HP: 0
+HULL: -2
+MOUNT1: Heavy
+MOUNT2: Auxiliary
+MOUNT3: Flex
+Name: 'SSC Death''s Head'
+SIZE: 1.0
+SP: 6
+SPEED: 0
+SYS: 0
+TARGETTING: 1
+Ultimate-Active: 'Activate Neural Shunt (1 core power, action): Gain this protocol:
+  Transcranial Ego Ballistics (Protocol): ntegrated combat routines make your next
+  weapon attack gain the seeking tag, its maximum range increases by +10, and it automatically
+  hits, no matter how difficult the shot.'
+Ultimate-Name: 'Precognitive Targeting'
+Ultimate-Passive: 'You can re-roll the first attack roll you make each round, but
+  must keep the second result.'

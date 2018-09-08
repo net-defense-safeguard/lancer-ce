@@ -1,0 +1,9 @@
+Cost: 3
+Effect: 'Until the start of your next turn, targets in your sensor range of you cannot
+  hide from you, cannot benefit from invisibility against you, and you can receive
+  information from one target in that range as if you had scanned them. Other targets
+  still see them as invisible and hidden.'
+Keywords: 'Quick Action'
+License: 'HORUS Pegasus III'
+Name: 'Eye of HORUS'
+Unique: true

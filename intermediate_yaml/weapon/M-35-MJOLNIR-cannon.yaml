@@ -1,0 +1,10 @@
+Damage: '3 Kinetic'
+License: 'IPS-N Raleigh SHELL'
+Name: 'M-35 MJOLNIR cannon'
+Notes: 'Core System of the Raleigh; doesn''t take a mount, cannot be modified or use
+  special ammo.'
+Range: '5, Threat 3'
+SP: 0
+Size: Auxiliary
+Tags: "-"
+Type: CQB

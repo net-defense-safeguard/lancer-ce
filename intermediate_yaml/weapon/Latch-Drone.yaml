@@ -1,0 +1,11 @@
+Damage: "-"
+License: 'IPS-N Lancaster II'
+Name: 'Latch Drone'
+Notes: 'Targeting versus Evasion 8 against any friendly mech in range (taking cover
+  and LOS into account); on a hit, target can spend 1 repair to heal. Core system
+  of the IPS-N Lancaster.'
+Range: 8
+SP: 0
+Size: Auxiliary
+Tags: "-"
+Type: Launcher

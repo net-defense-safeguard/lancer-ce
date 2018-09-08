@@ -1,0 +1,9 @@
+Cost: 2
+Effect: 'All hostile targets in a burst 10 area centered on your mech that can see
+  your mech must pass an agility check or become Jammed, and a systems check or become
+  Impaired. Both effects last until the start of your next turn. Allied mechs are
+  not affected.'
+Keywords: 'Limited (2), Quick Action'
+License: 'SSC Dusk Wing III'
+Name: StunCrown
+Unique: "-"

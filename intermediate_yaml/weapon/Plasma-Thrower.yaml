@@ -1,0 +1,9 @@
+Damage: 'Burn 5 + 1d6 Heat'
+License: 'HA Genghis III'
+Name: 'Plasma Thrower'
+Notes: "-"
+Range: 'Cone 7'
+SP: 0
+Size: Superheavy
+Tags: '4 heat (Self), Burn 5'
+Type: CQB

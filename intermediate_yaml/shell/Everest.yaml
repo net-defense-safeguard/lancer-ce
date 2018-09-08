@@ -1,0 +1,26 @@
+AGI: 0
+ARMOR: 0
+EDEF: 0
+ENG: 0
+EVASION: 0
+HEAT-CAP: 0
+HP: 0
+HULL: 0
+MOUNT1: Heavy
+MOUNT2: Main
+MOUNT3: Flex
+Name: Everest
+SIZE: 1.0
+SP: 6
+SPEED: 0
+SYS: 0
+TARGETTING: 0
+Ultimate-Active: 'Power Up (1 core power, Protocol): This turn only, gain an additional
+  1d3 actions. These actions must be used this turn or lost. The usual rules apply
+  (you cannot make duplicate actions).'
+Ultimate-Name: 'Hyperspec Fuel Injectors'
+Ultimate-Passive: '+1 to any HASE stat.  If you roll a ‘20’ on your d20 for the first
+  roll of any kind on your turn (the actual number 20 on the physical die, before
+  modifiers, sometimes called a ‘natural’ 20) you gain an additional action that you
+  must use before the end of your turn. This passive can only take effect once per
+  turn, and only on your turn.'

@@ -1,0 +1,10 @@
+Cost: 2
+Effect: 'As a quick action, you can set this drone down in any adjacent space. After
+  your turn ends, the drone primes. Any allied mech that moves adjacent to the drone
+  can activate it as an interaction. That mech can then cool 1d6 heat, reload all
+  weapons with the loading tag, and gain 2d6 + your engineering in hit points. The
+  drone is then consumed, deactivating and disintegrating.'
+Keywords: 'Limited (2), Drone'
+License: 'IPS-N Lancaster I'
+Name: 'Restock Drone'
+Unique: "-"

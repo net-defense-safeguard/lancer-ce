@@ -1,0 +1,9 @@
+Damage: '1d6 Energy + Burn 2'
+License: 'HA Tokugawa III'
+Name: Torch
+Notes: "-"
+Range: Threat
+SP: 0
+Size: Main
+Tags: '1 heat (self), Burn 2'
+Type: Melee

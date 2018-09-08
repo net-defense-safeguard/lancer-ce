@@ -1,0 +1,30 @@
+AGI: 0
+ARMOR: 0
+EDEF: 0
+ENG: 1
+EVASION: 0
+HEAT-CAP: 0
+HP: 0
+HULL: 0
+MOUNT1: Spinal
+MOUNT2: Main
+MOUNT3: Flex
+Name: 'HA Sherman'
+SIZE: 1.0
+SP: 5
+SPEED: 0
+SYS: 0
+TARGETTING: 0
+Ultimate-Active: 'COREBURN Beam (Full Action): As an action, your mech begins to charge
+  this weapon but cannot move or take any other action this turn. Your mech stops
+  charging this weapon if it becomes stunned, shut down, jammed, knocked prone, or
+  any effect that would cause it to be unable to attack (if it is unable to fire,
+  don’t spend the core power). The turn after you start charging this weapon, you
+  may fire it by taking 2 actions again. Choose a line 30 area originating from your
+  mech. All mechs caught in the area must pass an engineering check or take 12d6 energy
+  damage, and half on a successful check. Any obstacles or deployables in the way
+  are hit automatically and this weapon obliterates incidental or light cover, obstacles,
+  non-reinforced walls, etc. After firing this weapon, your mech takes 1d6 heat.'
+Ultimate-Name: 'Zone Focus Mk IV SOLIDCORE'
+Ultimate-Passive: 'Your mech mounts the ZFMk IV SOLIDCORE, a powerful energy beam
+  weapon. It doesn’t take a mount. Main Cannon, Ordnance, Line 15, 1d3+1 Energy damage.'

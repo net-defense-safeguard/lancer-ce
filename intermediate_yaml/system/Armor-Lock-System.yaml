@@ -1,0 +1,9 @@
+Cost: 1
+Effect: 'When you take the Brace reaction, until the end of your following turn, enemy
+  attacks targeting you are made with 1 additional Difficulty, you can’t fail agility
+  or hull checks, be knocked back, grappled, knocked prone, or moved by any external
+  force smaller than size 5.'
+Keywords: "-"
+License: 'IPS-N Nelson II'
+Name: 'Armor Lock System'
+Unique: true

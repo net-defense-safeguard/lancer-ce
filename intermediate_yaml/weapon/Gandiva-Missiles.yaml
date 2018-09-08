@@ -1,0 +1,9 @@
+Damage: '1d6+1 Energy'
+License: 'SSC Monarch II'
+Name: 'Gandiva Missiles'
+Notes: "-"
+Range: 15
+SP: 1
+Size: Heavy
+Tags: 'Smart, Seeking, Accurate, 1 SP'
+Type: Launcher

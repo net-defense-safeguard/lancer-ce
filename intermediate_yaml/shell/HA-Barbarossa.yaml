@@ -1,0 +1,30 @@
+AGI: -2
+ARMOR: 2
+EDEF: 0
+ENG: 1
+EVASION: 0
+HEAT-CAP: 0
+HP: 0
+HULL: 0
+MOUNT1: 'Apocalypse Rail'
+MOUNT2: Flex
+MOUNT3: N/a
+Name: 'HA Barbarossa'
+SIZE: 3.0
+SP: 6
+SPEED: 0
+SYS: 0
+TARGETTING: 0
+Ultimate-Active: 'Convert to Battery (Action): While this is active, you have the
+  following drawbacks: Your mech is immobilized, cannot directly attack a target within
+  range 5, and can only make attacks with the weapon mounted in your Apocalypse Rail.
+  However, you are immune to knockback and being knocked prone, you cannot be moved
+  by a target smaller than you(such as a grapple), you have resistance to Heat, and
+  the weapon mounted in your Apocalypse Rail can be fired twice with the barrage action
+  instead of just once. If it has the Loading tag, it can still be fired twice, but
+  must be reloaded normally after.'
+Ultimate-Name: 'Apocalypse Rail'
+Ultimate-Passive: 'Your mech has the apocalypse rail, a weapon mount that takes a
+  superheavy or smaller sized weapon. You can still mount smaller weapons on the apocalypse
+  rail. You don’t need an additional mount to add superheavy weapon to this mount.
+  This mount is not modifiable(such as from core bonuses).'

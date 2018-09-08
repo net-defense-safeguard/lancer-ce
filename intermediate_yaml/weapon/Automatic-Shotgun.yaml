@@ -1,0 +1,9 @@
+Damage: '2d6 Kinetic'
+License: 'IPS-N Tortuga I'
+Name: 'Automatic Shotgun'
+Notes: "-"
+Range: '3, Threat 3'
+SP: 0
+Size: Main
+Tags: Inaccurate
+Type: CQB

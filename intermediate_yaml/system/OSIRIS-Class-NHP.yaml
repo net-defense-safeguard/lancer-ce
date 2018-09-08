@@ -1,0 +1,7 @@
+Cost: 3
+Effect: 'Your mech gains the AI property and the OSIRIS protocol: Protocol 1d3+2 heat
+  (self). This turn only, you can make any quick tech action as a free action.'
+Keywords: AI
+License: 'HORUS Goblin III'
+Name: 'OSIRIS-Class NHP'
+Unique: true

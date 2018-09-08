@@ -1,0 +1,33 @@
+AGI: 0
+ARMOR: 0
+EDEF: 0
+ENG: -1
+EVASION: 0
+HEAT-CAP: 0
+HP: 0
+HULL: 1
+MOUNT1: Main
+MOUNT2: Spinal
+MOUNT3: Flex
+Name: 'HORUS Hydra'
+SIZE: 2.0
+SP: 7
+SPEED: 0
+SYS: 1
+TARGETTING: 0
+Ultimate-Active: 'OROCHI mode (Quick Action): Your mech has been heavily modified,
+  and a large number of its subsystems and structure are controlled by semi-autonomous
+  drones. Choose up to 3 weapons or systems on your mech. As an action, these parts
+  of your mech can split off and become autonomous units. They are size 1, have evasion
+  equal to your evasion, have hp equal to your HP, 1 structure, and heat capacity
+  equal to your heat capacity. They inherit your speed and other mech stats. On your
+  turn, they can move, take the activate system, and skirmish actions, but no other
+  actions. If they overheat or go to 0HP, they are destroyed, and if they are destroyed,
+  the associate weapon or system is also destroyed (it can be repaired as normal during
+  a rest). You can re-unite any parts of your mech as an action, but inherit any heat
+  they currently have, and cannot deploy them again without taking the special action
+  as part of this system. '
+Ultimate-Name: 'OROCHI Disarticulation'
+Ultimate-Passive: 'Your NHP partitions itself into many cloned personalities that
+  can help you with maintaining your mech. Once per round, you can re-roll any systems
+  or engineering check of your choice, but must keep the second result.'

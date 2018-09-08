@@ -1,0 +1,7 @@
+Cost: 1
+Effect: 'Your mech counts as having a propulsion system in micro/null gravity and
+  submarine environments (it''s not crippled while moving and can fly normally).'
+Keywords: "-"
+License: GMS
+Name: 'GMS EVA Module'
+Unique: true

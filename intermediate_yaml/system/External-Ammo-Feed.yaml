@@ -1,0 +1,7 @@
+Cost: 3
+Effect: 'Once on your turn, you can take 1d3+2 heat to reload any weapon with the
+  Loading tag as a Free Action.'
+Keywords: "-"
+License: 'HA Barbarossa I'
+Name: 'External Ammo Feed'
+Unique: true

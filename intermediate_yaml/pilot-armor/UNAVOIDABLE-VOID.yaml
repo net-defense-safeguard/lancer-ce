@@ -1,0 +1,10 @@
+Armor: 1
+Bonuses: 'Causes errors in whatever prints it. Doesn''t appear on electronic systems,
+  is immune to system attacks, cannot be targeted by smart weapons or drones, and
+  cannot be seen by NHPs or AIs (they treat you as permanently invisible).'
+E-defense: "-"
+Evasion: 10
+Manufacturer: HORUS
+Name: UNAVOIDABLE_VOID
+Rarity: 3
+Speed: 4

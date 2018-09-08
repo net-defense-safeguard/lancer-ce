@@ -1,0 +1,8 @@
+Cost: 1
+Effect: 'When grappling, you always count as the same size as your opponent if your
+  opponent is larger than you, and larger than your opponent if they are the same
+  size or smaller. Your lifting and dragging capacity doubles.'
+Keywords: "-"
+License: 'IPS-N Blackbeard I'
+Name: 'Synthetic Muscle Netting'
+Unique: true

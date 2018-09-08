@@ -1,0 +1,9 @@
+Cost: 2
+Effect: 'Once per round, when your mech takes damage, you can immediately teleport
+  up to 1d6 spaces as a reaction in a direction of your choosing (though if this teleport
+  would put you inside an obstacle or other mech you take damage as normal and the
+  teleport fails).'
+Keywords: Reaction
+License: 'SSC Mourning Cloak II'
+Name: 'Exposed Singularity'
+Unique: true

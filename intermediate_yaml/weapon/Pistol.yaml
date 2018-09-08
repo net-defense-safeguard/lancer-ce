@@ -1,0 +1,9 @@
+Damage: '1d3 Kinetic'
+License: GMS
+Name: Pistol
+Notes: "-"
+Range: '5, Threat 3'
+SP: 0
+Size: Auxiliary
+Tags: "-"
+Type: CQB

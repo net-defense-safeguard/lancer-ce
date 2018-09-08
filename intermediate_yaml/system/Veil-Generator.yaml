@@ -1,0 +1,11 @@
+Cost: 1
+Effect: 'Once deployed in a free adjacent space as a quick action, this size 1 generator
+  creates a weak cloaking field. It creates a burst 3 zone around in until the end
+  of the current challenge. This zone doesn’t move, but allied mechs inside count
+  as in light cover and are immune to all tech actions (even friendly ones). Once
+  deployed, this generator continues to run until out of charge and cannot be re-used
+  or re-deployed. It benefits from its own field and has 2 armor.'
+Keywords: 'Limited (1), Deployable, Quick Action'
+License: 'SSC Death''s Head II'
+Name: 'Veil Generator'
+Unique: "-"

@@ -1,0 +1,23 @@
+AGI: 0
+ARMOR: 2
+EDEF: 0
+ENG: 0
+EVASION: 0
+HEAT-CAP: 0
+HP: 0
+HULL: 2
+MOUNT1: Spinal
+MOUNT2: Flex
+MOUNT3: N/a
+Name: 'IPS-N Tortuga'
+SIZE: 2.0
+SP: 6
+SPEED: 0
+SYS: 1
+TARGETTING: 0
+Ultimate-Active: 'Hyper-Reflex Mode (1 core power, Protocol): For the rest of this
+  combat, your threat with ranged weapons increases to 5 if it was less than 5. You
+  can make one additional overwatch attack per round, and any target struck by your
+  overwatch attacks is immediately immobilized until the start of its next turn.'
+Ultimate-Name: SENTINEL
+Ultimate-Passive: 'Gain +1 Accuracy to all overwatch attacks.'

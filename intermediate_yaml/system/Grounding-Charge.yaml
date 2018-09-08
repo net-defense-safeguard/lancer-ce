@@ -1,0 +1,11 @@
+Cost: 2
+Effect: 'This charge can also be detonated with an action. Once detonated, targets
+  in a burst 6 area centered on the charge must make a successful hull check or be
+  knocked prone and pulled as far as possible towards the charge as though they moved
+  normally (starting with the closest target). The charge also pulls any flying mechs
+  or vehicles within range 6 above the area that fail the check to the ground, making
+  them roll for damage as if they fell.'
+Keywords: 'Limited (2), Mine'
+License: 'HA Iskander III'
+Name: 'Grounding Charge'
+Unique: "-"

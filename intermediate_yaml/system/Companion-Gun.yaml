@@ -1,0 +1,9 @@
+Cost: 2
+Effect: 'Whenever you score a critical hit against a target, this shoulder-mounted
+  gun can calibrate and rapidly fires a projectile that also deals 2 explosive damage
+  to a different target within range 5 of your primary target, no attack roll required
+  (as long as the target is in line of sight)'
+Keywords: "-"
+License: 'SSC Monarch I'
+Name: 'Companion Gun'
+Unique: true

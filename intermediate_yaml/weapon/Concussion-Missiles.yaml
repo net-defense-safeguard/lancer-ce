@@ -1,0 +1,10 @@
+Damage: '1d3+1 Explosive'
+License: 'IPS-N Drake II'
+Name: 'Concussion Missiles'
+Notes: 'Targets struck by these missiles are knocked back 1 space and must pass a
+  systems check or become impaired until the end of their next turn.'
+Range: 8
+SP: 0
+Size: Main
+Tags: "-"
+Type: Launcher

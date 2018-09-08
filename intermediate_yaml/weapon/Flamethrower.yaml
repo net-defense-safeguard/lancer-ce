@@ -1,0 +1,9 @@
+Damage: '1 Heat + Burn 4'
+License: 'HA Genghis I'
+Name: Flamethrower
+Notes: "-"
+Range: 'Cone 5'
+SP: 0
+Size: Heavy
+Tags: 'Burn 4'
+Type: CQB

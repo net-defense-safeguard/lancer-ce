@@ -1,0 +1,10 @@
+Cost: 2
+Effect: 'When you use these drones, choose one, two, or three target mechs within
+  your sensor range. If you chose one mech, it can heal 2d6 + your engineering score
+  in HP, if you chose two mechs, they can both heal 1d6+ engi HP. If you chose 3,
+  make an engineering skill check. On success, each of them can heal 1d6+ engi HP,
+  on failure, only one of them can heal.'
+Keywords: 'Drone, Full Action, Sensor Range'
+License: 'IPS-N Lancaster II'
+Name: 'Repair Drone Nexus'
+Unique: "-"

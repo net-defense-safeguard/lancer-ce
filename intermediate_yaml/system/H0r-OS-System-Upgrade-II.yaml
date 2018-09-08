@@ -1,0 +1,11 @@
+Cost: 3
+Effect: "Gain the following full tech options:\n-Erasure Logic: Make a tech attack\
+  \ against a target in your sensor range. On hit, the target must pass a system skill\
+  \ check or be stunned until the end of its next turn. It can only be affected by\
+  \ this option once per combat.\n-Celestial paradigm shift: Make a tech attack against\
+  \ a target in your sensor range with +2 difficulty. On hit, The target takes 1d6+1\
+  \ heat."
+Keywords: 'Full Tech'
+License: 'HORUS Goblin III'
+Name: 'H0r_OS System Upgrade II'
+Unique: true

@@ -1,0 +1,7 @@
+Cost: 3
+Effect: '1/round you can force any attack that misses you to be re-rolled against
+  a target of your choice within your attacker’s range (even a target allied to them).'
+Keywords: 'Reaction, Shield'
+License: 'HA Napoleon II'
+Name: 'Dispersal Shield'
+Unique: true

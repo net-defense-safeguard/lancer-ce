@@ -1,0 +1,15 @@
+Cost: 2
+Effect: 'As a full action, this system can be activated to generate a burst 4 area
+  centered on user. While active, the flow of time is altered drastically in a small
+  sliver of space in a bubble around the user. Nothing, not even light, can enter
+  or exit the shield. It is impermeable and invulnerable. When the shield is activated,
+  mechs caught on the edge must make an agility check to choose which side they end
+  up on, otherwise the user chooses. To those inside the shield, the world outside
+  the shield goes totally black, and the inverse happens from outside. No action or
+  effect can enter or exit the shield while it is active or draw line of sight though
+  (even those that normally ignore it), though time passes normally on both sides.
+  The shield drops automatically at the end of the user’s next turn.'
+Keywords: 'Shield, Full Action, 4 heat (self)'
+License: 'HA Napoleon III'
+Name: 'Harrison Armory Blackshield'
+Unique: true

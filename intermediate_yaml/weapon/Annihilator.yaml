@@ -1,0 +1,9 @@
+Damage: '1d3+1 Energy'
+License: 'HA Tokugawa I'
+Name: Annihilator
+Notes: "-"
+Range: 'Cone 5'
+SP: 0
+Size: Main
+Tags: '2 heat (self), AP'
+Type: CQB

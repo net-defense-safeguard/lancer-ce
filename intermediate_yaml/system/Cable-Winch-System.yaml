@@ -1,0 +1,15 @@
+Cost: 1
+Effect: 'As a quick action, you can attach the cables to an adjacent mech. If the
+  mech is shut down, stunned, or a willing target, this action is automatically successful,
+  otherwise it can make a hull check to resist this effect. Once attached, your mech
+  and the attached mech cannot move more than 5 range away from each other. One mech
+  can tow the other, but is crippled while doing so, and must successfully pass a
+  hull check to do so. Any mech can take an action and make a successful hull check
+  or melee or improvised attack to remove the cables (removed on a hit, the cables
+  have evasion 10). The cables can also be attached to the environment or any object.
+  They are 10 length when used this way and can take a combined size of 6 in strain
+  if using them to climb, etc, before they break.'
+Keywords: 'Quick Action'
+License: 'IPS-N Lancaster I'
+Name: 'Cable Winch System'
+Unique: "-"

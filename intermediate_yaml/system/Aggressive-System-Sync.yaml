@@ -1,0 +1,13 @@
+Cost: 2
+Effect: "Gain the following full tech options:\n-Chains of Prometheus: Make a tech\
+  \ attack against a target in your sensor range. On hit, your target must end its\
+  \ turn within range 5 of you until the rest of this challenge. Otherwise it takes\
+  \ 3 heat at the end of its turn.\n-Excommunicate: Make a tech attack against a target\
+  \ in your sensor range. On a hit, for the rest of combat, if your target moves adjacent\
+  \ to a target allied to them or starts their turn adjacent to such a target, both\
+  \ targets take 1d6 heat immediately. Only one target can be affected by this at\
+  \ once."
+Keywords: 'Full Tech'
+License: 'HORUS Minotaur II'
+Name: 'Aggressive System Sync'
+Unique: "-"

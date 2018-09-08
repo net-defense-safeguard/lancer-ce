@@ -1,0 +1,8 @@
+Cost: 2
+Effect: 'At the beginning of your turn, you can give the first attack roll of your
+  turn +1 accuracy. If you do, any additional attack rolls until the end of your turn
+  gain +1 difficulty.'
+Keywords: "-"
+License: 'SSC Dusk Wing I'
+Name: 'Core Siphon'
+Unique: true

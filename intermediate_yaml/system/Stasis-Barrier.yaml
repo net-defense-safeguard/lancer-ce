@@ -1,0 +1,10 @@
+Cost: 2
+Effect: 'This module deploys as a 4 space long piece of size 2 cover that lasts until
+  the end of the current challenge. While behind the barrier, a target counts as having
+  heavy cover and has resistance to all damage from blast, line, and cone attacks.
+  At the end of the challenge, it deactivates and is used up. The cover itself is
+  immune to all damage.'
+Keywords: 'Limited (1), Shield, Deployable'
+License: 'HA Napoleon I'
+Name: 'Stasis Barrier'
+Unique: "-"

@@ -1,0 +1,122 @@
+[Start Region 1]	Size	Type	Tags	Range	Damage	Notes	License	SP
+Empty	-	-	-	-	-	-	-	0
+Anti-Material Rifle	Heavy	Rifle	Loading, Ordnance, AP	20	2d6+2 Kinetic	-	GMS	0
+Assault Rifle	Main	Rifle	-	10	1d6 Kinetic	-	GMS	0
+Charged Blade	Main	Melee	AP	Threat 1	1d3+3 Energy	-	GMS	0
+Drone Nexus (Light)	Auxiliary	Nexus	Smart	8	1d3 Kinetic	-	GMS	0
+Drone Nexus (Hunter-Killer)	Main	Nexus	Smart	10	1d6 Kinetic	-	GMS	0
+Heavy Machine Gun	Heavy	Cannon	Inaccurate	10	2d6+1 Kinetic	-	GMS	0
+Heavy Melee Weapon	Heavy	Melee	-	Threat 1	2d6+2 Kinetic	-	GMS	0
+Heavy Charged Blade	Heavy	Melee	AP	Threat 1	1d6+3 Energy	-	GMS	0
+Howitzer	Heavy	Cannon	Arcing, Loading, Ordnance, Inaccurate	20, Blast 2	2d6 Explosive	-	GMS	0
+Missile Rack	Auxiliary	Launcher	Loading	10, Blast 1	1d3+1 Explosive	-	GMS	0
+Mortar	Main	Launcher	Arcing, Inaccurate	10, Blast 1	1d6 Explosive	-	GMS	0
+Pistol	Auxiliary	CQB	-	5, Threat 3	1d3 Kinetic	-	GMS	0
+Pulse Rifle	Superheavy	Rifle	Reliable 5, Accurate, Loading	15	3d6+3 Kinetic	-	GMS	0
+RPG	Main	Launcher	Loading	10, blast 2	1d6 Explosive	-	GMS	0
+Shotgun	Main	CQB	Reliable 1	5, Threat 3	1d6 Kinetic	-	GMS	0
+Tactical Melee	Main	Melee	-	Threat 1	1d6+2 Kinetic	-	GMS	0
+Tactical Knife	Auxiliary	Melee	-	Threat 1	1d3+1 Kinetic	-	GMS	0
+Thermal Pistol	Auxiliary	CQB	-	Line 5	2 Energy	-	GMS	0
+Thermal Rifle	Main	Rifle	AP	5	1d3+1 Energy	-	GMS	0
+Thermal Lance	Heavy	Cannon	2 heat (self)	Line 10	2d6 Energy	-	GMS	0
+Assault Cannon	Heavy	Cannon	1 heat (self), Unreliable	10	2d6+2 Kinetic	-	IPS-N Drake I	0
+IPS-N Argonaut Shield	Main	Melee	-	Threat 1	1d6 Kinetic	Core System of the IPS-N Drake	IPS-N Drake SHELL	0
+Concussion Missiles	Main	Launcher	-	8	1d3+1 Explosive	Targets struck by these missiles are knocked back 1 space and must pass a systems check or become impaired until the end of their next turn.	IPS-N Drake II	0
+Leviathan Heavy Assault Cannon	Superheavy	Cannon	2 heat (self)	8	1d6 Kinetic	As a quick action, you can pre-cycle this weapon’s barrels. While this weapon’s barrels are spinning, your mech is crippled, but this weapon’s damage increases to 4d6+4 kinetic and it gains Reliable 4. You can stop the spin-up as a free action at the start of your turn, but lose the increased damage until you spin the weapon up again.	IPS-N Drake III	0
+Chain Axe	Main	Melee	Reliable 2	Threat 1	1d6	-	IPS-N Blackbeard I	0
+Nanocarbon Sword	Heavy	Melee	Reliable 3	Threat 2	1d6+3 Kinetic	-	IPS-N Blackbeard II	0
+Flechette Launcher	Auxiliary	CQB	-	Burst 1	1 Kinetic	Deal +2 bonus damage against grappled targets or targets with the Biological tag.	IPS-N Blackbeard II	0
+Automatic Shotgun	Main	CQB	Inaccurate	3, Threat 3	2d6 Kinetic	-	IPS-N Tortuga I	0
+Siege Ram	Main	Melee	Unique	Threat 1	-	Treat this ram like a weapon system. While it's installed, your ram attacks do +1d6 damage on a hit.	IPS-N Tortuga I	0
+Daisy Cutter	Heavy	CQB	Limited (2)	Cone 7	3d6 Kinetic	The blast cloud from firing this weapon lingers until the end of the round after the round in which this weapon was fired, providing light cover to any target in the affected area.	IPS-N Tortuga II	0
+Pneumatic Hammer	Main	Melee	Loading	Threat 1	1d3+4 Kinetic	On a critical hit with this weapon, your target must pass a hull check or be stunned until the end of its next turn.	IPS-N Tortuga III	0
+War Pike	Main	Melee	-	Thrown(5), Threat 2	1d6 Kinetic	-	IPS-N Nelson I	0
+Power Knuckles	Auxiliary	Melee	-	Threat 1	1d3+1 Explosive	On a critical hit, your target must pass a hull check or be knocked prone	IPS-N Nelson III	0
+Latch Drone	Auxiliary	Launcher	-	8	-	Targeting versus Evasion 8 against any friendly mech in range (taking cover and LOS into account); on a hit, target can spend 1 repair to heal. Core system of the IPS-N Lancaster.	IPS-N Lancaster II	0
+Plasma Cutter	Auxiliary	Melee	1 heat (self)	Threat 1	1 Energy +1 Heat + Burn 1		IPS-N Lancaster III	0
+Impaler	Main	Launcher	AP, 1 heat (self)	Line 5	1d6 Kinetic	The farthest target from you hit by this weapon must pass a hull check or become immobilized until the start of your next turn.	IPS-N Vlad I	0
+Nailgun	Main	CQB	AP, 1 heat (self)	8, Threat 3	1d6 Kinetic	On a critical hit, the target of this attack must pass an hull check or be immobilized until the start of your next turn.	IPS-N Vlad II	0
+Combat Drill	Superheavy	Melee	Unreliable, AP	Threat 1	3d6 Kinetic + 1d6 Energy	-	IPS-N Vlad III	0
+Hand Cannon	Auxiliary	CQB	Loading	5, Threat 3	1d6+1	-	IPS-N Raleigh I	0
+M-35 MJOLNIR cannon	Auxiliary	CQB	-	5, Threat 3	3 Kinetic	Core System of the Raleigh; doesn't take a mount, cannot be modified or use special ammo.	IPS-N Raleigh SHELL	0
+Bolt Thrower	Heavy	Cannon	-	10	1d6 Kinetic + 1d6 Explosive	-	IPS-N Raleigh II	0
+Kinetic Hammer	Heavy	Melee	Reliable 3	Threat	2d6+1 Kinetic	-	IPS-N Raleigh III	0
+ORACLE Light Machine Gun	Auxiliary	Rifle	Arcing, Accurate	15	1d3 Kinetic	-	SSC Swallowtail I	1
+Markerlight	Main	Rifle	-	20	-	This weapon deals no damage and cannot deal damage (from talents or otherwise), but on hit, it inflict Lock On on your target at the end of your turn.	SSC Swallowtail II	0
+Sharanga Missiles	Main	Launcher	Arcing	15	3 Explosive	When you fire this weapon, you can choose one or two targets in range and line of sight, making attack rolls for reach.	SSC Monarch I	0
+Gandiva Missiles	Heavy	Launcher	Smart, Seeking, Accurate, 1 SP	15	1d6+1 Energy	-	SSC Monarch II	1
+Pinaka Missiles	Superheavy	Launcher	Arcing, 2 heat (self)	30, one or two Blast 2 areas	2d6+4 Explosive	When this weapon is fired, it choses one or two Blast 2 areas within range to attack. These areas cannot overlap.	SSC Monarch III	0
+Vijaya Rockets	Auxiliary	Launcher	Accurate	5	1d3 Explosive	-	SSC Mourning Cloak I	0
+Variable Knife	Auxiliary	Melee	AP, Accurate 	Threat	2 Kinetic	-	SSC Mourning Cloak I	0
+Variable Sword	Main	Melee	AP, Accurate, Unique	Threat 2	4 Kinetic	-	SSC Mourning Cloak III	0
+Kodandam Missiles	Auxiliary	Launcher	Limited (3)	20, Blast 1	1d6 Explosive	-	SSC Death's Head II	0
+Railgun	Heavy	Rifle	AP, Ordnance	Line 20	1d6+3 Kinetic	-	SSC Death's Head III	0
+Vulture Battle Rifle	Main	Rifle	Unreliable, Accurate	15	1d6+1 Kinetic	-	SSC Dusk Wing I	0
+Burst Launcher	Main	Launcher	Arcing	10	1d3 Heat	On a critical hit, a target struck by this weapon must pass an engineering skill check or become impaired until the start of your next turn.	SSC Dusk Wing II	0
+Rail Rifle	Main	Rifle	-	Line 10	1d6 Kinetic	-	SSC Metalmark II	0
+Shock Knife	Auxiliary	Melee	1 heat (self), Burn 2	Threat 1	1 Energy	-	SSC Metalmark III	0
+Mag Cannon	Main	Cannon	-	Line 8	1d3+1 Heat	-	SSC Black Witch I	0
+Nanobot Whip	Heavy	Melee	2 SP	Threat 3	2d6 Kinetic	On a critical hit (20+), the target must pass a systems check to scramble the nanites or be pulled to any free adjacent space to your mech (or be pulled as far as possible while obeying obstrutions)	HORUS Balor III	2
+Seeker Swarm Nexus	Main	Nexus	Smart, Seeking, Burn 2	10	1 Kinetic	-	HORUS Balor III	0
+Autopod	Auxiliary	Launcher	Unique, Seeking	10	2 Kinetic	This gun cannot be fired normally. Instead, whenever a Lock On is consumed within range, whether you or an ally does so, this gun automatically fires at the target as a reaction. This can be done any number of times per round.	HORUS Goblin II	0
+Ghoul Nexus	Main	Nexus	Smart	15	1d3+1 Kinetic, Explosive, or Energy	Choose damage type when attacking.	HORUS Hydra I	0
+GHAST Drone Nexus	Heavy	Nexus	Smart	15	1d6+3 Explosive	-	HORUS Hydra II	0
+Vorpal Gun	Main	Cannon	-	5	2d6 Kinetic	This weapon cannot be fired normally. Instead, it can only be fired 1/round as a reaction to an ally taking damage from a target within its range.	HORUS Gorgon III	0
+Arc Projector	Main	CQB	2 heat (self)	Cone 5	1d3+1 Heat	-	HORUS Manticore I	0
+Autogun	Main	Cannon	1 SP	20	3 Kinetic	This weapon can fire itself as a Free Action at the end of round, using your mechs bonuses.	HORUS Pegasus I	1
+Ushabti Omnigun	-	-	AP	30	1 Kinetic	Free action to fire 1/round. This doesn't count as an attack, can't miss, ignores Cover, and the damage can't be prevented. Core System of the HORUS Pegasus.	HORUS Pegasus SHELL	0
+Smart Gun	Main	Rifle	2 SP, Smart, Seeking, Accurate	20	4 Kinetic	-	HORUS Pegasus II	2
+Mimic Gun	Heavy	???	-	???	???	At the start of your turn, roll 1d20. This gun has range equal to the number rolled, and damage equal to half that number(rounded up) +1. If the roll is odd, it deals energy damage, if even, then explosive.	HORUS Pegasus III	0
+Annihilator	Main	CQB	2 heat (self), AP	Cone 5	1d3+1 Energy	-	HA Tokugawa I	0
+Plasma Lash	Main	Melee	Burn 3	Threat 3	 1 Energy Damage+ Burn 3	Can be used in either profile, but not both in the same round.	HA Tokugawa II	0
+Torch	Main	Melee	1 heat (self), Burn 2	Threat	1d6 Energy + Burn 2	-	HA Tokugawa III	0
+Flak Cannon	Main	Cannon	Reliable 1	20	1d3 Kinetic	Any flying target damaged by this weapon must pass an Agility check or immediately fall.	HA Barbarossa II	0
+Siege Cannon	Superheavy	Cannon	4 heat (self), Arcing, Ordnance, Loading	30, Blast 3	3d6 Explosive	-	HA Barbarossa III	0
+Displacer	Main	Rifle	Unique, Loading, AP, 10 Heat (Self)	15, Blast 1	12 Energy	-	HA Napoleon III	0
+Zone Focus Mk IV SOLIDCORE	Main	Cannon	Ordnance	Line 15	1d3+1 Energy	Core system of the Sherman; doesn't take a mount.	HA Sherman II	0
+Laser Rifle (SOL-Pattern)	Main	Rifle	1 heat (self), Burn 1	10	1d6 Energy + Burn 1	-	HA Sherman I	0
+Heavy Laser	Heavy	Cannon	3 heat (self), Burn 3	15	2d6 Energy + Burn 3	-	HA Sherman II	0
+Tachyon Lance	Superheavy	Cannon	Ordnance, 4 heat (self)	20	2d6 Energy + Burn 8	-	HA Sherman III	0
+Stub Cannon	Auxiliary	Cannon	Limited (6)	5	3 Kinetic	Targets hit by this weapon are knocked one space back, directly away from the attacker.	HA Iskander I	0
+Assault Launcher	Auxiliary	Launcher	Arcing	15	-	When you take this weapon, choose a deployable. You can fire and deploy it using this weapon’s range, using the regular rules for planting deployables. You can only target the ground with this weapon, not enemy mechs.	HA Iskander II	0
+Gravity Gun	Heavy	Rifle	-	8, Blast 3	See Notes	All targets caught in the Blast must pass a Hull check or take 1d6 Energy damage and be pulled to the center of the area.	HA Iskander II	0
+Sticky Bomb Launcher	Main	Launcher	Arcing	15	-	To fire this weapon, you can attack a point on the environment within range without rolling, or make a regular attack roll against a target within range. On a hit, the target or area does not take damage, but instead has a sticky bomb attached. It takes an action and a successful engineering check to remove all sticky bombs from an area or mech. As an end of round action, you can detonate all sticky bombs fired by this weapon to deal 1d6 explosive damage in blast 1 centered on all targeted mechs or areas. Mechs caught in the blast area can pass an agility check to halve this damage, but mechs ‘stuck’ by this weapon fail their check automatically.	HA Iskander III	0
+Flamethrower	Heavy	CQB	Burn 4	Cone 5	1 Heat + Burn 4	-	HA Genghis I	0
+Plasma Thrower	Superheavy	CQB	4 heat (Self), Burn 5	Cone 7	Burn 5 + 1d6 Heat	-	HA Genghis III	0
+Prototype Melee	Main	Melee	Limited (1d6+2), Unreliable	Threat 1	1d6 Kinetic, Explosive, or Energy	-	Engineer I	0
+Prototype Rifle	Main	Rifle	Limited (1d6+2), Unreliable	8	1d6 Kinetic, Explosive, or Energy	-	Engineer I	0
+Prototype Cannon	Main	Cannon	Limited (1d6+2), Unreliable	8	1d6 Kinetic, Explosive, or Energy	-	Engineer I	0
+Prototype Launcher	Main	Launcher	Limited (1d6+2), Unreliable	8	1d6 Kinetic, Explosive, or Energy	-	Engineer I	0
+Prototype CQB	Main	CQB	Limited (1d6+2), Unreliable	8	1d6 Kinetic, Explosive, or Energy	-	Engineer I	0
+Prototype Tweaked Optics Melee	Main	Melee	Limited (1d6+2), Unreliable	Threat 1	1d6 Kinetic, Explosive, or Energy	This weapon always has +1 Accuracy	Engineer II	0
+Prototype Tweaked Optics Rifle	Main	Rifle	Limited (1d6+2), Unreliable	8	1d6 Kinetic, Explosive, or Energy	This weapon always has +1 Accuracy	Engineer II	0
+Prototype Tweaked Optics Cannon	Main	Cannon	Limited (1d6+2), Unreliable	8	1d6 Kinetic, Explosive, or Energy	This weapon always has +1 Accuracy	Engineer II	0
+Prototype Tweaked Optics Melee	Main	Launcher	Limited (1d6+2), Unreliable	8	1d6 Kinetic, Explosive, or Energy	This weapon always has +1 Accuracy	Engineer II	0
+Prototype Tweaked Optics CQB	Main	CQB	Limited (1d6+2), Unreliable	8	1d6 Kinetic, Explosive, or Energy	This weapon always has +1 Accuracy	Engineer II	0
+Prototype Tweaked Computer Melee	Main	Melee	Limited (1d6+2), Unreliable, Smart	Threat	1d6 Kinetic, Explosive, or Energy	-	Engineer II	0
+Prototype Tweaked Computer Rifle	Main	Rifle	Limited (1d6+2), Unreliable, Smart	8	1d6 Kinetic, Explosive, or Energy	-	Engineer II	0
+Prototype Tweaked Computer Cannon	Main	Cannon	Limited (1d6+2), Unreliable, Smart	8	1d6 Kinetic, Explosive, or Energy	-	Engineer II	0
+Prototype Tweaked Computer Launcher	Main	Launcher	Limited (1d6+2), Unreliable, Smart	8	1d6 Kinetic, Explosive, or Energy	-	Engineer II	0
+Prototype Tweaked Computer CQB	Main	CQB	Limited (1d6+2), Unreliable, Smart	8	1d6 Kinetic, Explosive, or Energy	-	Engineer II	0
+Prototype Remove Reactor Shielding Melee	Main	Melee	Limited (1d6+2), Unreliable	Threat	1d6 Kinetic, Explosive, or Energy	Can also fire as Cone 3, Line 5, or Blast 1, but costs 2 Heat	Engineer II	0
+Prototype Remove Reactor Shielding Rifle	Main	Rifle	Limited (1d6+2), Unreliable	8	1d6 Kinetic, Explosive, or Energy	Can also fire as Cone 3, Line 5, or Blast 1, but costs 2 Heat	Engineer II	0
+Prototype Remove Reactor Shielding Cannon	Main	Cannon	Limited (1d6+2), Unreliable	8	1d6 Kinetic, Explosive, or Energy	Can also fire as Cone 3, Line 5, or Blast 1, but costs 2 Heat	Engineer II	0
+Prototype Remove Reactor Shielding Launcher	Main	Launcher	Limited (1d6+2), Unreliable	8	1d6 Kinetic, Explosive, or Energy	Can also fire as Cone 3, Line 5, or Blast 1, but costs 2 Heat	Engineer II	0
+Prototype Remove Reactor Shielding CQB	Main	CQB	Limited (1d6+2), Unreliable	8	1d6 Kinetic, Explosive, or Energy	Can also fire as Cone 3, Line 5, or Blast 1, but costs 2 Heat	Engineer II	0
+Final Draft Tweaked Optics Melee	Main	Melee	Limited (2d6+1), Unreliable	Threat	1d6 Kinetic, Explosive, or Energy	This weapon always has +1 Accuracy	Engineer III	0
+Final Draft Tweaked Optics Rifle	Main	Rifle	Limited (2d6+1), Unreliable	8	1d6 Kinetic, Explosive, or Energy	This weapon always has +1 Accuracy	Engineer III	0
+Final Draft Tweaked Optics Cannon	Main	Cannon	Limited (2d6+1), Unreliable	8	1d6 Kinetic, Explosive, or Energy	This weapon always has +1 Accuracy	Engineer III	0
+Final Draft Tweaked Optics Melee	Main	Launcher	Limited (2d6+1), Unreliable	8	1d6 Kinetic, Explosive, or Energy	This weapon always has +1 Accuracy	Engineer III	0
+Final Draft Tweaked Optics CQB	Main	CQB	Limited (2d6+1), Unreliable	8	1d6 Kinetic, Explosive, or Energy	This weapon always has +1 Accuracy	Engineer III	0
+Final Draft Tweaked Computer Melee	Main	Melee	Limited (2d6+1), Unreliable, Smart	Threat	1d6 Kinetic, Explosive, or Energy	-	Engineer III	0
+Final Draft Tweaked Computer Rifle	Main	Rifle	Limited (2d6+1), Unreliable, Smart	8	1d6 Kinetic, Explosive, or Energy	-	Engineer III	0
+Final Draft Tweaked Computer Cannon	Main	Cannon	Limited (2d6+1), Unreliable, Smart	8	1d6 Kinetic, Explosive, or Energy	-	Engineer III	0
+Final Draft Tweaked Computer Launcher	Main	Launcher	Limited (2d6+1), Unreliable, Smart	8	1d6 Kinetic, Explosive, or Energy	-	Engineer III	0
+Final Draft Tweaked Computer CQB	Main	CQB	Limited (2d6+1), Unreliable, Smart	8	1d6 Kinetic, Explosive, or Energy	-	Engineer III	0
+Final Draft Remove Reactor Shielding Melee	Main	Melee	Limited (2d6+1), Unreliable	Threat	1d6 Kinetic, Explosive, or Energy	Can also fire as Cone 3, Line 5, or Blast 1, but costs 2 Heat	Engineer III	0
+Final Draft Remove Reactor Shielding Rifle	Main	Rifle	Limited (2d6+1), Unreliable	8	1d6 Kinetic, Explosive, or Energy	Can also fire as Cone 3, Line 5, or Blast 1, but costs 2 Heat	Engineer III	0
+Final Draft Remove Reactor Shielding Cannon	Main	Cannon	Limited (2d6+1), Unreliable	8	1d6 Kinetic, Explosive, or Energy	Can also fire as Cone 3, Line 5, or Blast 1, but costs 2 Heat	Engineer III	0
+Final Draft Remove Reactor Shielding Launcher	Main	Launcher	Limited (2d6+1), Unreliable	8	1d6 Kinetic, Explosive, or Energy	Can also fire as Cone 3, Line 5, or Blast 1, but costs 2 Heat	Engineer III	0
+Final Draft Remove Reactor Shielding CQB	Main	CQB	Limited (2d6+1), Unreliable	8	1d6 Kinetic, Explosive, or Energy	Can also fire as Cone 3, Line 5, or Blast 1, but costs 2 Heat	Engineer III	0
+Fuel Rod Gun	Auxiliary	CQB	Unique, Limited (6)	8	1d3+1 Energy	When you fire this weapon, hit or miss, cool 1d3+1 Heat	Nuclear Cavalier III	0

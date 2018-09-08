@@ -1,0 +1,13 @@
+Cost: 2
+Effect: 'Your mech has a basic companion/concierge unit installed in it. It can speak
+  to you and has a personality but is not truly capable of independent thought, as
+  a true AI would be. It is obedient to you alone. It can take actions and move on
+  its own prerogative when not piloted, using its stats, but has no independent initiative
+  (it must take and follow commands from you, or else takes no action other than to
+  defend itself). It is controlled by the GM and gains its own set of actions (but
+  acts on your turn), and cannot benefit from any of your talents. Dummy Plugs are
+  not true AIs and thus cannot be unshackled.'
+Keywords: AI
+License: GMS
+Name: 'Companion/Concierge-Class Dummy Plug'
+Unique: true

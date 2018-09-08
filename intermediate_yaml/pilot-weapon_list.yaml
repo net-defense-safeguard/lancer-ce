@@ -1,0 +1,293 @@
+Arc-Blade:
+    Damage: '2 Energy'
+    Manufacturer: SSC
+    Name: 'Arc Blade'
+    Notes: "-"
+    Range: Threat
+    Rarity: 2
+    Tags: 'Reliable 1'
+Atlatl:
+    Damage: '1 Explosive'
+    Manufacturer: HA
+    Name: Atlatl
+    Notes: "It can be thrown very accurately up to range 5, recalled to hand as an\
+        \ action, and guides itself around cover and other obstacles.\n"
+    Range: 'Threat, Thrown 5'
+    Rarity: 3
+    Tags: Seeking
+Coldcore-Sabot-AA-Rifle:
+    Damage: '3 Energy'
+    Manufacturer: SSC
+    Name: 'Coldcore Sabot AA Rifle'
+    Notes: "-"
+    Range: 15
+    Rarity: 3
+    Tags: 'Accurate, Loading, Ordnance'
+Combat-Alloy-Composite-Weapon:
+    Damage: '2 Kinetic'
+    Manufacturer: GMS
+    Name: 'Combat Alloy/Composite Weapon'
+    Notes: "-"
+    Range: Threat
+    Rarity: 0
+    Tags: "-"
+Combat-Signature-Weapon-Energy:
+    Damage: '2 Energy'
+    Manufacturer: GMS
+    Name: 'Combat Signature Weapon (Energy)'
+    Notes: "-"
+    Range: 5
+    Rarity: 0
+    Tags: "-"
+Combat-Signature-Weapon-Explosive:
+    Damage: '2 Explosive'
+    Manufacturer: GMS
+    Name: 'Combat Signature Weapon (Explosive)'
+    Notes: "-"
+    Range: 5
+    Rarity: 0
+    Tags: "-"
+Combat-Signature-Weapon-Kinetic:
+    Damage: '2 Kinetic'
+    Manufacturer: GMS
+    Name: 'Combat Signature Weapon (Kinetic)'
+    Notes: "-"
+    Range: 5
+    Rarity: 0
+    Tags: "-"
+EYESTACK-WINK:
+    Damage: '3 Kinetic'
+    Manufacturer: HORUS
+    Name: EYESTACK_WINK
+    Notes: 'This weapon doesn''t count against your maximum weapons wielded.'
+    Range: 2
+    Rarity: 4
+    Tags: 'Limited 1, AP'
+Hackiron:
+    Damage: '3 Kinetic'
+    Manufacturer: IPS-N
+    Name: Hackiron
+    Notes: 'You must be wearing a hardsuit worth at least 1 armor to use a hackiron.'
+    Range: Threat
+    Rarity: 2
+    Tags: 'Reliable 1, Inaccurate'
+Hardlight-Weapon:
+    Damage: '2 Energy'
+    Manufacturer: HA
+    Name: 'Hardlight Weapon'
+    Notes: "-"
+    Range: Threat
+    Rarity: 4
+    Tags: 'Burn 1'
+Heavy-Alloy-Composite-Weapon:
+    Damage: '4 Kinetic'
+    Manufacturer: GMS
+    Name: 'Heavy Alloy/Composite Weapon'
+    Notes: "-"
+    Range: Threat
+    Rarity: 0
+    Tags: Inaccurate
+Heavy-Signature-Weapon-Energy:
+    Damage: '4 Energy'
+    Manufacturer: GMS
+    Name: 'Heavy Signature Weapon (Energy)'
+    Notes: "-"
+    Range: 10
+    Rarity: 0
+    Tags: 'Ordnance, Limited (3)'
+Heavy-Signature-Weapon-Explosive:
+    Damage: '4 Explosive'
+    Manufacturer: GMS
+    Name: 'Heavy Signature Weapon (Explosive)'
+    Notes: "-"
+    Range: 10
+    Rarity: 0
+    Tags: 'Ordnance, Limited (3)'
+Heavy-Signature-Weapon-Kinetic:
+    Damage: '4 Kinetic'
+    Manufacturer: GMS
+    Name: 'Heavy Signature Weapon (Kinetic)'
+    Notes: "-"
+    Range: 10
+    Rarity: 0
+    Tags: 'Ordnance, Limited (3)'
+Implanted-Gun:
+    Damage: '1 Energy'
+    Manufacturer: SSC
+    Name: 'Implanted Gun'
+    Notes: 'Whenever you fire a weapon, you can fire this weapon at the same or a
+        different target.'
+    Range: 2
+    Rarity: 1
+    Tags: "-"
+KOTTOS-AA-Largearm-Rifle:
+    Damage: '1d3 Kinetic'
+    Manufacturer: HA
+    Name: 'KOTTOS AA/Largearm Rifle'
+    Notes: 'This heavy anti-armor rifle requires mounting on a tripod before use,
+        though some models come with a built-in stand. The enormous kick from this
+        weapon is infamous for dislocating rookie pilots’ shoulders.'
+    Range: 8
+    Rarity: 1
+    Tags: Ordnance
+Light-Alloy-Composite-Weapon:
+    Damage: '1 Kinetic'
+    Manufacturer: GMS
+    Name: 'Light Alloy/Composite Weapon'
+    Notes: 'Once per round, reroll an attack roll with this weapon. You must keep
+        the second result.'
+    Range: Threat
+    Rarity: 0
+    Tags: "-"
+MicroCore-Laser-Rifle:
+    Damage: '1 Energy'
+    Manufacturer: HA
+    Name: 'MicroCore Laser Rifle'
+    Notes: "-"
+    Range: 5
+    Rarity: 2
+    Tags: 'Burn 2, Loading'
+Micropack-Launcher:
+    Damage: '2 Explosive'
+    Manufacturer: SSC
+    Name: 'Micropack Launcher'
+    Notes: "-"
+    Range: '5, Blast 1'
+    Rarity: 3
+    Tags: Loading
+Nanobot-Whip:
+    Damage: '1 Kinetic'
+    Manufacturer: HORUS
+    Name: 'Nanobot Whip'
+    Notes: 'If you don''t attack with this weapon, until the end of your next turn,
+        weapons and systems with the Smart, Nexus, and Drone tags cannot target you.'
+    Range: Threat+1
+    Rarity: 3
+    Tags: "-"
+Null-Spike:
+    Damage: "-"
+    Manufacturer: HORUS
+    Name: 'Null Spike'
+    Notes: 'No effect against non-organic targets, but on a hit, any human target
+        is stunned until the start of your next turn. A target develops short-term
+        resistance to this weapon, and can only be affected by it once per challenge.'
+    Range: Threat
+    Rarity: 3
+    Tags: "-"
+PGR-GOURD:
+    Damage: '1 Kinetic'
+    Manufacturer: HORUS
+    Name: PGR_GOURD
+    Notes: "-"
+    Range: 5
+    Rarity: 2
+    Tags: 'Smart, Seeking'
+Peacekeeper-R35:
+    Damage: '3 Explosive'
+    Manufacturer: IPS-N
+    Name: '"Peacekeeper" R35'
+    Notes: "-"
+    Range: 3
+    Rarity: 1
+    Tags: 'Limited (6)'
+Pilot-Weapon:
+    Damage: "-"
+    Manufacturer: "-"
+    Name: 'Pilot Weapon'
+    Notes: "-"
+    Range: "-"
+    Rarity: 0
+    Tags: "-"
+Primitive-Melee:
+    Damage: '1 Kinetic'
+    Manufacturer: GMS
+    Name: 'Primitive Melee'
+    Notes: "-"
+    Range: Threat
+    Rarity: 0
+    Tags: Unreliable
+Primitive-Ranged:
+    Damage: '1 Kinetic'
+    Manufacturer: GMS
+    Name: 'Primitive Ranged'
+    Notes: .nan
+    Range: 5
+    Rarity: 0
+    Tags: Unreliable
+Prism-Gun:
+    Damage: '2 Energy'
+    Manufacturer: IPS-N
+    Name: 'Prism Gun'
+    Notes: "-"
+    Range: 'Cone 3'
+    Rarity: 4
+    Tags: Inaccurate
+Ripjack:
+    Damage: '2 Kinetic'
+    Manufacturer: IPS-N
+    Name: Ripjack
+    Notes: 'Can be used as a Thrown 4 weapon against a human-sized non-mech target
+        in range, immobilizing them instead of dealing damage until the start of your
+        next turn. Can also be used as a normal grappling hook.'
+    Range: 'Threat, Thrown 4'
+    Rarity: 3
+    Tags: "-"
+Sidearm-Signature-Weapon-Energy:
+    Damage: '1 Energy'
+    Manufacturer: GMS
+    Name: 'Sidearm Signature Weapon (Energy)'
+    Notes: 'Once per round, reroll an attack roll with this weapon. You must keep
+        the second result.'
+    Range: 3
+    Rarity: 0
+    Tags: "-"
+Sidearm-Signature-Weapon-Explosive:
+    Damage: '1 Explosive'
+    Manufacturer: GMS
+    Name: 'Sidearm Signature Weapon (Explosive)'
+    Notes: 'Once per round, reroll an attack roll with this weapon. You must keep
+        the second result.'
+    Range: 3
+    Rarity: 0
+    Tags: "-"
+Sidearm-Signature-Weapon-Kinetic:
+    Damage: '1 Kinetic'
+    Manufacturer: GMS
+    Name: 'Sidearm Signature Weapon (Kinetic)'
+    Notes: 'Once per round, reroll an attack roll with this weapon. You must keep
+        the second result.'
+    Range: 3
+    Rarity: 0
+    Tags: "-"
+Sidekick:
+    Damage: '1 Kinetic'
+    Manufacturer: HORUS
+    Name: Sidekick
+    Notes: "-"
+    Range: 3
+    Rarity: 2
+    Tags: 'Reliable 1'
+Siege-Hammer:
+    Damage: '5 Kinetic'
+    Manufacturer: IPS-N
+    Name: 'Siege Hammer'
+    Notes: 'While wielding this weapon, your pilot can''t take the Dash action.'
+    Range: Threat
+    Rarity: 3
+    Tags: 'Loading, AP'
+Smart-Knife:
+    Damage: '1 Kinetic'
+    Manufacturer: HORUS
+    Name: 'Smart Knife'
+    Notes: "-"
+    Range: Threat
+    Rarity: 2
+    Tags: Accurate
+Variable-Sword:
+    Damage: '3 Kinetic'
+    Manufacturer: SSC
+    Name: 'Variable Sword'
+    Notes: "-"
+    Range: Threat+1
+    Rarity: 4
+    Tags: 'AP, Limited 6'

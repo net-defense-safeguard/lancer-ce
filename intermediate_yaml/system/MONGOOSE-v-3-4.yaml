@@ -1,0 +1,8 @@
+Cost: 2
+Effect: 'Gain the following quick tech option: Baleful Purge: Choose a target in range
+  and make a tech attack. If your attack is successful, until the end of that target’s
+  next turn, it cannot benefit from any Accuracy bonuses of any kind.'
+Keywords: "-"
+License: 'HORUS Goblin II'
+Name: '//MONGOOSE v. 3.4'
+Unique: true

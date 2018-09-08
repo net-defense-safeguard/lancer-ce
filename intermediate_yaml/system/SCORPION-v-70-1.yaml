@@ -1,0 +1,9 @@
+Cost: 2
+Effect: 'If any hostile tech action or attack attempt on you or any adjacent ally
+  misses, you may choose one of the following results for the attacker: 1) The attacker
+  is Impaired until the end of its next turn. 2) The attacker is Jammed until the
+  end of its next turn. 3) The attacker takes 3 heat.'
+Keywords: "-"
+License: 'HORUS Gorgon II'
+Name: '//SCORPION v. 70.1'
+Unique: true

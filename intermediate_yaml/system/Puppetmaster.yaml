@@ -1,0 +1,8 @@
+Cost: 1
+Effect: 'Gain the following quick tech option: Fractal Logic: Make a tech attack against
+  a target in your sensor range. On hit, Your target cannot use systems or weapons
+  with the Drone, Nexus or Smart tags until the start of your next turn.'
+Keywords: 'Quick Tech'
+License: 'HORUS Hydra I'
+Name: Puppetmaster
+Unique: true

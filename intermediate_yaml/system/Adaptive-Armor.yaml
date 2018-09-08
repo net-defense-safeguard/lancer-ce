@@ -1,0 +1,8 @@
+Cost: 2
+Effect: 'Once per round, when you take damage, you can gain 4 armor against the triggering
+  attack as a reaction. This armor can put you over the maximum, but works against
+  the triggering attack only, and is then lost.'
+Keywords: Reaction
+License: 'IPS-N Nelson III'
+Name: 'Adaptive Armor'
+Unique: true

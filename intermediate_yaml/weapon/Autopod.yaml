@@ -1,0 +1,11 @@
+Damage: '2 Kinetic'
+License: 'HORUS Goblin II'
+Name: Autopod
+Notes: 'This gun cannot be fired normally. Instead, whenever a Lock On is consumed
+  within range, whether you or an ally does so, this gun automatically fires at the
+  target as a reaction. This can be done any number of times per round.'
+Range: 10
+SP: 0
+Size: Auxiliary
+Tags: 'Unique, Seeking'
+Type: Launcher
