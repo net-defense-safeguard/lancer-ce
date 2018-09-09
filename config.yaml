@@ -18,6 +18,9 @@ xlsx:
 #         talent: 'TalentLookup'
 #         condition: 'ConditionLookup'
 catalog_categories:
-    shell:
-        name_field:
-    
+    weapon:
+        id_field: 'id'
+        name_field: 'Name'
+        header_fields: ['Size', 'Type']
+        brief_fields = ['Damage', 'Range', 'Tags', 'License', 'SP']
+        

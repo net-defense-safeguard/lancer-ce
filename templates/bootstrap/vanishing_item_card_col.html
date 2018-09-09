@@ -1,0 +1,24 @@
+{% extends 'bootstrap/item_card_col.html' %}
+{% set prefixed_wrapper_id = id_prefix ~ 'card-item-wrapper-' ~ item[id_field] %}
+{% set vanish_target_id_prefixed_wrapper_id = vanish_target_id_prefix ~ 'card-item-wrapper-' ~ item[id_field] %}
+{% set show_class = '' %}
+{% if show  %}
+{% set show_class = 'show' %}
+{% endif %}
+
+{% set vanish_target_show_attr = 'false' %}
+{% if vanish_target_show  %}
+{% set vanish_target_show_attr = 'true' %}
+{% endif %}
+
+{% block card_wrapper_classes %}{{ super() }} collapse {{ show_class }} {% endblock card_wrapper_classes %}
+{% block card_header %}
+    {{ super() }}
+    <button class="btn btn-primary" 
+            type="button" data-toggle="collapse" 
+            data-target="#{{ vanish_target_id_prefixed_wrapper_id }}, #{{ prefixed_wrapper_id }}" 
+            aria-expanded="{{ vanish_target_show_attr }}" 
+            aria-controls="{{ vanish_target_id_prefixed_wrapper_id }}">
+    {{ vanish_toggle_text }}
+    </button>
+{% endblock card_header %}

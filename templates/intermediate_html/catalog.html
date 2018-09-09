@@ -2,10 +2,19 @@
 {% block main %}
 <div class="album py-5 bg-light">
 <div class="container">
+<h4>Equipped</h4>
 <div class="row">
 {% for item in items %}
-    {% with item=item, id_field=id_field, name_field=name_field, title_fields=title_fields, brief_fields=brief_fields, detail_fields=detail_fields, id_prefix = 'catalog-' %}
-        {% include 'bootstrap/item_card_col.html' %}
+    {% with item=item, id_field=id_field, name_field=name_field, title_fields=title_fields, brief_fields=brief_fields, detail_fields=detail_fields, id_prefix = 'equipped-', show = False, vanish_target_show = True, vanish_target_id_prefix = 'catalog-', vanish_toggle_text = 'Unequip'%}
+        {% include 'bootstrap/vanishing_item_card_col.html' %}
+    {% endwith %}
+{% endfor %}
+</div>
+<h4>Catalog</h4>
+<div class="row">
+{% for item in items %}
+    {% with item=item, id_field=id_field, name_field=name_field, title_fields=title_fields, brief_fields=brief_fields, detail_fields=detail_fields, id_prefix = 'catalog-', show = True, vanish_target_show = False, vanish_target_id_prefix = 'equipped-', vanish_toggle_text = 'Equip' %}
+        {% include 'bootstrap/vanishing_item_card_col.html' %}
     {% endwith %}
 {% endfor %}
 </div>

@@ -1,7 +1,8 @@
 {% extends 'bootstrap/item_card.html' %}
+{% set prefixed_wrapper_id = id_prefix ~ 'card-item-wrapper-' ~ item[id_field] %}
 {% block card_classes %}{{ super() }} mb-4 box-shadow{% endblock card_classes %}
 {% block card_wrapper %}
-<div class="col-md-4">
+<div class="{% block card_wrapper_classes %}col-md-4{% endblock card_wrapper_classes %}" id="{{ prefixed_wrapper_id }}">
     {{ super() }}
 </div>
 {% endblock card_wrapper %}

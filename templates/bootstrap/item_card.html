@@ -9,8 +9,8 @@
                          aria-controls="{{ body_prefixed_id }}">{{ item[name_field] }}</a>{% endblock card_title %}
 {% block card_header %}
     {{ super() }}
-    {% for title_field in title_fields %}
-        <span class="badge badge-secondary">{{ item[title_field] }}</span>
+    {% for header_field in header_fields %}
+        <span class="badge badge-secondary">{{ item[header_field] }}</span>
     {% endfor %}
 {% endblock card_header %}
 {% block card_body_classes %}{{ super() }} collapse show{% endblock card_body_classes %}
