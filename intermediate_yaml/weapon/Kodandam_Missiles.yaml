@@ -1,0 +1,10 @@
+Damage: '1d6 Explosive'
+License: 'SSC Death''s Head II'
+Name: 'Kodandam Missiles'
+Notes: "-"
+Range: '20, Blast 1'
+SP: 0
+Size: Auxiliary
+Tags: 'Limited (3)'
+Type: Launcher
+id: Kodandam_Missiles

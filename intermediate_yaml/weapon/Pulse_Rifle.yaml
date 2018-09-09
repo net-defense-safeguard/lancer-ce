@@ -1,0 +1,10 @@
+Damage: '3d6+3 Kinetic'
+License: GMS
+Name: 'Pulse Rifle'
+Notes: "-"
+Range: 15
+SP: 0
+Size: Superheavy
+Tags: 'Reliable 5, Accurate, Loading'
+Type: Rifle
+id: Pulse_Rifle

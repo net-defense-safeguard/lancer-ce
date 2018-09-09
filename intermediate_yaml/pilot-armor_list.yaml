@@ -1,4 +1,4 @@
-ASHOKA-Overarmor:
+ASHOKA_Overarmor:
     Armor: 2
     Bonuses: 'While wearing this armor, if you would take more than ½ your maximum
         HP in damage, reduce the damage instead to ½ your maximum HP.'
@@ -8,7 +8,8 @@ ASHOKA-Overarmor:
     Name: 'ASHOKA Overarmor'
     Rarity: 4
     Speed: 3
-Acherontia-Panoply:
+    id: ASHOKA_Overarmor
+Acherontia_Panoply:
     Armor: 1
     Bonuses: "-"
     E-defense: 10
@@ -17,7 +18,8 @@ Acherontia-Panoply:
     Name: 'Acherontia Panoply'
     Rarity: 2
     Speed: 6
-Assault-hardsuit:
+    id: Acherontia_Panoply
+Assault_hardsuit:
     Armor: 2
     Bonuses: "-"
     E-defense: 8
@@ -26,6 +28,7 @@ Assault-hardsuit:
     Name: 'Assault hardsuit'
     Rarity: 0
     Speed: 4
+    id: Assault_hardsuit
 Buckler:
     Armor: "-"
     Bonuses: 'While wearing plain clothes (not armor or a hardsuit), as a reaction
@@ -38,7 +41,8 @@ Buckler:
     Name: Buckler
     Rarity: 1
     Speed: "-"
-CALADBOLG-Mobile-Cuirass:
+    id: Buckler
+CALADBOLG_Mobile_Cuirass:
     Armor: 2
     Bonuses: 'While wearing this, a pilot has +5 HP.'
     E-defense: 7
@@ -47,7 +51,8 @@ CALADBOLG-Mobile-Cuirass:
     Name: 'CALADBOLG Mobile Cuirass'
     Rarity: 4
     Speed: 3
-Combat-Webbing:
+    id: CALADBOLG_Mobile_Cuirass
+Combat_Webbing:
     Armor: "-"
     Bonuses: 'Can bring an extra weapon and some small items.'
     E-defense: "-"
@@ -56,7 +61,8 @@ Combat-Webbing:
     Name: 'Combat Webbing'
     Rarity: 1
     Speed: "-"
-DJED-Overarmor:
+    id: Combat_Webbing
+DJED_Overarmor:
     Armor: 2
     Bonuses: 'When you go Down and Out, instead of rolling a check, you can activate
         this armor’s stasis system. Until the end of the current challenge, you are
@@ -69,7 +75,8 @@ DJED-Overarmor:
     Name: 'DJED Overarmor'
     Rarity: 3
     Speed: 4
-DURENDAL-Mobile-Cuirass:
+    id: DJED_Overarmor
+DURENDAL_Mobile_Cuirass:
     Armor: 2
     Bonuses: 'You always have a sidearm (1 kinetic, re-roll first attack, range 3)
         and a light melee weapon (1 kinetic, re-roll first attack, threat), they don''t
@@ -80,7 +87,8 @@ DURENDAL-Mobile-Cuirass:
     Name: 'DURENDAL Mobile Cuirass'
     Rarity: 2
     Speed: 4
-Eloria-Panoply:
+    id: DURENDAL_Mobile_Cuirass
+Eloria_Panoply:
     Armor: "-"
     Bonuses: 'A pilot can use the integrated flight systems in this hardsuit to fly
         when they move or boost.'
@@ -90,7 +98,8 @@ Eloria-Panoply:
     Name: 'Eloria Panoply'
     Rarity: 3
     Speed: 5
-Falling-Water-Overcoat:
+    id: Eloria_Panoply
+Falling_Water_Overcoat:
     Armor: "-"
     Bonuses: 'This couture overcoat fits over any armor or clothing and is interwoven
         with infowebbing. It has full ominnet access, can display image, color, or
@@ -102,7 +111,8 @@ Falling-Water-Overcoat:
     Name: '"Falling Water" Overcoat'
     Rarity: 1
     Speed: "-"
-Goliath-Weave:
+    id: Falling_Water_Overcoat
+Goliath_Weave:
     Armor: "-"
     Bonuses: 'Must be wearing armor; +5 HP, reroll all Brawl checks and take better
         result. Can lift and throw items of size 1, and drag items of size 2.'
@@ -112,6 +122,7 @@ Goliath-Weave:
     Name: 'Goliath Weave'
     Rarity: 3
     Speed: "-"
+    id: Goliath_Weave
 ICEPACK:
     Armor: "-"
     Bonuses: 'While wearing armor with this enhancement, each time you take a full
@@ -123,7 +134,8 @@ ICEPACK:
     Name: ICEPACK
     Rarity: 4
     Speed: "-"
-Light-hardsuit:
+    id: ICEPACK
+Light_hardsuit:
     Armor: 1
     Bonuses: "-"
     E-defense: 10
@@ -132,7 +144,8 @@ Light-hardsuit:
     Name: 'Light hardsuit'
     Rarity: 0
     Speed: 4
-MINE-ALL-MINE:
+    id: Light_hardsuit
+MINE_ALL_MINE:
     Armor: 1
     Bonuses: 'While jockeying a mech and wearing this suit, force it to make a Systems
         skill check with 1 difficulty or immediately move its full speed in a direction
@@ -143,7 +156,8 @@ MINE-ALL-MINE:
     Name: MINE/ALL/MINE
     Rarity: 4
     Speed: 4
-Metafold-Processor:
+    id: MINE_ALL_MINE
+Metafold_Processor:
     Armor: "-"
     Bonuses: 'Must be wearing armor; +2 E-defense and can make Invasion tech actions
         as if a mech with a +3 Systems score.'
@@ -153,7 +167,8 @@ Metafold-Processor:
     Name: 'Metafold Processor'
     Rarity: 4
     Speed: "-"
-Mythimna-Panoply:
+    id: Metafold_Processor
+Mythimna_Panoply:
     Armor: 1
     Bonuses: 'This light hardsuit has a reactive weave that allows a wearer to turn
         invisible. A pilot can become invisible as an action. The invisibility breaks
@@ -165,6 +180,7 @@ Mythimna-Panoply:
     Name: 'Mythimna Panoply'
     Rarity: 4
     Speed: 4
+    id: Mythimna_Panoply
 Nerveweave:
     Armor: "-"
     Bonuses: 'This enhancement can only be taken as a part of armor. While wearing
@@ -175,7 +191,8 @@ Nerveweave:
     Name: Nerveweave
     Rarity: 4
     Speed: "-"
-Pilot-Armor:
+    id: Nerveweave
+Pilot_Armor:
     Armor: "-"
     Bonuses: "-"
     E-defense: "-"
@@ -184,7 +201,8 @@ Pilot-Armor:
     Name: 'Pilot Armor'
     Rarity: 0
     Speed: "-"
-Plain-clothes:
+    id: Pilot_Armor
+Plain_clothes:
     Armor: 0
     Bonuses: "-"
     E-defense: 10
@@ -193,7 +211,8 @@ Plain-clothes:
     Name: 'Plain clothes'
     Rarity: 0
     Speed: 4
-STAMBHA-Overarmor:
+    id: Plain_clothes
+STAMBHA_Overarmor:
     Armor: 1
     Bonuses: 'If you didn’t move on your turn, at the end of your turn, until the
         start of your next turn, gain a protective shield that grants all ranged weapon
@@ -204,6 +223,7 @@ STAMBHA-Overarmor:
     Name: 'STAMBHA Overarmor'
     Rarity: 2
     Speed: 4
+    id: STAMBHA_Overarmor
 Sylph:
     Armor: "-"
     Bonuses: 'This semi-biological, skin-tight undersuit can be worn for extended
@@ -219,7 +239,8 @@ Sylph:
     Name: Sylph
     Rarity: 1
     Speed: "-"
-UNAVOIDABLE-VOID:
+    id: Sylph
+UNAVOIDABLE_VOID:
     Armor: 1
     Bonuses: 'Causes errors in whatever prints it. Doesn''t appear on electronic systems,
         is immune to system attacks, cannot be targeted by smart weapons or drones,
@@ -230,7 +251,8 @@ UNAVOIDABLE-VOID:
     Name: UNAVOIDABLE_VOID
     Rarity: 3
     Speed: 4
-UNCLEAR-END-NTT:
+    id: UNAVOIDABLE_VOID
+UNCLEAR_END_NTT:
     Armor: 2
     Bonuses: 'If you go unconscious or die while wearing this suit, a digitial consciousness
         of yourself animates your body. You''re still unconscious (or dead) but can
@@ -249,7 +271,8 @@ UNCLEAR-END-NTT:
     Name: UNCLEAR_END/NTT
     Rarity: 2
     Speed: 4
-WAYLAND-Mobile-Cuirass:
+    id: UNCLEAR_END_NTT
+WAYLAND_Mobile_Cuirass:
     Armor: 1
     Bonuses: 'When you take the dash action, you may fly (land by end of turn or fall).
         Has a range 4 grappling hook to cling to walls, snag items, etc.'
@@ -259,7 +282,8 @@ WAYLAND-Mobile-Cuirass:
     Name: 'WAYLAND Mobile Cuirass'
     Rarity: 2
     Speed: 4
-WILD-AND-CRAZY:
+    id: WAYLAND_Mobile_Cuirass
+WILD_AND_CRAZY:
     Armor: "-"
     Bonuses: 'While wearing this clothing, any space adjacent to your pilot counts
         as your mech''s sensor range for the purpose of making tech actions only.'
@@ -269,3 +293,4 @@ WILD-AND-CRAZY:
     Name: WILD_AND_CRAZY
     Rarity: 1
     Speed: "-"
+    id: WILD_AND_CRAZY

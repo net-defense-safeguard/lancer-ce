@@ -1,0 +1,10 @@
+Damage: '1d6+3 Energy'
+License: GMS
+Name: 'Heavy Charged Blade'
+Notes: "-"
+Range: 'Threat 1'
+SP: 0
+Size: Heavy
+Tags: AP
+Type: Melee
+id: Heavy_Charged_Blade

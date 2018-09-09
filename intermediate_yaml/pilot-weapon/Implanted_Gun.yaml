@@ -1,0 +1,9 @@
+Damage: '1 Energy'
+Manufacturer: SSC
+Name: 'Implanted Gun'
+Notes: 'Whenever you fire a weapon, you can fire this weapon at the same or a different
+  target.'
+Range: 2
+Rarity: 1
+Tags: "-"
+id: Implanted_Gun

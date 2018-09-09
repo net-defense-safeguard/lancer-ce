@@ -1,7 +1,0 @@
-Cost: 1
-Effect: 'The blast area grants light cover to all within, friend or foe. Lasts until
-  the end of the user’s next turn, then disperses.'
-Keywords: 'Limited (3), Grenade, Range 5, Blast 3'
-License: GMS
-Name: 'GMS Pattern-A “Filter” Smoke Grenade'
-Unique: "-"

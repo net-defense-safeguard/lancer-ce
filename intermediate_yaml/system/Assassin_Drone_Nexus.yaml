@@ -1,0 +1,13 @@
+Cost: 2
+Effect: 'As a quick action, you may deploy this drone in an adjacent space, target
+  a blast 2 area within sensor range, and gain this reaction: Assassin drone: Trigger:
+  A hostile target starts its turn in that area or enters it for the first time on
+  their turn. Make a targeting vs evasion attack, using your mech’s targeting. On
+  a hit, deal 1d6 kinetic damage. The drone and the area it targets persists until
+  the end of the current challenge. You can recall it, move it to another area in
+  sensor range, or retarget the area with another quick action.'
+Keywords: 'Drone, Quick Action'
+License: 'HORUS Hydra III'
+Name: 'Assassin Drone Nexus'
+Unique: "-"
+id: Assassin_Drone_Nexus

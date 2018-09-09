@@ -1,9 +1,0 @@
-Damage: '3d6 Explosive'
-License: 'HA Barbarossa III'
-Name: 'Siege Cannon'
-Notes: "-"
-Range: '30, Blast 3'
-SP: 0
-Size: Superheavy
-Tags: '4 heat (self), Arcing, Ordnance, Loading'
-Type: Cannon

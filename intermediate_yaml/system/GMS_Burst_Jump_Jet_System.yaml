@@ -1,0 +1,8 @@
+Cost: 2
+Effect: 'When your mech boosts, your mech can instead fly. However, your mech must
+  end its turn on the ground or another surface, or else fall.'
+Keywords: "-"
+License: GMS
+Name: 'GMS ''Burst'' Jump Jet System'
+Unique: true
+id: GMS_Burst_Jump_Jet_System

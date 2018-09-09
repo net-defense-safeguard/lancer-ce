@@ -1,0 +1,8 @@
+Cost: 1
+Effect: 'Choose 1 ranged weapon - On a hit, the next Tech action against that target
+  is made with +1 Accuracy.'
+Keywords: Ammo
+License: 'HORUS Manticore II'
+Name: 'Haywire Ammo'
+Unique: "-"
+id: Haywire_Ammo

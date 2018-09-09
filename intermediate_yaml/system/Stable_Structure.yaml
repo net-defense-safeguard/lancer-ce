@@ -1,0 +1,8 @@
+Cost: 1
+Effect: 'Attempts to knock you prone are made with +1 Difficulty, and you make rolls
+  to resist getting knocked prone with +1 Accuracy'
+Keywords: "-"
+License: GMS
+Name: 'Stable Structure'
+Unique: true
+id: Stable_Structure

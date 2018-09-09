@@ -1,0 +1,25 @@
+AGI: 1
+ARMOR: 0
+EDEF: 0
+ENG: 0
+EVASION: 0
+HEAT-CAP: 0
+HP: 0
+HULL: 0
+MOUNT1: Heavy
+MOUNT2: Auxiliary
+MOUNT3: Flex
+Name: 'SSC Metalmark'
+SIZE: 1.0
+SP: 5
+SPEED: 0
+SYS: 0
+TARGETTING: 0
+Ultimate-Active: 'Cloaking Protocol (1 core power): Until the end of current combat,
+  or when you deactivate this module at the start of your turn, you become invisible.
+  If you take damage or roll an overheating roll, you lose the benefit of this module
+  until the start of your next turn. No other action will deactivate it.'
+Ultimate-Name: 'Tactical Cloak'
+Ultimate-Passive: 'You are invisible while moving or boosting, but reappear once you
+  finish your movement.'
+id: SSC_Metalmark

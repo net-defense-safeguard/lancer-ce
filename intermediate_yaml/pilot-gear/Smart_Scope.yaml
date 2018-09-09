@@ -1,0 +1,9 @@
+Description: 'A powerful electronic scope that can give good vision up to two miles
+  away, automatically adjusts its reticle for wind, gravity, and pressure. Can be
+  paired with other thermal, optical, or simulated-vision devices to allow for more
+  precise targeting. Can project its FoV and all data to a user or networked user’s
+  HUD.'
+License: GMS
+Name: 'Smart Scope'
+Rarity: 0
+id: Smart_Scope

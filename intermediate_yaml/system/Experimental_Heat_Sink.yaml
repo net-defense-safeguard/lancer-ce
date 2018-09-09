@@ -1,0 +1,8 @@
+Cost: 2
+Effect: 'You can re-roll the first overheating check you make a turn, but must accept
+  the second result (even if it is worse).'
+Keywords: "-"
+License: 'HA Tokugawa I'
+Name: 'Experimental Heat Sink'
+Unique: true
+id: Experimental_Heat_Sink

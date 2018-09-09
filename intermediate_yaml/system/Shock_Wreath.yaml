@@ -1,0 +1,9 @@
+Cost: 2
+Effect: 'Choose 1 melee weapon. It gains Burn depending on its size (Aux 1, Main 2,
+  Heavy or larger: 3). If it already has Burn, increase the burn it deals by the same
+  amount.'
+Keywords: Mod
+License: 'SSC Metalmark I'
+Name: 'Shock Wreath'
+Unique: "-"
+id: Shock_Wreath

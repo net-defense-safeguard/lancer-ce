@@ -1,0 +1,28 @@
+AGI: 0
+ARMOR: 0
+EDEF: 0
+ENG: 0
+EVASION: 0
+HEAT-CAP: 0
+HP: 0
+HULL: 1
+MOUNT1: Heavy
+MOUNT2: Main
+MOUNT3: Aux
+Name: 'IPS-N Raleigh'
+SIZE: 1.0
+SP: 5
+SPEED: 0
+SYS: 0
+TARGETTING: 0
+Ultimate-Active: 'Thunder God (1 core power, Protocol): Until the end of the current
+  challenge, if you didn’t fire your M35 this round, it gains 1 more round in the
+  chamber at the end of the round (you can use a d6 to track this), starting at 1.
+  When you next fire the weapon, it fires all chambers, for 3 damage per chamber,
+  then loads 1 round. The M35 has six chambers, for a maximum of 18 damage. If 3 or
+  more chambers are fired at once, this weapon gains the AP tag and any target struck
+  must pass a hull check or be knocked prone.'
+Ultimate-Name: 'M-35 MJOLNIR cannon'
+Ultimate-Passive: 'Gain the M35 cannon, it doesn''t take a mount. Auxillary, CQB,
+  Range 5, Threat 3, 3 Kinetic Damage.'
+id: IPS_N_Raleigh

@@ -1,0 +1,10 @@
+Cost: 3
+Effect: 'Activating this system generates a Burst 4 area centered on the user until
+  the end of your next turn. All targets, allied and enemy, inside this area gain
+  resistance to all damage that originates from outside the shield, but your mech
+  is immobilized while it is active.'
+Keywords: 'Shield, Quick Action, 4 heat (self)'
+License: 'HA Saladin II'
+Name: 'Hardlight Defense System'
+Unique: true
+id: Hardlight_Defense_System

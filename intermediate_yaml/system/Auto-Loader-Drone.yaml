@@ -1,8 +1,0 @@
-Cost: 2
-Effect: 'This drone can be deployed in an adjacent space. While deployed, once per
-  round, any one adjacent mech can reload a weapon with the Loading tag as a free
-  action. It lasts until the end of the current challenge, then deactivates.'
-Keywords: 'Limited (1), Drone'
-License: 'HA Barbarossa II'
-Name: 'Auto-Loader Drone'
-Unique: "-"

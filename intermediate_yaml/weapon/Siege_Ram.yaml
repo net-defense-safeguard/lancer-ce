@@ -1,0 +1,11 @@
+Damage: "-"
+License: 'IPS-N Tortuga I'
+Name: 'Siege Ram'
+Notes: 'Treat this ram like a weapon system. While it''s installed, your ram attacks
+  do +1d6 damage on a hit.'
+Range: 'Threat 1'
+SP: 0
+Size: Main
+Tags: Unique
+Type: Melee
+id: Siege_Ram

@@ -1,8 +1,0 @@
-Cost: 1
-Effect: 'Gain the following quick tech action: Logic Bomb (Quick Action): Choose a
-  blast 2 area within sensor range. All targets in the area (allied or enemy) must
-  pass a systems check or become crippled until the end of your next turn.'
-Keywords: 'Quick Action'
-License: 'HORUS Minotaur I'
-Name: 'Viral Logic'
-Unique: true

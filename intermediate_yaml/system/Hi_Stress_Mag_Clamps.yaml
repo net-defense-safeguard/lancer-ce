@@ -1,0 +1,9 @@
+Cost: 1
+Effect: 'Choose one ranged weapon. You can fire a tracer round from it instead of
+  a normal shot. It deals 0 damage maximum, but on a hit, your next attack roll against
+  the same target gains +2 Accuracy and ignores invisibility.'
+Keywords: "-"
+License: 'SSC Death''s Head I'
+Name: 'Hi-Stress Mag Clamps'
+Unique: true
+id: Hi_Stress_Mag_Clamps

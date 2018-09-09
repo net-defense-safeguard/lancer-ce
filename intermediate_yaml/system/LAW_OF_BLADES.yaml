@@ -1,0 +1,14 @@
+Cost: 2
+Effect: "Gain the following full tech actions:\n-Predator/Prey Concepts: Make a tech\
+  \ attack against a target in your sensor range. On hit, Targeted mech immediately\
+  \ fires a single weapon at a target of your choice that is within its range. It\
+  \ gets +1 difficulty on this roll but otherwise benefits from other bonuses to accuracy.\n\
+  -Slave Systems: Make a tech attack against a target in your sensor range. On hit,\
+  \ the targeted mech immediately takes one of the following actions of your choice\
+  \ as a reaction with you controlling the action: Boost, Stabilize, Improvised Attack,\
+  \ Grapple. A friendly mech can be targeted with this action."
+Keywords: 'Full Action'
+License: 'HORUS Minotaur III'
+Name: 'LAW OF BLADES'
+Unique: true
+id: LAW_OF_BLADES

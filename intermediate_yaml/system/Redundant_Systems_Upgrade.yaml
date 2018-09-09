@@ -1,0 +1,7 @@
+Cost: 2
+Effect: 'You can activate this module to make a Stabilize systems action a free action.'
+Keywords: 'Limited (1)'
+License: 'HA Sherman II'
+Name: 'Redundant Systems Upgrade'
+Unique: true
+id: Redundant_Systems_Upgrade

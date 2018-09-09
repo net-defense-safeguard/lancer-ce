@@ -1,0 +1,16 @@
+Cost: 2
+Effect: 'When activated, you go out of phase with reality. You can ignore obstructions
+  such as walls or cover, and pass through enemy mechs and solid objects as if they
+  weren''t there, but cannot end your turn in their space. You cannot interact with
+  the world, but neither can it interact with you (in terms of damage, etc). If you
+  are forced to return to normal space inside an object, instead take 2d6 AP Kinetic
+  damage and return in the nearest available space. While this system is active, at
+  the start of your turn roll a d6; on 4+ you remain out of phase, on a 3+ you return
+  to the battlefield until the start of your next turn. This drive deactivates if
+  you make an overheating check, deactivate it at the start of your turn as a free
+  action, or rest.'
+Keywords: 'Quick Action'
+License: 'SSC Mourning Cloak III'
+Name: 'FADE Cloak'
+Unique: "-"
+id: FADE_Cloak

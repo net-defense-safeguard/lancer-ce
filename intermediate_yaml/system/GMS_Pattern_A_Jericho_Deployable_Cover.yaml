@@ -1,0 +1,10 @@
+Cost: 2
+Effect: 'Using this system creates a Line 4 section of Light Cover adjacent to the
+  user (in any orientation, as long as there is free space). Requires a full action
+  to pick up. Reusable. The cover has 5 Evasion, 40 HP, and can be targeted and destroyed.
+  A mech can spend 1 repair during a rest to repair it to full HP.'
+Keywords: 'Deployable, Quick Action'
+License: GMS
+Name: 'GMS Pattern-A “Jericho” Deployable Cover'
+Unique: "-"
+id: GMS_Pattern_A_Jericho_Deployable_Cover

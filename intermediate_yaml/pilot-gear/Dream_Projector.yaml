@@ -1,0 +1,9 @@
+Description: 'This small, puck-like system can be deployed or thrown to a point within
+  range 4 as an action and remotely activated as another action. While deployed and
+  active, it can project extremely convincing holographic images within 2 spaces of
+  its location of nearly any size that could fit in that space. If inspected closely,
+  a Tech or Swindle pilot action might be required to maintain the illusion.'
+License: HORUS
+Name: 'Dream Projector'
+Rarity: 1
+id: Dream_Projector

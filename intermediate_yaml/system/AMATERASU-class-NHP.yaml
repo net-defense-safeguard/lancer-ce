@@ -1,9 +1,0 @@
-Cost: 3
-Effect: 'Your mech gains the AI property and the Amaterasu Protocol: Protocol, 1d3+3
-  Heat (self). Increase the bonus damage on hit of your next ranged or melee attack
-  this turn, melee or ranged, by your current heat after activating this protocol.
-  The chosen weapon must deal at least partly energy damage.'
-Keywords: AI
-License: 'HA Tokugawa III'
-Name: 'AMATERASU-class NHP'
-Unique: true

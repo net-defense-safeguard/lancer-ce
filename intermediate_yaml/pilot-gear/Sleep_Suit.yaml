@@ -1,0 +1,10 @@
+Description: 'Once activated, the suit can put an individual into a state of human
+  hibernation for 3 hours and up to 6 months, lowering their vital signs to almost
+  nothing, relieving them of the need for food, air, or sleep, and halting the process
+  of any diseases. During the first 10 minutes, the suit extrudes a hardened polymer
+  around the sleeper, protecting them from impact and making them resistant to all
+  damage.'
+License: HA
+Name: 'Sleep Suit'
+Rarity: 1
+id: Sleep_Suit

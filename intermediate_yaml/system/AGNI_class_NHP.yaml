@@ -1,0 +1,12 @@
+Cost: 3
+Effect: 'Your mech gains the AI property and the AGNI Protocol: Protocol, Limited
+  (1): For 3 rounds, at the end of your turn, you automatically cool, clearing your
+  heat gauge. This vent creates a burst 3 zone around you. All targets within that
+  zone must make an engineering skill check. On a failure, a target takes 2 Burn and
+  is pushed outside the zone. This area provides light cover until the end of the
+  next round. This protocol can only be activated once per challenge.'
+Keywords: AI
+License: 'HA Genghis III'
+Name: 'AGNI-class NHP'
+Unique: true
+id: AGNI_class_NHP

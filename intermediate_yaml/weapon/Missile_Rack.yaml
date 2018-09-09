@@ -1,0 +1,10 @@
+Damage: '1d3+1 Explosive'
+License: GMS
+Name: 'Missile Rack'
+Notes: "-"
+Range: '10, Blast 1'
+SP: 0
+Size: Auxiliary
+Tags: Loading
+Type: Launcher
+id: Missile_Rack

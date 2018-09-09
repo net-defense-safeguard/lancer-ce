@@ -1,0 +1,10 @@
+Damage: '2d6+2 Kinetic'
+License: GMS
+Name: 'Heavy Melee Weapon'
+Notes: "-"
+Range: 'Threat 1'
+SP: 0
+Size: Heavy
+Tags: "-"
+Type: Melee
+id: Heavy_Melee_Weapon

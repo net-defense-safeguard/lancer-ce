@@ -1,0 +1,24 @@
+AGI: 0
+ARMOR: 2
+EDEF: 0
+ENG: -2
+EVASION: 0
+HEAT-CAP: 0
+HP: 0
+HULL: 1
+MOUNT1: Spinal
+MOUNT2: Flex
+MOUNT3: Flex
+Name: 'IPS-N Vlad'
+SIZE: 1.0
+SP: 4
+SPEED: 0
+SYS: 0
+TARGETTING: 0
+Ultimate-Active: 'Tormentor Spines (1 core power, Protocol): Until the end of the
+  current challenge, you gain resistance to all damage from within range 3, and your
+  damage from this armor’s passive increases to 3 AP kinetic damage.'
+Ultimate-Name: 'SHRIKE armor'
+Ultimate-Passive: 'When you are attacked by a non-grunt target within range 3, your
+  attacker takes 1 AP kinetic damage before they attack'
+id: IPS_N_Vlad

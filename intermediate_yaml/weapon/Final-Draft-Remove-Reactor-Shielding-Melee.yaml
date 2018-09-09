@@ -1,9 +1,0 @@
-Damage: '1d6 Kinetic, Explosive, or Energy'
-License: 'Engineer III'
-Name: 'Final Draft Remove Reactor Shielding Melee'
-Notes: 'Can also fire as Cone 3, Line 5, or Blast 1, but costs 2 Heat'
-Range: Threat
-SP: 0
-Size: Main
-Tags: 'Limited (2d6+1), Unreliable'
-Type: Melee

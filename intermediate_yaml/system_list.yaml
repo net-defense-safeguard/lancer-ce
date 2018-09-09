@@ -1,4 +1,4 @@
-AGNI-class-NHP:
+AGNI_class_NHP:
     Cost: 3
     Effect: 'Your mech gains the AI property and the AGNI Protocol: Protocol, Limited
         (1): For 3 rounds, at the end of your turn, you automatically cool, clearing
@@ -11,7 +11,8 @@ AGNI-class-NHP:
     License: 'HA Genghis III'
     Name: 'AGNI-class NHP'
     Unique: Yes
-AMATERASU-class-NHP:
+    id: AGNI_class_NHP
+AMATERASU_class_NHP:
     Cost: 3
     Effect: 'Your mech gains the AI property and the Amaterasu Protocol: Protocol,
         1d3+3 Heat (self). Increase the bonus damage on hit of your next ranged or
@@ -21,7 +22,8 @@ AMATERASU-class-NHP:
     License: 'HA Tokugawa III'
     Name: 'AMATERASU-class NHP'
     Unique: Yes
-ASURA-class-NHP:
+    id: AMATERASU_class_NHP
+ASURA_class_NHP:
     Cost: 3
     Effect: 'Your mech gains the AI property and the ASURA Protocol: Protocol, Limited
         (1). Gain an extra quick action each turn while active. This protocol lasts
@@ -33,7 +35,8 @@ ASURA-class-NHP:
     License: 'HA Sherman III'
     Name: 'ASURA-class NHP'
     Unique: Yes
-ATHENA-class-NHP:
+    id: ASURA_class_NHP
+ATHENA_class_NHP:
     Cost: 3
     Effect: 'Your mech gains the AI property and gains the ATHENA protocol: ATHENA
         protocol Quick Action 3 heat (self). Choose a blast 4 area within 1 mile of
@@ -50,7 +53,8 @@ ATHENA-class-NHP:
     License: 'SSC Swallowtail III'
     Name: 'ATHENA-class NHP'
     Unique: Yes
-Ablative-Shielding:
+    id: ATHENA_class_NHP
+Ablative_Shielding:
     Cost: 1
     Effect: 'While this system is active, gain resistance to energy damage, but take
         1 heat when you take damage.'
@@ -58,7 +62,8 @@ Ablative-Shielding:
     License: 'IPS-N Lancaster II'
     Name: 'Ablative Shielding'
     Unique: "-"
-Aceso-Swarm:
+    id: Ablative_Shielding
+Aceso_Swarm:
     Cost: 3
     Effect: 'As an end of round action, your mech takes 2 heat, and one other mech
         of your choice in your sensor range can spend 1 repair to heal.'
@@ -66,7 +71,8 @@ Aceso-Swarm:
     License: 'IPS-N Lancaster III'
     Name: 'Aceso Swarm'
     Unique: Yes
-Active-Camo:
+    id: Aceso_Swarm
+Active_Camo:
     Cost: 2
     Effect: 'You can activate or deactivate the light bending properties of this module
         at the start of your turn. It lasts until the start of your next turn. While
@@ -76,7 +82,8 @@ Active-Camo:
     License: 'SSC Metalmark III'
     Name: 'Active Camo'
     Unique: Yes
-Adaptive-Armor:
+    id: Active_Camo
+Adaptive_Armor:
     Cost: 2
     Effect: 'Once per round, when you take damage, you can gain 4 armor against the
         triggering attack as a reaction. This armor can put you over the maximum,
@@ -85,7 +92,8 @@ Adaptive-Armor:
     License: 'IPS-N Nelson III'
     Name: 'Adaptive Armor'
     Unique: Yes
-Aegis-Shield-Generator:
+    id: Adaptive_Armor
+Aegis_Shield_Generator:
     Cost: 1
     Effect: 'Once planted in a free adjacent space, this size 1 generator creates
         a burst 1 zone around it until the end of the current challenge. Inside the
@@ -96,7 +104,8 @@ Aegis-Shield-Generator:
     License: 'IPS-N Drake II'
     Name: 'Aegis Shield Generator'
     Unique: Yes
-Aggressive-System-Sync:
+    id: Aegis_Shield_Generator
+Aggressive_System_Sync:
     Cost: 2
     Effect: "Gain the following full tech options:\n-Chains of Prometheus: Make a\
         \ tech attack against a target in your sensor range. On hit, your target must\
@@ -110,7 +119,8 @@ Aggressive-System-Sync:
     License: 'HORUS Minotaur II'
     Name: 'Aggressive System Sync'
     Unique: "-"
-Armor-Lock-System:
+    id: Aggressive_System_Sync
+Armor_Lock_System:
     Cost: 1
     Effect: 'When you take the Brace reaction, until the end of your following turn,
         enemy attacks targeting you are made with 1 additional Difficulty, you can’t
@@ -120,14 +130,16 @@ Armor-Lock-System:
     License: 'IPS-N Nelson II'
     Name: 'Armor Lock System'
     Unique: Yes
-Armor-Piercing-Mod:
+    id: Armor_Lock_System
+Armor_Piercing_Mod:
     Cost: 2
     Effect: 'Choose one ranged or melee weapon. It gains the AP tag.'
     Keywords: Mod
     License: 'SSC Metalmark II'
     Name: 'Armor-Piercing Mod'
     Unique: "-"
-Assassin-Drone-Nexus:
+    id: Armor_Piercing_Mod
+Assassin_Drone_Nexus:
     Cost: 2
     Effect: 'As a quick action, you may deploy this drone in an adjacent space, target
         a blast 2 area within sensor range, and gain this reaction: Assassin drone:
@@ -140,7 +152,8 @@ Assassin-Drone-Nexus:
     License: 'HORUS Hydra III'
     Name: 'Assassin Drone Nexus'
     Unique: "-"
-Auto-Cooler:
+    id: Assassin_Drone_Nexus
+Auto_Cooler:
     Cost: 2
     Effect: 'Activate this cooler as a free action at the start of your turn. If you
         don’t take damage, move, or overheat before the start of your next turn, cool
@@ -149,7 +162,8 @@ Auto-Cooler:
     License: 'HA Genghis II'
     Name: Auto-Cooler
     Unique: Yes
-Auto-Loader-Drone:
+    id: Auto_Cooler
+Auto_Loader_Drone:
     Cost: 2
     Effect: 'This drone can be deployed in an adjacent space. While deployed, once
         per round, any one adjacent mech can reload a weapon with the Loading tag
@@ -158,7 +172,8 @@ Auto-Loader-Drone:
     License: 'HA Barbarossa II'
     Name: 'Auto-Loader Drone'
     Unique: "-"
-BASTION-Siege-Scales:
+    id: Auto_Loader_Drone
+BASTION_Siege_Scales:
     Cost: 2
     Effect: 'When activated as a free action at the start of your tun, until the start
         of your next turn, your mech is immobilized, but you both count as in light
@@ -168,7 +183,8 @@ BASTION-Siege-Scales:
     License: 'IPS-N Drake II'
     Name: '"BASTION" Siege Scales'
     Unique: Yes
-Black-ICE-Module:
+    id: BASTION_Siege_Scales
+Black_ICE_Module:
     Cost: 3
     Effect: 'Hostile tech actions or system attacks against your mech any adjacent
         ally are made at +1 Difficulty. Successive attacks in the same combat from
@@ -179,7 +195,8 @@ Black-ICE-Module:
     License: 'SSC Black Witch III'
     Name: 'Black ICE Module'
     Unique: Yes
-Boost-Swarm:
+    id: Black_ICE_Module
+Boost_Swarm:
     Cost: 2
     Effect: 'Gain a new full tech option: Nanoboost (Full Tech): Make a systems check.
         On success, another allied mech in sensor range can immediately end the Impaired
@@ -188,7 +205,8 @@ Boost-Swarm:
     License: 'HORUS Balor II'
     Name: 'Boost Swarm'
     Unique: "-"
-Breaching-Charge:
+    id: Boost_Swarm
+Breaching_Charge:
     Cost: 1
     Effect: 'If thrown as a quick action, the charge explodes on impact. If planted
         as a mine, it can be detonated as another quick action by whoever planted
@@ -200,7 +218,8 @@ Breaching-Charge:
     License: 'IPS-N Raleigh I'
     Name: 'Breaching Charge'
     Unique: "-"
-Bulwark-Mods:
+    id: Breaching_Charge
+Bulwark_Mods:
     Cost: 2
     Effect: 'Your mech has extended or armored arms or legs, redundant motor systems,
         or is otherwise reinforced for harsh terrain. Your mech ignores difficult
@@ -210,7 +229,8 @@ Bulwark-Mods:
     License: 'IPS-N Nelson I'
     Name: 'Bulwark Mods'
     Unique: "-"
-Cable-Winch-System:
+    id: Bulwark_Mods
+Cable_Winch_System:
     Cost: 1
     Effect: 'As a quick action, you can attach the cables to an adjacent mech. If
         the mech is shut down, stunned, or a willing target, this action is automatically
@@ -227,7 +247,8 @@ Cable-Winch-System:
     License: 'IPS-N Lancaster I'
     Name: 'Cable Winch System'
     Unique: "-"
-Charged-Stake:
+    id: Cable_Winch_System
+Charged_Stake:
     Cost: 2
     Effect: 'This brutal system can be used against any adjacent target. That target
         must pass an hull check with 1 difficulty or take 2d6 energy damage damage
@@ -240,7 +261,8 @@ Charged-Stake:
     License: 'IPS-N Vlad III'
     Name: 'Charged Stake'
     Unique: "-"
-Cloaking-Field:
+    id: Charged_Stake
+Cloaking_Field:
     Cost: 4
     Effect: 'You can activate or deactivate the light bending properties of this module
         as a quick action. It lasts until the end your next turn. When you activate
@@ -252,7 +274,8 @@ Cloaking-Field:
     License: 'SSC Swallowtail III'
     Name: 'Cloaking Field'
     Unique: "-"
-Companion-Concierge-Class-Dummy-Plug:
+    id: Cloaking_Field
+Companion_Concierge_Class_Dummy_Plug:
     Cost: 2
     Effect: 'Your mech has a basic companion/concierge unit installed in it. It can
         speak to you and has a personality but is not truly capable of independent
@@ -266,7 +289,8 @@ Companion-Concierge-Class-Dummy-Plug:
     License: GMS
     Name: 'Companion/Concierge-Class Dummy Plug'
     Unique: Yes
-Companion-Gun:
+    id: Companion_Concierge_Class_Dummy_Plug
+Companion_Gun:
     Cost: 2
     Effect: 'Whenever you score a critical hit against a target, this shoulder-mounted
         gun can calibrate and rapidly fires a projectile that also deals 2 explosive
@@ -276,7 +300,8 @@ Companion-Gun:
     License: 'SSC Monarch I'
     Name: 'Companion Gun'
     Unique: Yes
-Core-Siphon:
+    id: Companion_Gun
+Core_Siphon:
     Cost: 2
     Effect: 'At the beginning of your turn, you can give the first attack roll of
         your turn +1 accuracy. If you do, any additional attack rolls until the end
@@ -285,7 +310,8 @@ Core-Siphon:
     License: 'SSC Dusk Wing I'
     Name: 'Core Siphon'
     Unique: Yes
-Custom-Paint-Job:
+    id: Core_Siphon
+Custom_Paint_Job:
     Cost: 1
     Effect: 'Each time you lose your first point of structure, you can roll twice
         for your critical check and choose either result.'
@@ -293,7 +319,8 @@ Custom-Paint-Job:
     License: GMS
     Name: 'Custom Paint Job'
     Unique: Yes
-Dispersal-Shield:
+    id: Custom_Paint_Job
+Dispersal_Shield:
     Cost: 3
     Effect: '1/round you can force any attack that misses you to be re-rolled against
         a target of your choice within your attacker’s range (even a target allied
@@ -302,7 +329,19 @@ Dispersal-Shield:
     License: 'HA Napoleon II'
     Name: 'Dispersal Shield'
     Unique: Yes
-EM-Pulse:
+    id: Dispersal_Shield
+EMP_Mine:
+    Cost: 1
+    Effect: 'Once planted, EMP charges can be detonated remotely as an action, or
+        activate normally like a mine. All affected mechs in a burst 1 area around
+        the charge when it activates must pass a systems check with 1 difficulty or
+        take 1d6 heat, or half on successful check.'
+    Keywords: 'Limited (2), Mine'
+    License: 'HORUS Manticore I'
+    Name: 'EMP Mine'
+    Unique: "-"
+    id: EMP_Mine
+EM_Pulse:
     Cost: 2
     Effect: 'On activation, your mech is stunned until the end of your next turn.
         All affected targets (allied and enemy) that don’t have the biological tag
@@ -313,17 +352,8 @@ EM-Pulse:
     License: 'HORUS Manticore III'
     Name: 'EM Pulse'
     Unique: Yes
-EMP-Mine:
-    Cost: 1
-    Effect: 'Once planted, EMP charges can be detonated remotely as an action, or
-        activate normally like a mine. All affected mechs in a burst 1 area around
-        the charge when it activates must pass a systems check with 1 difficulty or
-        take 1d6 heat, or half on successful check.'
-    Keywords: 'Limited (2), Mine'
-    License: 'HORUS Manticore I'
-    Name: 'EMP Mine'
-    Unique: "-"
-Emergency-Repair-System:
+    id: EM_Pulse
+Emergency_Repair_System:
     Cost: 2
     Effect: 'When you brace, immediately after taking damage, you can spend 1 repair
         to restore your HP to full.'
@@ -331,6 +361,7 @@ Emergency-Repair-System:
     License: 'HA Saladin I'
     Name: 'Emergency Repair System'
     Unique: Yes
+    id: Emergency_Repair_System
 Empty:
     Cost: 0
     Effect: "-"
@@ -338,7 +369,8 @@ Empty:
     License: "-"
     Name: Empty
     Unique: "-"
-Experimental-Heat-Sink:
+    id: Empty
+Experimental_Heat_Sink:
     Cost: 2
     Effect: 'You can re-roll the first overheating check you make a turn, but must
         accept the second result (even if it is worse).'
@@ -346,7 +378,8 @@ Experimental-Heat-Sink:
     License: 'HA Tokugawa I'
     Name: 'Experimental Heat Sink'
     Unique: Yes
-Explosive-Vent:
+    id: Experimental_Heat_Sink
+Explosive_Vent:
     Cost: 2
     Effect: 'When you cool heat, you can explosively vent heat in a burst 2 area around
         you. Affected targets, friend or foe, must pass an engineering skill check
@@ -355,7 +388,8 @@ Explosive-Vent:
     License: 'HA Genghis I'
     Name: 'Explosive Vent'
     Unique: Yes
-Exposed-Singularity:
+    id: Explosive_Vent
+Exposed_Singularity:
     Cost: 2
     Effect: 'Once per round, when your mech takes damage, you can immediately teleport
         up to 1d6 spaces as a reaction in a direction of your choosing (though if
@@ -365,7 +399,8 @@ Exposed-Singularity:
     License: 'SSC Mourning Cloak II'
     Name: 'Exposed Singularity'
     Unique: Yes
-External-Ammo-Feed:
+    id: Exposed_Singularity
+External_Ammo_Feed:
     Cost: 3
     Effect: 'Once on your turn, you can take 1d3+2 heat to reload any weapon with
         the Loading tag as a Free Action.'
@@ -373,7 +408,8 @@ External-Ammo-Feed:
     License: 'HA Barbarossa I'
     Name: 'External Ammo Feed'
     Unique: Yes
-External-Batteries:
+    id: External_Ammo_Feed
+External_Batteries:
     Cost: 2
     Effect: 'Your energy ranged weapons gain +5 range, and your energy melee weapons
         gain +1 threat. If you overheat, it explodes, dealing 1d6 AP explosive damage
@@ -382,7 +418,8 @@ External-Batteries:
     License: 'HA Tokugawa I'
     Name: 'External Batteries'
     Unique: Yes
-Eye-of-HORUS:
+    id: External_Batteries
+Eye_of_HORUS:
     Cost: 3
     Effect: 'Until the start of your next turn, targets in your sensor range of you
         cannot hide from you, cannot benefit from invisibility against you, and you
@@ -392,7 +429,8 @@ Eye-of-HORUS:
     License: 'HORUS Pegasus III'
     Name: 'Eye of HORUS'
     Unique: Yes
-FADE-Cloak:
+    id: Eye_of_HORUS
+FADE_Cloak:
     Cost: 2
     Effect: 'When activated, you go out of phase with reality. You can ignore obstructions
         such as walls or cover, and pass through enemy mechs and solid objects as
@@ -408,7 +446,8 @@ FADE-Cloak:
     License: 'SSC Mourning Cloak III'
     Name: 'FADE Cloak'
     Unique: "-"
-Ferrous-Lash:
+    id: FADE_Cloak
+Ferrous_Lash:
     Cost: 2
     Effect: 'A target of your choice in Range 10 must pass an agility check with 1
         difficulty. On a failure, it is pulled 5 in a direction of your choice. This
@@ -419,7 +458,8 @@ Ferrous-Lash:
     License: 'SSC Black Witch I'
     Name: 'Ferrous Lash'
     Unique: "-"
-Flicker-Field:
+    id: Ferrous_Lash
+Flicker_Field:
     Cost: 1
     Effect: 'When you move or boost, you project a holographic pattern around your
         mech that leaves dazzling afterimages, making it hard to discern your mech’s
@@ -431,7 +471,8 @@ Flicker-Field:
     License: 'SSC Dusk Wing III'
     Name: 'Flicker Field'
     Unique: Yes
-GMS-Burst-Jump-Jet-System:
+    id: Flicker_Field
+GMS_Burst_Jump_Jet_System:
     Cost: 2
     Effect: 'When your mech boosts, your mech can instead fly. However, your mech
         must end its turn on the ground or another surface, or else fall.'
@@ -439,7 +480,8 @@ GMS-Burst-Jump-Jet-System:
     License: GMS
     Name: 'GMS ''Burst'' Jump Jet System'
     Unique: Yes
-GMS-EVA-Module:
+    id: GMS_Burst_Jump_Jet_System
+GMS_EVA_Module:
     Cost: 1
     Effect: 'Your mech counts as having a propulsion system in micro/null gravity
         and submarine environments (it''s not crippled while moving and can fly normally).'
@@ -447,7 +489,8 @@ GMS-EVA-Module:
     License: GMS
     Name: 'GMS EVA Module'
     Unique: Yes
-GMS-Pancake-Anti-Vehicular-Mines:
+    id: GMS_EVA_Module
+GMS_Pancake_Anti_Vehicular_Mines:
     Cost: 1
     Effect: 'This mine detonates when any target moves adjacent to it for a burst
         1 attack, 1d6+3 explosive damage. A target can pass an agility check to halve
@@ -456,7 +499,8 @@ GMS-Pancake-Anti-Vehicular-Mines:
     License: GMS
     Name: 'GMS “Pancake” Anti-Vehicular Mines'
     Unique: "-"
-GMS-Pattern-A-Apple-High-Explosive-Grenades:
+    id: GMS_Pancake_Anti_Vehicular_Mines
+GMS_Pattern_A_Apple_High_Explosive_Grenades:
     Cost: 1
     Effect: 'Targets caught in the blast must pass an agility check or take 1d6 explosive
         damage.'
@@ -464,7 +508,8 @@ GMS-Pattern-A-Apple-High-Explosive-Grenades:
     License: GMS
     Name: 'GMS Pattern-A “Apple” High Explosive Grenades'
     Unique: "-"
-GMS-Pattern-A-Filter-Smoke-Grenade:
+    id: GMS_Pattern_A_Apple_High_Explosive_Grenades
+GMS_Pattern_A_Filter_Smoke_Grenade:
     Cost: 1
     Effect: 'The blast area grants light cover to all within, friend or foe. Lasts
         until the end of the user’s next turn, then disperses.'
@@ -472,7 +517,8 @@ GMS-Pattern-A-Filter-Smoke-Grenade:
     License: GMS
     Name: 'GMS Pattern-A “Filter” Smoke Grenade'
     Unique: "-"
-GMS-Pattern-A-Jericho-Deployable-Cover:
+    id: GMS_Pattern_A_Filter_Smoke_Grenade
+GMS_Pattern_A_Jericho_Deployable_Cover:
     Cost: 2
     Effect: 'Using this system creates a Line 4 section of Light Cover adjacent to
         the user (in any orientation, as long as there is free space). Requires a
@@ -483,7 +529,8 @@ GMS-Pattern-A-Jericho-Deployable-Cover:
     License: GMS
     Name: 'GMS Pattern-A “Jericho” Deployable Cover'
     Unique: "-"
-GMS-Shield-Type-I:
+    id: GMS_Pattern_A_Jericho_Deployable_Cover
+GMS_Shield_Type_I:
     Cost: 2
     Effect: 'You can choose to activate this shield protocol at the start of your
         turn. Nominate an enemy you can see. All that enemy’s ranged or melee attacks
@@ -493,7 +540,8 @@ GMS-Shield-Type-I:
     License: GMS
     Name: 'GMS Shield Type-I'
     Unique: Yes
-GMS-Shield-Type-II:
+    id: GMS_Shield_Type_I
+GMS_Shield_Type_II:
     Cost: 3
     Effect: 'You can choose to activate this shield protocol at the start of your
         turn. Nominate up to two enemies you can see. All those enemy’s ranged or
@@ -504,7 +552,8 @@ GMS-Shield-Type-II:
     License: GMS
     Name: 'GMS Shield Type-II'
     Unique: Yes
-GMS-Type-1-Flight-System:
+    id: GMS_Shield_Type_II
+GMS_Type_1_Flight_System:
     Cost: 3
     Effect: 'When your mech moves or boosts, it can fly. However, at the end of each
         turn that you activated this module, generate heat equal to the size of your
@@ -513,7 +562,8 @@ GMS-Type-1-Flight-System:
     License: GMS
     Name: 'GMS Type 1 Flight System'
     Unique: Yes
-Grounding-Charge:
+    id: GMS_Type_1_Flight_System
+Grounding_Charge:
     Cost: 2
     Effect: 'This charge can also be detonated with an action. Once detonated, targets
         in a burst 6 area centered on the charge must make a successful hull check
@@ -525,7 +575,8 @@ Grounding-Charge:
     License: 'HA Iskander III'
     Name: 'Grounding Charge'
     Unique: "-"
-H0r-OS-System-Upgrade-I:
+    id: Grounding_Charge
+H0r_OS_System_Upgrade_I:
     Cost: 2
     Effect: "Gain the following quick tech options:\n- Puppet system - Make a tech\
         \ attack against a target in your sensor range. On hit, your target immediately\
@@ -540,7 +591,8 @@ H0r-OS-System-Upgrade-I:
     License: 'HORUS Goblin I'
     Name: 'H0r_OS System Upgrade I'
     Unique: Yes
-H0r-OS-System-Upgrade-II:
+    id: H0r_OS_System_Upgrade_I
+H0r_OS_System_Upgrade_II:
     Cost: 3
     Effect: "Gain the following full tech options:\n-Erasure Logic: Make a tech attack\
         \ against a target in your sensor range. On hit, the target must pass a system\
@@ -552,7 +604,8 @@ H0r-OS-System-Upgrade-II:
     License: 'HORUS Goblin III'
     Name: 'H0r_OS System Upgrade II'
     Unique: Yes
-HAVOK-Ammo:
+    id: H0r_OS_System_Upgrade_II
+HAVOK_Ammo:
     Cost: 2
     Effect: 'Choose a ranged weapon. On a critical hit, the affected mech also takes
         1 Burn and 1 Heat.'
@@ -560,7 +613,8 @@ HAVOK-Ammo:
     License: 'HA Genghis II'
     Name: 'HAVOK Ammo'
     Unique: "-"
-HORUS-Meta-hook:
+    id: HAVOK_Ammo
+HORUS_Meta_hook:
     Cost: 1
     Effect: 'Gain the following quick tech option: Link: Choose a friendly target
         in sensor range. You link systems with that target. From hereon, you can count
@@ -573,7 +627,8 @@ HORUS-Meta-hook:
     License: 'HORUS Goblin I'
     Name: 'HORUS Meta-hook'
     Unique: "-"
-Hardlight-Defense-System:
+    id: HORUS_Meta_hook
+Hardlight_Defense_System:
     Cost: 3
     Effect: 'Activating this system generates a Burst 4 area centered on the user
         until the end of your next turn. All targets, allied and enemy, inside this
@@ -583,7 +638,8 @@ Hardlight-Defense-System:
     License: 'HA Saladin II'
     Name: 'Hardlight Defense System'
     Unique: Yes
-Harrison-Armory-Blackshield:
+    id: Hardlight_Defense_System
+Harrison_Armory_Blackshield:
     Cost: 2
     Effect: 'As a full action, this system can be activated to generate a burst 4
         area centered on user. While active, the flow of time is altered drastically
@@ -600,7 +656,8 @@ Harrison-Armory-Blackshield:
     License: 'HA Napoleon III'
     Name: 'Harrison Armory Blackshield'
     Unique: Yes
-Haywire-Ammo:
+    id: Harrison_Armory_Blackshield
+Haywire_Ammo:
     Cost: 1
     Effect: 'Choose 1 ranged weapon - On a hit, the next Tech action against that
         target is made with +1 Accuracy.'
@@ -608,7 +665,8 @@ Haywire-Ammo:
     License: 'HORUS Manticore II'
     Name: 'Haywire Ammo'
     Unique: "-"
-Hi-Stress-Mag-Clamps:
+    id: Haywire_Ammo
+Hi_Stress_Mag_Clamps:
     Cost: 1
     Effect: 'Choose one ranged weapon. You can fire a tracer round from it instead
         of a normal shot. It deals 0 damage maximum, but on a hit, your next attack
@@ -617,7 +675,8 @@ Hi-Stress-Mag-Clamps:
     License: 'SSC Death''s Head I'
     Name: 'Hi-Stress Mag Clamps'
     Unique: Yes
-Hive-Drone:
+    id: Hi_Stress_Mag_Clamps
+Hive_Drone:
     Cost: 2
     Effect: 'You can fire this drone to an empty space as a quick action. While it’s
         active, it emits a burst 1 area around it that grants light cover to any allied
@@ -629,7 +688,8 @@ Hive-Drone:
     License: 'HORUS Balor I'
     Name: 'Hive Drone'
     Unique: "-"
-Hunter-Cloak:
+    id: Hive_Drone
+Hunter_Cloak:
     Cost: 2
     Effect: 'Gain the following quick tech option: Hunt: Choose a target in your sensor
         range. Your systems infect the target with a viral logic that wipes your image
@@ -640,7 +700,8 @@ Hunter-Cloak:
     License: 'SSC Mourning Cloak II'
     Name: 'Hunter Cloak'
     Unique: Yes
-Hunter-Lock:
+    id: Hunter_Cloak
+Hunter_Lock:
     Cost: 2
     Effect: 'Nominate a target in your sensor range. Your first attack that hits that
         target per round deals +3 bonus damage. You cannot nominate a new target until
@@ -649,7 +710,8 @@ Hunter-Lock:
     License: 'HORUS Pegasus I'
     Name: 'Hunter Lock'
     Unique: Yes
-Hyper-Dense-Armor:
+    id: Hunter_Lock
+Hyper_Dense_Armor:
     Cost: 3
     Effect: 'You may activate or deactivate this armor system’s activation protocols
         at the start of your turn. While active, it hardens into a shimmering, reflective
@@ -660,7 +722,8 @@ Hyper-Dense-Armor:
     License: 'IPS-N Tortuga III'
     Name: 'Hyper Dense Armor'
     Unique: Yes
-ICEOUT-Drone:
+    id: Hyper_Dense_Armor
+ICEOUT_Drone:
     Cost: 2
     Effect: 'You fire an ICEOUT drone at a point within range 10 of you, where it
         hovers in place. The drone is invisible. Once fired, the drone creates a burst
@@ -675,7 +738,8 @@ ICEOUT-Drone:
     License: 'SSC Black Witch II'
     Name: 'ICEOUT Drone'
     Unique: "-"
-Impact-Shielding:
+    id: ICEOUT_Drone
+Impact_Shielding:
     Cost: 3
     Effect: 'While this system is active, gain resistance to kinetic damage, but take
         1 heat when you take damage.'
@@ -683,7 +747,8 @@ Impact-Shielding:
     License: 'IPS-N Raleigh II'
     Name: 'Impact Shielding'
     Unique: Yes
-Interdictor-Field:
+    id: Impact_Shielding
+Interdictor_Field:
     Cost: 3
     Effect: 'You can activate or deactivate this field as a quick action. Once activated,
         at the start of your next turn, it creates a burst 3 area around your mech
@@ -695,7 +760,8 @@ Interdictor-Field:
     License: 'HORUS Minotaur III'
     Name: 'Interdictor Field'
     Unique: "-"
-Kinetic-Compensator:
+    id: Interdictor_Field
+Kinetic_Compensator:
     Cost: 2
     Effect: 'When you miss with any ranged attack roll, your next ranged attack roll
         gains +1 Accuracy'
@@ -703,7 +769,8 @@ Kinetic-Compensator:
     License: 'SSC Death''s Head III'
     Name: 'Kinetic Compensator'
     Unique: Yes
-LAW-OF-BLADES:
+    id: Kinetic_Compensator
+LAW_OF_BLADES:
     Cost: 2
     Effect: "Gain the following full tech actions:\n-Predator/Prey Concepts: Make\
         \ a tech attack against a target in your sensor range. On hit, Targeted mech\
@@ -718,7 +785,8 @@ LAW-OF-BLADES:
     License: 'HORUS Minotaur III'
     Name: 'LAW OF BLADES'
     Unique: Yes
-Lightning-Generator:
+    id: LAW_OF_BLADES
+Lightning_Generator:
     Cost: 2
     Effect: 'At the start of your turn, you can take 1 heat (self) to deal 1d3 energy
         damage to all targets adjacent to you, no roll required.'
@@ -726,7 +794,8 @@ Lightning-Generator:
     License: 'HORUS Manticore III'
     Name: 'Lightning Generator'
     Unique: Yes
-Localized-Maze:
+    id: Lightning_Generator
+Localized_Maze:
     Cost: 2
     Effect: 'Targets that become engaged with you must pass a systems skill check
         or become immobilized until the start of their next turn.'
@@ -734,7 +803,8 @@ Localized-Maze:
     License: 'HORUS Minotaur I'
     Name: 'Localized Maze'
     Unique: Yes
-Lock-Kill-Subsystem:
+    id: Localized_Maze
+Lock_Kill_Subsystem:
     Cost: 1
     Effect: 'You can now boost and take reactions while grappling. Targets grappled
         by you gain +1 difficulty to attempt to escape your grapples.'
@@ -742,7 +812,8 @@ Lock-Kill-Subsystem:
     License: 'IPS-N Blackbeard III'
     Name: 'Lock/Kill Subsystem'
     Unique: Yes
-Low-Profile:
+    id: Lock_Kill_Subsystem
+Low_Profile:
     Cost: 2
     Effect: 'Your mech can retract its major systems to reduce its profile. You can
         activate this protocol at the start of your turn. While active: - Rolls to
@@ -753,7 +824,8 @@ Low-Profile:
     License: 'SSC Swallowtail II'
     Name: 'Low Profile'
     Unique: Yes
-MONGOOSE-v-3-4:
+    id: Low_Profile
+MONGOOSE_v_3_4:
     Cost: 2
     Effect: 'Gain the following quick tech option: Baleful Purge: Choose a target
         in range and make a tech attack. If your attack is successful, until the end
@@ -763,7 +835,8 @@ MONGOOSE-v-3-4:
     License: 'HORUS Goblin II'
     Name: '//MONGOOSE v. 3.4'
     Unique: Yes
-MONITOR-Module:
+    id: MONGOOSE_v_3_4
+MONITOR_Module:
     Cost: 2
     Effect: 'When you take this quick action, choose an ally and roll a 1d3 to gain
         that many charges. Until the start of your next turn, when that ally is attacked
@@ -774,7 +847,8 @@ MONITOR-Module:
     License: 'HORUS Gorgon II'
     Name: 'MONITOR Module'
     Unique: "-"
-Mag-Deployer:
+    id: MONITOR_Module
+Mag_Deployer:
     Cost: 2
     Effect: 'You flash-print a heavy metal plate that takes up a 2x2 free space in
         range 5 of you. It is flat and doesn’t obstruct movement. You can set the
@@ -793,7 +867,8 @@ Mag-Deployer:
     License: 'SSC Black Witch II'
     Name: 'Mag Deployer'
     Unique: "-"
-Mag-Shield:
+    id: Mag_Deployer
+Mag_Shield:
     Cost: 2
     Effect: "As a quick action, this system creates a line 4 force field 4 spaces\
         \ high with at least 1 square in an adjacent space to you. Any adjacent mech\
@@ -807,6 +882,7 @@ Mag-Shield:
     License: 'SSC Black Witch III'
     Name: 'Mag Shield'
     Unique: Yes
+    id: Mag_Shield
 Manipulators:
     Cost: 1
     Effect: 'Gain 2 extra sets of limbs. These limbs cannot be used to make attacks,
@@ -818,7 +894,8 @@ Manipulators:
     License: GMS
     Name: Manipulators
     Unique: Yes
-Mesmer-Mine:
+    id: Manipulators
+Mesmer_Mine:
     Cost: 1
     Effect: 'This mine activates for a burst 1 area centered on itself. All targets
         caught in that area, allied or enemy, must pass a systems check or become
@@ -827,7 +904,8 @@ Mesmer-Mine:
     License: 'HORUS Minotaur II'
     Name: 'Mesmer Mine'
     Unique: "-"
-Molded-Armor:
+    id: Mesmer_Mine
+Molded_Armor:
     Cost: 2
     Effect: 'Activate or deactivate this shield at the start of your turn. While this
         module is active, gain resistance to explosive damage, but take 1 heat when
@@ -836,7 +914,8 @@ Molded-Armor:
     License: 'HA Barbarossa III'
     Name: 'Molded Armor'
     Unique: Yes
-Nanite-Ammo-Mod:
+    id: Molded_Armor
+Nanite_Ammo_Mod:
     Cost: 2
     Effect: 'Choose 1 ranged weapon. You fire a swarm of nanobots instead of regular
         ammo. The weapon gains the Smart and Seeking properties.'
@@ -844,7 +923,8 @@ Nanite-Ammo-Mod:
     License: 'HORUS Balor II'
     Name: 'Nanite Ammo Mod'
     Unique: "-"
-OSIRIS-Class-NHP:
+    id: Nanite_Ammo_Mod
+OSIRIS_Class_NHP:
     Cost: 3
     Effect: 'Your mech gains the AI property and the OSIRIS protocol: Protocol 1d3+2
         heat (self). This turn only, you can make any quick tech action as a free
@@ -853,14 +933,16 @@ OSIRIS-Class-NHP:
     License: 'HORUS Goblin III'
     Name: 'OSIRIS-Class NHP'
     Unique: Yes
-Over-Penetrating-Mod:
+    id: OSIRIS_Class_NHP
+Over_Penetrating_Mod:
     Cost: 1
     Effect: 'Choose 1 rifle, launcher, or cannon weapon. Its range becomes line (5).'
     Keywords: Mod
     License: 'IPS-N Vlad II'
     Name: 'Over-Penetrating Mod'
     Unique: "-"
-Paracausal-Weapon-Mod:
+    id: Over_Penetrating_Mod
+Paracausal_Weapon_Mod:
     Cost: 4
     Effect: 'Choose one weapon- damage from this weapon cannot be reduced in any way,
         by armor, resistance, or any other kind of damage reduction.'
@@ -868,6 +950,7 @@ Paracausal-Weapon-Mod:
     License: 'HA Saladin II'
     Name: 'Paracausal Weapon Mod'
     Unique: "-"
+    id: Paracausal_Weapon_Mod
 Personalizations:
     Cost: 1
     Effect: 'When you take this mod, your mech gains +2 HP and you may establish with
@@ -880,7 +963,8 @@ Personalizations:
     License: GMS
     Name: Personalizations
     Unique: Yes
-Phasing-Ammo:
+    id: Personalizations
+Phasing_Ammo:
     Cost: 3
     Effect: 'Choose 1 ranged weapon. This weapon completely ignores cover and line
         of sight of all kinds. It can fire through solid walls or obstacles at targets,
@@ -889,7 +973,8 @@ Phasing-Ammo:
     License: 'HA Napoleon I'
     Name: 'Phasing Ammo'
     Unique: "-"
-Point-Defense-Weapon:
+    id: Phasing_Ammo
+Point_Defense_Weapon:
     Cost: 2
     Effect: 'You can prime your PDW by taking a quick action. Roll 1d3, and gain that
         many charges. You can use a reaction while you have charges to spend 1 charge
@@ -900,7 +985,8 @@ Point-Defense-Weapon:
     License: 'HORUS Gorgon I'
     Name: 'Point Defense Weapon'
     Unique: "-"
-Portable-Bunker:
+    id: Point_Defense_Weapon
+Portable_Bunker:
     Cost: 2
     Effect: 'To activate this system, choose a clear 4x4 space adjacent to you and
         take a quick action. At the start of your next turn, this system unfolds into
@@ -913,7 +999,8 @@ Portable-Bunker:
     License: 'IPS-N Drake III'
     Name: 'Portable Bunker'
     Unique: "-"
-Projected-Shield:
+    id: Portable_Bunker
+Projected_Shield:
     Cost: 1
     Effect: 'Activate or deactivate this shield at the start of your turn. Choose
         an allied mech. Until the end of the next round, as long as that mech is in
@@ -923,6 +1010,7 @@ Projected-Shield:
     License: 'HA Saladin III'
     Name: 'Projected Shield'
     Unique: Yes
+    id: Projected_Shield
 Puppetmaster:
     Cost: 1
     Effect: 'Gain the following quick tech option: Fractal Logic: Make a tech attack
@@ -933,7 +1021,8 @@ Puppetmaster:
     License: 'HORUS Hydra I'
     Name: Puppetmaster
     Unique: Yes
-Ram-Drive:
+    id: Puppetmaster
+Ram_Drive:
     Cost: 2
     Effect: 'While you are in the Danger Zone (the bottom half of your heat gauge),
         all adjacent targets to you, allied or enemy, take 1d3 energy damage if they
@@ -942,7 +1031,8 @@ Ram-Drive:
     License: 'HORUS Manticore II'
     Name: 'Ram Drive'
     Unique: Yes
-Reactive-Weave:
+    id: Ram_Drive
+Reactive_Weave:
     Cost: 1
     Effect: 'When you Brace, your mech can immediately move its speed as a reaction
         and also gains invisibility until the end of its next turn.'
@@ -950,7 +1040,8 @@ Reactive-Weave:
     License: 'SSC Metalmark I'
     Name: 'Reactive Weave'
     Unique: Yes
-Reactor-Stabilizer:
+    id: Reactive_Weave
+Reactor_Stabilizer:
     Cost: 2
     Effect: 'When you gain your first point of reactor stress, you can re-roll your
         overheating check (but must keep the second result, even if it’s worse).'
@@ -958,7 +1049,8 @@ Reactor-Stabilizer:
     License: 'HA Sherman I'
     Name: 'Reactor Stabilizer'
     Unique: Yes
-Redundant-Systems-Upgrade:
+    id: Reactor_Stabilizer
+Redundant_Systems_Upgrade:
     Cost: 2
     Effect: 'You can activate this module to make a Stabilize systems action a free
         action.'
@@ -966,7 +1058,8 @@ Redundant-Systems-Upgrade:
     License: 'HA Sherman II'
     Name: 'Redundant Systems Upgrade'
     Unique: Yes
-Repair-Drone-Nexus:
+    id: Redundant_Systems_Upgrade
+Repair_Drone_Nexus:
     Cost: 2
     Effect: 'When you use these drones, choose one, two, or three target mechs within
         your sensor range. If you chose one mech, it can heal 2d6 + your engineering
@@ -977,7 +1070,8 @@ Repair-Drone-Nexus:
     License: 'IPS-N Lancaster II'
     Name: 'Repair Drone Nexus'
     Unique: "-"
-Repulser-Field:
+    id: Repair_Drone_Nexus
+Repulser_Field:
     Cost: 1
     Effect: 'You can use this system as a quick action to emit a burst 2 pulse around
         your mech. Targets caught in the area (allied or enemy) must pass a hull check
@@ -987,7 +1081,8 @@ Repulser-Field:
     License: 'HA Iskander I'
     Name: 'Repulser Field'
     Unique: Yes
-Restock-Drone:
+    id: Repulser_Field
+Restock_Drone:
     Cost: 2
     Effect: 'As a quick action, you can set this drone down in any adjacent space.
         After your turn ends, the drone primes. Any allied mech that moves adjacent
@@ -998,7 +1093,8 @@ Restock-Drone:
     License: 'IPS-N Lancaster I'
     Name: 'Restock Drone'
     Unique: "-"
-SCORPION-v-70-1:
+    id: Restock_Drone
+SCORPION_v_70_1:
     Cost: 2
     Effect: 'If any hostile tech action or attack attempt on you or any adjacent ally
         misses, you may choose one of the following results for the attacker: 1) The
@@ -1008,7 +1104,8 @@ SCORPION-v-70-1:
     License: 'HORUS Gorgon II'
     Name: '//SCORPION v. 70.1'
     Unique: Yes
-SCYLLA-Class-NHP:
+    id: SCORPION_v_70_1
+SCYLLA_Class_NHP:
     Cost: 3
     Effect: 'Your mech gainst the AI property and the SCYLLA Protocol 3 heat (self).
         Until the start of your next turn, you gain 2 reactions. These reactions can
@@ -1020,7 +1117,8 @@ SCYLLA-Class-NHP:
     License: 'HORUS Gorgon III'
     Name: 'SCYLLA Class NHP'
     Unique: Yes
-SEKHMET-class-NHP:
+    id: SCYLLA_Class_NHP
+SEKHMET_class_NHP:
     Cost: 3
     Effect: 'Your mech gains the AI property. In addition, gain the SEKHMET protocol:
         Protocol All melee critical hits do +1d6 bonus damage. You can make a skirmish
@@ -1038,7 +1136,8 @@ SEKHMET-class-NHP:
     License: 'IPS-N Blackbeard III'
     Name: 'SEKHMET-class NHP'
     Unique: Yes
-SSC-Neurospike-Mk1:
+    id: SEKHMET_class_NHP
+SSC_Neurospike_Mk1:
     Cost: 2
     Effect: "Gain the following quick tech choices: Shrike Code: Make a tech attack\
         \ against a target in your sensor range with +1 difficulty. On hit, until\
@@ -1052,7 +1151,8 @@ SSC-Neurospike-Mk1:
     License: 'SSC Dusk Wing II'
     Name: 'SSC Neurospike Mk1'
     Unique: Yes
-Scanner-Swarm:
+    id: SSC_Neurospike_Mk1
+Scanner_Swarm:
     Cost: 2
     Effect: 'Your Tech actions against targets in melee engagement with you gain +2
         Accuracy.'
@@ -1060,7 +1160,8 @@ Scanner-Swarm:
     License: 'HORUS Balor I'
     Name: 'Scanner Swarm'
     Unique: Yes
-Scout-Drone-Nexus:
+    id: Scanner_Swarm
+Scout_Drone_Nexus:
     Cost: 2
     Effect: 'When you use this system, you can deploy your drone to an area in sensor
         range. The drone then emits a burst 2 area around it that grants the following
@@ -1073,7 +1174,8 @@ Scout-Drone-Nexus:
     License: 'SSC Swallowtail I'
     Name: 'Scout Drone Nexus'
     Unique: "-"
-Sentinel-Drone-Nexus:
+    id: Scout_Drone_Nexus
+Sentinel_Drone_Nexus:
     Cost: 2
     Effect: 'You fire this drone as a quick action at a free space in sensor range,
         creating a burst 2 area centered on the drone. It can be attacked and destroyed
@@ -1085,7 +1187,8 @@ Sentinel-Drone-Nexus:
     License: 'HORUS Gorgon I'
     Name: 'Sentinel Drone Nexus'
     Unique: "-"
-Shock-Wreath:
+    id: Sentinel_Drone_Nexus
+Shock_Wreath:
     Cost: 2
     Effect: 'Choose 1 melee weapon. It gains Burn depending on its size (Aux 1, Main
         2, Heavy or larger: 3). If it already has Burn, increase the burn it deals
@@ -1094,7 +1197,8 @@ Shock-Wreath:
     License: 'SSC Metalmark I'
     Name: 'Shock Wreath'
     Unique: "-"
-Siege-Stabilizers:
+    id: Shock_Wreath
+Siege_Stabilizers:
     Cost: 2
     Effect: 'Extend or retract your stabilizers as a quick action. Your mech is immobilized
         while this system is active, but you can increase the base range of your ranged
@@ -1104,7 +1208,8 @@ Siege-Stabilizers:
     License: 'HA Barbarossa I'
     Name: 'Siege Stabilizers'
     Unique: "-"
-Smart-Weapon-Modification:
+    id: Siege_Stabilizers
+Smart_Weapon_Modification:
     Cost: 1
     Effect: 'Choose 1 ranged or melee weapon. It gains the Smart property, as advanced
         sub-sentient AI routines and targeting guide its attacks.'
@@ -1112,7 +1217,8 @@ Smart-Weapon-Modification:
     License: 'HORUS Pegasus II'
     Name: 'Smart Weapon Modification'
     Unique: "-"
-Snub-Barrel-Mod:
+    id: Smart_Weapon_Modification
+Snub_Barrel_Mod:
     Cost: 1
     Effect: 'Choose 1 rifle, cannon, or CQB weapon. The weapon becomes cone (3) range
         or cone (+1) if it already has a cone attack pattern.'
@@ -1120,14 +1226,16 @@ Snub-Barrel-Mod:
     License: 'IPS-N Vlad I'
     Name: 'Snub Barrel Mod'
     Unique: "-"
-Stabilizer-Weapon-Mod:
+    id: Snub_Barrel_Mod
+Stabilizer_Weapon_Mod:
     Cost: 1
     Effect: 'Choose 1 launcher or cannon weapon. Increase its base range by 5.'
     Keywords: Mod
     License: 'SSC Monarch II'
     Name: 'Stabilizer Weapon Mod'
     Unique: "-"
-Stable-Structure:
+    id: Stabilizer_Weapon_Mod
+Stable_Structure:
     Cost: 1
     Effect: 'Attempts to knock you prone are made with +1 Difficulty, and you make
         rolls to resist getting knocked prone with +1 Accuracy'
@@ -1135,7 +1243,8 @@ Stable-Structure:
     License: GMS
     Name: 'Stable Structure'
     Unique: Yes
-Stasis-Barrier:
+    id: Stable_Structure
+Stasis_Barrier:
     Cost: 2
     Effect: 'This module deploys as a 4 space long piece of size 2 cover that lasts
         until the end of the current challenge. While behind the barrier, a target
@@ -1146,7 +1255,8 @@ Stasis-Barrier:
     License: 'HA Napoleon I'
     Name: 'Stasis Barrier'
     Unique: "-"
-Stasis-Mine:
+    id: Stasis_Barrier
+Stasis_Mine:
     Cost: 1
     Effect: 'You can detonate this mine with a quick action once planted (or it activates
         normally). Once detonated, this mine creates a burst 4 area around it. Affected
@@ -1164,6 +1274,7 @@ Stasis-Mine:
     License: 'HA Napoleon II'
     Name: 'Stasis Mine'
     Unique: "-"
+    id: Stasis_Mine
 StunCrown:
     Cost: 2
     Effect: 'All hostile targets in a burst 10 area centered on your mech that can
@@ -1174,7 +1285,8 @@ StunCrown:
     License: 'SSC Dusk Wing III'
     Name: StunCrown
     Unique: "-"
-Support-Shield:
+    id: StunCrown
+Support_Shield:
     Cost: 2
     Effect: 'Activating this system generates a Burst 3 area centered on user until
         the end of the user’s next turn. All ranged weapon attacks made against you
@@ -1184,7 +1296,8 @@ Support-Shield:
     License: 'HA Saladin I'
     Name: 'Support Shield'
     Unique: Yes
-Synthetic-Muscle-Netting:
+    id: Support_Shield
+Synthetic_Muscle_Netting:
     Cost: 1
     Effect: 'When grappling, you always count as the same size as your opponent if
         your opponent is larger than you, and larger than your opponent if they are
@@ -1193,7 +1306,8 @@ Synthetic-Muscle-Netting:
     License: 'IPS-N Blackbeard I'
     Name: 'Synthetic Muscle Netting'
     Unique: Yes
-TLALOC-class-NHP:
+    id: Synthetic_Muscle_Netting
+TLALOC_class_NHP:
     Cost: 3
     Effect: 'Your mech gains the AI property and the TLALOC protocol. TLALOC protocol
         Protocol 2 heat (self). Your mech is capable of rapidly firing and re-targeting
@@ -1208,7 +1322,8 @@ TLALOC-class-NHP:
     License: 'SSC Monarch III'
     Name: 'TLALOC-class NHP'
     Unique: Yes
-Tempest-Drone-Nexus:
+    id: TLALOC_class_NHP
+Tempest_Drone_Nexus:
     Cost: 2
     Effect: 'You fire a large shielded drone to an empty space within sensor range.
         Any target that starts their turn adjacent to the drone or moves their for
@@ -1221,7 +1336,8 @@ Tempest-Drone-Nexus:
     License: 'HORUS Hydra III'
     Name: 'Tempest Drone Nexus'
     Unique: "-"
-Thermal-Charge:
+    id: Tempest_Drone_Nexus
+Thermal_Charge:
     Cost: 2
     Effect: 'This mod can only be applied to a melee weapon. As a free action, you
         may activate the shaped charge on your weapon to do +2d6 explosive damage
@@ -1230,7 +1346,8 @@ Thermal-Charge:
     License: 'IPS-N Nelson II'
     Name: 'Thermal Charge'
     Unique: "-"
-Throughbolt-Rounds:
+    id: Thermal_Charge
+Throughbolt_Rounds:
     Cost: 1
     Effect: 'Choose 1 CQB, cannon, or rifle weapon. When you fire this weapon, draw
         a line 3 spaces long from your mech, then measure its original range from
@@ -1243,7 +1360,8 @@ Throughbolt-Rounds:
     License: 'IPS-N Tortuga II'
     Name: 'Throughbolt Rounds'
     Unique: "-"
-Tracking-Drone:
+    id: Throughbolt_Rounds
+Tracking_Drone:
     Cost: 1
     Effect: 'Gain the following quick tech action: Tracking Drone: Make a tech attack
         against a target in your sensor range. On a hit, you know the target’s exact
@@ -1255,7 +1373,8 @@ Tracking-Drone:
     License: 'SSC Death''s Head I'
     Name: 'Tracking Drone'
     Unique: "-"
-Turret-Drone-Nexus:
+    id: Tracking_Drone
+Turret_Drone_Nexus:
     Cost: 2
     Effect: "This system fires a turret drone that attaches to any friendly mech or\
         \ surface within sensor range. While attached, you gain the following reaction\
@@ -1267,7 +1386,8 @@ Turret-Drone-Nexus:
     License: 'HORUS Hydra II'
     Name: 'Turret Drone Nexus'
     Unique: "-"
-UNCLE-class-NHP:
+    id: Turret_Drone_Nexus
+UNCLE_class_NHP:
     Cost: 3
     Effect: 'Choose 1 weapon - The weapon and its associate systems gain an NHP that
         has control over that specific weapon. This is not a full AI and can’t control
@@ -1280,7 +1400,8 @@ UNCLE-class-NHP:
     License: 'IPS-N Raleigh III'
     Name: 'UNCLE-class NHP'
     Unique: Yes
-VISHNU-Class-NHP:
+    id: UNCLE_class_NHP
+VISHNU_Class_NHP:
     Cost: 3
     Effect: 'Your mech gains the AI property and the following protocol: DHARMA Wall:
         Protocol, 3 heat (self): Until the end of your next turn, your mech is immobilized,
@@ -1292,7 +1413,8 @@ VISHNU-Class-NHP:
     License: 'HA Saladin III'
     Name: 'VISHNU-Class NHP'
     Unique: Yes
-Veil-Generator:
+    id: VISHNU_Class_NHP
+Veil_Generator:
     Cost: 1
     Effect: 'Once deployed in a free adjacent space as a quick action, this size 1
         generator creates a weak cloaking field. It creates a burst 3 zone around
@@ -1305,7 +1427,8 @@ Veil-Generator:
     License: 'SSC Death''s Head II'
     Name: 'Veil Generator'
     Unique: "-"
-Viral-Logic:
+    id: Veil_Generator
+Viral_Logic:
     Cost: 1
     Effect: 'Gain the following quick tech action: Logic Bomb (Quick Action): Choose
         a blast 2 area within sensor range. All targets in the area (allied or enemy)
@@ -1314,3 +1437,4 @@ Viral-Logic:
     License: 'HORUS Minotaur I'
     Name: 'Viral Logic'
     Unique: Yes
+    id: Viral_Logic

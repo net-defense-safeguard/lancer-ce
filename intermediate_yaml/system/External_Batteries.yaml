@@ -1,0 +1,9 @@
+Cost: 2
+Effect: 'Your energy ranged weapons gain +5 range, and your energy melee weapons gain
+  +1 threat. If you overheat, it explodes, dealing 1d6 AP explosive damage to your
+  mech. This damage can’t be prevented in any way.'
+Keywords: "-"
+License: 'HA Tokugawa I'
+Name: 'External Batteries'
+Unique: true
+id: External_Batteries

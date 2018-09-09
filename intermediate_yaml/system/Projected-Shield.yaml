@@ -1,9 +1,0 @@
-Cost: 1
-Effect: 'Activate or deactivate this shield at the start of your turn. Choose an allied
-  mech. Until the end of the next round, as long as that mech is in your sensor range,
-  all attacks against that mech are made at +1 Difficulty, but deal 1 heat to you
-  on a hit.'
-Keywords: 'Shield, Protocol'
-License: 'HA Saladin III'
-Name: 'Projected Shield'
-Unique: true

@@ -25,7 +25,8 @@ Everest:
         die, before modifiers, sometimes called a ‘natural’ 20) you gain an additional
         action that you must use before the end of your turn. This passive can only
         take effect once per turn, and only on your turn.'
-HA-Barbarossa:
+    id: Everest
+HA_Barbarossa:
     AGI: -2
     ARMOR: 2
     EDEF: 0
@@ -57,7 +58,8 @@ HA-Barbarossa:
         a superheavy or smaller sized weapon. You can still mount smaller weapons
         on the apocalypse rail. You don’t need an additional mount to add superheavy
         weapon to this mount. This mount is not modifiable(such as from core bonuses).'
-HA-Genghis:
+    id: HA_Barbarossa
+HA_Genghis:
     AGI: -1
     ARMOR: 3
     EDEF: 0
@@ -88,7 +90,8 @@ HA-Genghis:
     Ultimate-Name: 'TBK Sustain Suite'
     Ultimate-Passive: 'When you lose a point of structure, you immediately clear your
         heat gauge.'
-HA-Iskander:
+    id: HA_Genghis
+HA_Iskander:
     AGI: 0
     ARMOR: 1
     EDEF: 0
@@ -119,7 +122,8 @@ HA-Iskander:
         that activate once a hostile target comes within range unless it chooses to
         do soWhen your mech uses a quick action to plant a mine, you may plant up
         to 2 additional mines in free adjacent spaces as a free action.'
-HA-Napoleon:
+    id: HA_Iskander
+HA_Napoleon:
     AGI: 1
     ARMOR: 0
     EDEF: 0
@@ -154,7 +158,8 @@ HA-Napoleon:
     Ultimate-Name: 'HA Vantablack Aegis'
     Ultimate-Passive: 'If you would take half damage from an effect (weapon, system,
         explosion, etc) on a successful check of any kind, you instead take 0 damage.'
-HA-Saladin:
+    id: HA_Napoleon
+HA_Saladin:
     AGI: -1
     ARMOR: 1
     EDEF: 0
@@ -183,7 +188,8 @@ HA-Saladin:
     Ultimate-Name: 'Tachyon Loop'
     Ultimate-Passive: 'The very first attack made against you in a round is made at
         +1 difficulty'
-HA-Sherman:
+    id: HA_Saladin
+HA_Sherman:
     AGI: 0
     ARMOR: 0
     EDEF: 0
@@ -216,7 +222,8 @@ HA-Sherman:
     Ultimate-Passive: 'Your mech mounts the ZFMk IV SOLIDCORE, a powerful energy beam
         weapon. It doesn’t take a mount. Main Cannon, Ordnance, Line 15, 1d3+1 Energy
         damage.'
-HA-Tokugawa:
+    id: HA_Sherman
+HA_Tokugawa:
     AGI: 0
     ARMOR: 0
     EDEF: 0
@@ -242,7 +249,8 @@ HA-Tokugawa:
     Ultimate-Name: 'Superheated Reactor Feed'
     Ultimate-Passive: 'While your mech is in the Danger Zone you deal +2 Burn on the
         first hit with any attack on your turn.'
-HORUS-Balor:
+    id: HA_Tokugawa
+HORUS_Balor:
     AGI: 0
     ARMOR: 1
     EDEF: 0
@@ -270,7 +278,8 @@ HORUS-Balor:
     Ultimate-Name: Hellswarm
     Ultimate-Passive: 'Any target grappled by your mech or that starts their turn
         adjacent to your mech takes 2 kinetic damage at the start of your turn.'
-HORUS-Goblin:
+    id: HORUS_Balor
+HORUS_Goblin:
     AGI: 1
     ARMOR: 0
     EDEF: 2
@@ -307,7 +316,8 @@ HORUS-Goblin:
         dead.'
     Ultimate-Name: 'Devouring Code'
     Ultimate-Passive: 'Gain +1 Accuracy on all Tech Attacks.'
-HORUS-Gorgon:
+    id: HORUS_Goblin
+HORUS_Gorgon:
     AGI: 0
     ARMOR: 0
     EDEF: 1
@@ -337,7 +347,8 @@ HORUS-Gorgon:
     Ultimate-Passive: 'Any attacker that rolls a 1 or 2 on their d20 roll to attack
         you is automatically stunned until the end of their next turn (their attack
         also automatically misses).'
-HORUS-Hydra:
+    id: HORUS_Gorgon
+HORUS_Hydra:
     AGI: 0
     ARMOR: 0
     EDEF: 0
@@ -372,7 +383,8 @@ HORUS-Hydra:
     Ultimate-Passive: 'Your NHP partitions itself into many cloned personalities that
         can help you with maintaining your mech. Once per round, you can re-roll any
         systems or engineering check of your choice, but must keep the second result.'
-HORUS-Manticore:
+    id: HORUS_Hydra
+HORUS_Manticore:
     AGI: 0
     ARMOR: 2
     EDEF: 0
@@ -402,7 +414,8 @@ HORUS-Manticore:
     Ultimate-Name: 'Charged Exoskeleton'
     Ultimate-Passive: 'When you take heat damage from any source, one target in range
         3 of you takes 1 energy damage.'
-HORUS-Minotaur:
+    id: HORUS_Manticore
+HORUS_Minotaur:
     AGI: 0
     ARMOR: 0
     EDEF: 0
@@ -436,7 +449,8 @@ HORUS-Minotaur:
         they are stunned until the end of your next turn. This passive can only stun
         the same target once per combat, but cripple or immobilize them any number
         of times'
-HORUS-Pegasus:
+    id: HORUS_Minotaur
+HORUS_Pegasus:
     AGI: 0
     ARMOR: 0
     EDEF: 0
@@ -464,7 +478,8 @@ HORUS-Pegasus:
         30 with the omnigun as a free action, dealing 1 AP kinetic damage. This does
         not count as an attack, cannot miss, does not need line of sight, ignores
         cover, and this damage cannot be reduced by any means.'
-IPS-N-Blackbeard:
+    id: HORUS_Pegasus
+IPS_N_Blackbeard:
     AGI: 1
     ARMOR: 1
     EDEF: 0
@@ -496,7 +511,8 @@ IPS-N-Blackbeard:
         immobile. Your mech can also use this system to attempt to grapple and maintain
         a grapple on any target within range 8, instead of being adjacent to that
         target.'
-IPS-N-Drake:
+    id: IPS_N_Blackbeard
+IPS_N_Drake:
     AGI: -2
     ARMOR: 3
     EDEF: 0
@@ -529,7 +545,8 @@ IPS-N-Drake:
     Ultimate-Passive: 'This huge, plated shield can be used to bash enemies. It counts
         as its own mount (doesn’t take mount space). Main Melee, Threat 1, 1d6 Kinetic
         Damage.'
-IPS-N-Lancaster:
+    id: IPS_N_Drake
+IPS_N_Lancaster:
     AGI: 0
     ARMOR: 0
     EDEF: 0
@@ -560,7 +577,8 @@ IPS-N-Lancaster:
         mount space. Auxillary Launcher, Range 8. Make a Targeting roll vs Evasion
         8 and target any friendly mech in range(still take cover and LoS into account).
         On hit, the target may spend up to 1 repair to heal.'
-IPS-N-Nelson:
+    id: IPS_N_Lancaster
+IPS_N_Nelson:
     AGI: 1
     ARMOR: 0
     EDEF: 0
@@ -585,7 +603,8 @@ IPS-N-Nelson:
     Ultimate-Passive: 'Before or after you make any skirmish or barrage action, you
         can move 1 in any direction. This movement doesn’t provoke reactions, ignores
         engagement, and doesn’t count against your movement for the turn.'
-IPS-N-Raleigh:
+    id: IPS_N_Nelson
+IPS_N_Raleigh:
     AGI: 0
     ARMOR: 0
     EDEF: 0
@@ -613,7 +632,8 @@ IPS-N-Raleigh:
     Ultimate-Name: 'M-35 MJOLNIR cannon'
     Ultimate-Passive: 'Gain the M35 cannon, it doesn''t take a mount. Auxillary, CQB,
         Range 5, Threat 3, 3 Kinetic Damage.'
-IPS-N-Tortuga:
+    id: IPS_N_Raleigh
+IPS_N_Tortuga:
     AGI: 0
     ARMOR: 2
     EDEF: 0
@@ -638,7 +658,8 @@ IPS-N-Tortuga:
         of its next turn.'
     Ultimate-Name: SENTINEL
     Ultimate-Passive: 'Gain +1 Accuracy to all overwatch attacks.'
-IPS-N-Vlad:
+    id: IPS_N_Tortuga
+IPS_N_Vlad:
     AGI: 0
     ARMOR: 2
     EDEF: 0
@@ -662,7 +683,8 @@ IPS-N-Vlad:
     Ultimate-Name: 'SHRIKE armor'
     Ultimate-Passive: 'When you are attacked by a non-grunt target within range 3,
         your attacker takes 1 AP kinetic damage before they attack'
-SSC-Black-Witch:
+    id: IPS_N_Vlad
+SSC_Black_Witch:
     AGI: 1
     ARMOR: 0
     EDEF: 0
@@ -699,7 +721,8 @@ SSC-Black-Witch:
     Ultimate-Passive: 'Once per turn, you can attempt to parry any attack that hits
         your mech as a reaction. Roll a d6; on a 6, reduce the damage from that attack
         to 0, and deal 1d6 heat back to your attacker.'
-SSC-Death-s-Head:
+    id: SSC_Black_Witch
+SSC_Death_s_Head:
     AGI: 2
     ARMOR: 0
     EDEF: 0
@@ -724,7 +747,8 @@ SSC-Death-s-Head:
     Ultimate-Name: 'Precognitive Targeting'
     Ultimate-Passive: 'You can re-roll the first attack roll you make each round,
         but must keep the second result.'
-SSC-Dusk-Wing:
+    id: SSC_Death_s_Head
+SSC_Dusk_Wing:
     AGI: 1
     ARMOR: 0
     EDEF: 0
@@ -748,7 +772,8 @@ SSC-Dusk-Wing:
         need to land). During your turn, your mech counts as Invisible.'
     Ultimate-Name: 'EX Hover Propulsion System'
     Ultimate-Passive: 'When your mech moves or boosts, it can Fly.'
-SSC-Metalmark:
+    id: SSC_Dusk_Wing
+SSC_Metalmark:
     AGI: 1
     ARMOR: 0
     EDEF: 0
@@ -774,7 +799,8 @@ SSC-Metalmark:
     Ultimate-Name: 'Tactical Cloak'
     Ultimate-Passive: 'You are invisible while moving or boosting, but reappear once
         you finish your movement.'
-SSC-Monarch:
+    id: SSC_Metalmark
+SSC_Monarch:
     AGI: 1
     ARMOR: 1
     EDEF: 0
@@ -803,7 +829,8 @@ SSC-Monarch:
     Ultimate-Passive: 'When you score a critical hit with a Launcher weapon, a target
         different to your first target in range and LoS takes 2 Explosive damage,
         no roll required.'
-SSC-Mourning-Cloak:
+    id: SSC_Monarch
+SSC_Mourning_Cloak:
     AGI: 1
     ARMOR: 0
     EDEF: 0
@@ -833,7 +860,8 @@ SSC-Mourning-Cloak:
         (by terrain, another mech, etc), the teleport fails and you take 2d6 kinetic
         damage. If you roll triples for this system, your mech disappears and does
         not re-appear, either indefinitely or until your party rests (up to you).'
-SSC-Swallowtail:
+    id: SSC_Mourning_Cloak
+SSC_Swallowtail:
     AGI: 2
     ARMOR: 0
     EDEF: 0
@@ -862,3 +890,4 @@ SSC-Swallowtail:
     Ultimate-Passive: 'Gain +1 Accuracy to all agility checks against effects you
         can see or are aware of. If you can’t see a target when it attacks you (it’s
         invisible or hiding, for example), you don’t gain this benefit.'
+    id: SSC_Swallowtail

@@ -1,10 +1,10 @@
 targets:
     - 'intermediate_yaml/shell/Everest.yaml'
-    - 'intermediate_yaml/weapon/Assault-Rifle.yaml'
+    - 'intermediate_yaml/weapon/Assault_Rifle.yaml'
     - 'intermediate_yaml/system/Personalizations.yaml'
-    - 'intermediate_yaml/pilot-weapon/Primitive-Melee.yaml'
-    - 'intermediate_yaml/pilot-gear/Sleeping-Bag.yaml'
-    - 'intermediate_yaml/pilot-armor/Plain-clothes.yaml'
+    - 'intermediate_yaml/pilot-weapon/Primitive_Melee.yaml'
+    - 'intermediate_yaml/pilot-gear/Sleeping_Bag.yaml'
+    - 'intermediate_yaml/pilot-armor/Plain_clothes.yaml'
 xlsx:
     filename: 'xlsx/Lancer Character Sheet 1.7.5.0.xlsx'
     tables:
@@ -17,3 +17,7 @@ xlsx:
         pilot-gear: 'PilotGearLookup'
 #         talent: 'TalentLookup'
 #         condition: 'ConditionLookup'
+catalog_categories:
+    shell:
+        name_field:
+    

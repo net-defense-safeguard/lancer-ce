@@ -1,9 +1,0 @@
-Cost: 2
-Effect: 'You can activate or deactivate the light bending properties of this module
-  at the start of your turn. It lasts until the start of your next turn. While this
-  module is active, you are invisible. If you take damage or make an overheating roll,
-  this module deactivates.'
-Keywords: '2 heat (self), Protocol'
-License: 'SSC Metalmark III'
-Name: 'Active Camo'
-Unique: true

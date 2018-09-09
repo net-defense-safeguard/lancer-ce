@@ -1,0 +1,8 @@
+Cost: 2
+Effect: 'Choose a ranged weapon. On a critical hit, the affected mech also takes 1
+  Burn and 1 Heat.'
+Keywords: Ammo
+License: 'HA Genghis II'
+Name: 'HAVOK Ammo'
+Unique: "-"
+id: HAVOK_Ammo

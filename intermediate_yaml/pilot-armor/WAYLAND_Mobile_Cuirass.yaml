@@ -1,0 +1,10 @@
+Armor: 1
+Bonuses: 'When you take the dash action, you may fly (land by end of turn or fall).
+  Has a range 4 grappling hook to cling to walls, snag items, etc.'
+E-defense: 10
+Evasion: 10
+Manufacturer: IPS-N
+Name: 'WAYLAND Mobile Cuirass'
+Rarity: 2
+Speed: 4
+id: WAYLAND_Mobile_Cuirass

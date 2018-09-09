@@ -1,0 +1,14 @@
+{% extends 'bootstrap/base.html' %}
+{% block main %}
+<div class="album py-5 bg-light">
+<div class="container">
+<div class="row">
+{% for item in items %}
+    {% with item=item, id_field=id_field, name_field=name_field, title_fields=title_fields, brief_fields=brief_fields, detail_fields=detail_fields, id_prefix = 'catalog-' %}
+        {% include 'bootstrap/item_card_col.html' %}
+    {% endwith %}
+{% endfor %}
+</div>
+</div>
+</div>
+{% endblock main %}

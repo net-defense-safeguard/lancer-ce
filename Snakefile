@@ -29,8 +29,8 @@ rule convert_tsv_to_intermediate_yaml:
         table = pd.read_table(input[0])
         table.columns.values[0] = 'Name'
         table = table.rename(columns = {colname: slugify(colname, lowercase=False) for colname in table.columns.values})
-        table['ID'] = table['Name'].apply(lambda name: slugify(name, lowercase=False, sep='_'))
-        table = table.set_index('ID')
+        table['id'] = table['Name'].apply(lambda name: slugify(name, lowercase=False, separator='_'))
+        table = table.set_index('id', drop = False)
         open(output[0], 'w').write(pyaml.dump(table.to_dict('index'), indent = 4))
 
 rule split_intermediate_yaml:

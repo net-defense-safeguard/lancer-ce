@@ -1,0 +1,10 @@
+Cost: 2
+Effect: 'Extend or retract your stabilizers as a quick action. Your mech is immobilized
+  while this system is active, but you can increase the base range of your ranged
+  weapon attacks by +5. You cannot directly target any target within range 5 when
+  this system is activated.'
+Keywords: 'Quick Action'
+License: 'HA Barbarossa I'
+Name: 'Siege Stabilizers'
+Unique: "-"
+id: Siege_Stabilizers

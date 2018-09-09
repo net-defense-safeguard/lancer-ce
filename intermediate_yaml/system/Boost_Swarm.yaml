@@ -1,0 +1,9 @@
+Cost: 2
+Effect: 'Gain a new full tech option: Nanoboost (Full Tech): Make a systems check.
+  On success, another allied mech in sensor range can immediately end the Impaired
+  and Jammed statuses on itself and repair your systems score in HP.'
+Keywords: "-"
+License: 'HORUS Balor II'
+Name: 'Boost Swarm'
+Unique: "-"
+id: Boost_Swarm

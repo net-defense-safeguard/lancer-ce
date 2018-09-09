@@ -1,0 +1,31 @@
+AGI: 0
+ARMOR: 0
+EDEF: 0
+ENG: 1
+EVASION: 0
+HEAT-CAP: 0
+HP: 0
+HULL: 1
+MOUNT1: Flex
+MOUNT2: Flex
+MOUNT3: N/a
+Name: 'IPS-N Lancaster'
+SIZE: 1.0
+SP: 8
+SPEED: 0
+SYS: 0
+TARGETTING: 0
+Ultimate-Active: 'Supercharger (1 core power, quick action): You fire your drone at
+  a friendly mech in range, where it clamps onto the target. For the rest of this
+  combat, you take 1 heat at the start of your turn, but the targeted mech gains +1
+  Accuracy on all attacks and checks, and is immune to the impaired, jammed, crippled,
+  and immobilized conditions. This effect ends if you or the targeted mech is stunned
+  or shut down. While this system is active, you cannot fire your drone as a weapon
+  (using the passive of this system).'
+Ultimate-Name: 'Latch Drone'
+Ultimate-Passive: 'You can send out this companion drone as a weapon system with the
+  following profile. It counts as its own mount and doesn’t take up regular mount
+  space. Auxillary Launcher, Range 8. Make a Targeting roll vs Evasion 8 and target
+  any friendly mech in range(still take cover and LoS into account). On hit, the target
+  may spend up to 1 repair to heal.'
+id: IPS_N_Lancaster

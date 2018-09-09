@@ -1,0 +1,9 @@
+Description: 'This mine can be planted in a free adjacent space as an action, and
+  detonated remotely as an action. It can also be set to detonate once any target
+  moves adjacent to it. Once detonated, any target caught in a burst 1 zone around
+  the mine is stunned and immune to all damage until the end of their next turn. Mechs
+  cannot be affected.'
+License: HA
+Name: 'Hold/Lock Nonlethal'
+Rarity: 1
+id: Hold_Lock_Nonlethal

@@ -1,9 +1,0 @@
-Cost: 1
-Effect: 'Once planted in a free adjacent space, this size 1 generator creates a burst
-  1 zone around it until the end of the current challenge. Inside the zone, all allied
-  targets count as having 4 armor, even if their armor is less. The generator has
-  10 HP but benefits from its own armor bonus, and deactivates once used up.'
-Keywords: 'Limited (1), Shield, Deployable, Quick Action'
-License: 'IPS-N Drake II'
-Name: 'Aegis Shield Generator'
-Unique: true

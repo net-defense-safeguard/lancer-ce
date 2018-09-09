@@ -1,0 +1,8 @@
+Cost: 1
+Effect: 'You can now boost and take reactions while grappling. Targets grappled by
+  you gain +1 difficulty to attempt to escape your grapples.'
+Keywords: "-"
+License: 'IPS-N Blackbeard III'
+Name: 'Lock/Kill Subsystem'
+Unique: true
+id: Lock_Kill_Subsystem

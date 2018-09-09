@@ -1,0 +1,10 @@
+Damage: 1d6+1
+License: 'IPS-N Raleigh I'
+Name: 'Hand Cannon'
+Notes: "-"
+Range: '5, Threat 3'
+SP: 0
+Size: Auxiliary
+Tags: Loading
+Type: CQB
+id: Hand_Cannon

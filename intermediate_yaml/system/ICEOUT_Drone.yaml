@@ -1,0 +1,14 @@
+Cost: 2
+Effect: 'You fire an ICEOUT drone at a point within range 10 of you, where it hovers
+  in place. The drone is invisible. Once fired, the drone creates a burst 2 zone around
+  itself. Any target at least partially covered by the zone, allied or enemy, is immune
+  to all tech actions (even beneficial ones), and cannot make or benefit from any
+  tech actions. Any negative statuses caused by tech actions immediately end. Targets
+  inside the zone don’t show up on any electronic sensors and are only visible to
+  the naked eye or optics. The drone deactivates at the end of the current challenge
+  or when destroyed, and cannot be re-used. You can move it again as a quick action.'
+Keywords: 'Limited (2), Drone, Quick Action'
+License: 'SSC Black Witch II'
+Name: 'ICEOUT Drone'
+Unique: "-"
+id: ICEOUT_Drone

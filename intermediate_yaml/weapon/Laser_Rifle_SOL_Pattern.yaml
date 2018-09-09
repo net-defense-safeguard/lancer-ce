@@ -1,0 +1,10 @@
+Damage: '1d6 Energy + Burn 1'
+License: 'HA Sherman I'
+Name: 'Laser Rifle (SOL-Pattern)'
+Notes: "-"
+Range: 10
+SP: 0
+Size: Main
+Tags: '1 heat (self), Burn 1'
+Type: Rifle
+id: Laser_Rifle_SOL_Pattern

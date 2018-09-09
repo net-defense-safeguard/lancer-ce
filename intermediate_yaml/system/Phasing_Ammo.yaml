@@ -1,0 +1,9 @@
+Cost: 3
+Effect: 'Choose 1 ranged weapon. This weapon completely ignores cover and line of
+  sight of all kinds. It can fire through solid walls or obstacles at targets, as
+  long as their location is known and they are in range.'
+Keywords: Ammo
+License: 'HA Napoleon I'
+Name: 'Phasing Ammo'
+Unique: "-"
+id: Phasing_Ammo

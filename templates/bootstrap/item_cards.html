@@ -1,0 +1,5 @@
+{% for item in items %}
+    {% with item=item, id_field=id_field, name_field=name_field, title_fields=title_fields, brief_fields=brief_fields, detail_fields=detail_fields %}
+        {% include 'bootstrap/item_card.html' %}
+    {% endwith %}
+{% endfor %}

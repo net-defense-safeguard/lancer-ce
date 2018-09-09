@@ -1,0 +1,35 @@
+AGI: 1
+ARMOR: 0
+EDEF: 2
+ENG: 0
+EVASION: 0
+HEAT-CAP: 0
+HP: 0
+HULL: -2
+MOUNT1: Flex
+MOUNT2: N/a
+MOUNT3: N/a
+Name: 'HORUS Goblin'
+SIZE: 0.5
+SP: 8
+SPEED: 0
+SYS: 2
+TARGETTING: 0
+Ultimate-Active: 'Your mech targets another adjacent NPC mech the same size or larger
+  that is shut down or destroyed. The targeted mech cannot have the Ultra or Elite
+  tags. Your mech clamps on to that mech and retracts its core systems, becoming like
+  a vestigial blister on that mech. The mech immediately heals to full HP, clears
+  1 point of stress and structure damage, and clears all heat, though it retains any
+  other damage it has already taken. Your mech’s systems completely consume the other
+  mech’s core systems for a time, granting you total control of your target, even
+  if the other mech’s pilot is still alive. While you control your target, you take
+  action as that NPC would, counting as a friendly NPC that has already acted in the
+  turn you take control. While controlling your target, your GOBLIN can be targeted
+  and damaged separate from the mech it’s controlling. It beneﬁts from light cover
+  while attached. If you take 1 point of structure damage, your mech detaches and
+  control is immediately lost. Otherwise you can control the target up to a maximum
+  of a ten minutes, when your target is destroyed, or when you deactivate this system.
+  You can even control your target if the other pilot is missing or dead.'
+Ultimate-Name: 'Devouring Code'
+Ultimate-Passive: 'Gain +1 Accuracy on all Tech Attacks.'
+id: HORUS_Goblin

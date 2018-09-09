@@ -1,0 +1,10 @@
+Cost: 2
+Effect: 'On activation, your mech is stunned until the end of your next turn. All
+  affected targets (allied and enemy) that don’t have the biological tag in the affected
+  area around your mech make an engineering check with +2 difficulty. On a failure,
+  they are stunned until the end of their following turns and take 1d6 heat.'
+Keywords: 'Full Action, Limited (1), urst 3'
+License: 'HORUS Manticore III'
+Name: 'EM Pulse'
+Unique: true
+id: EM_Pulse

@@ -1,0 +1,11 @@
+Cost: 3
+Effect: 'Your mech gains the AI property and the ASURA Protocol: Protocol, Limited
+  (1). Gain an extra quick action each turn while active. This protocol lasts until
+  the end of 3 rounds, including this one. It can only be activated once per challenge.
+  This extra action must still obey normal rules about duplicating actions (you can’t
+  use it to Boost if you’ve already Boosted this turn, for example).'
+Keywords: AI
+License: 'HA Sherman III'
+Name: 'ASURA-class NHP'
+Unique: true
+id: ASURA_class_NHP

@@ -1,0 +1,10 @@
+Damage: '1d3+1 Heat'
+License: 'HORUS Manticore I'
+Name: 'Arc Projector'
+Notes: "-"
+Range: 'Cone 5'
+SP: 0
+Size: Main
+Tags: '2 heat (self)'
+Type: CQB
+id: Arc_Projector

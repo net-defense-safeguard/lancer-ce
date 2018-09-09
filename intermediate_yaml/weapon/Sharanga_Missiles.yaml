@@ -1,0 +1,11 @@
+Damage: '3 Explosive'
+License: 'SSC Monarch I'
+Name: 'Sharanga Missiles'
+Notes: 'When you fire this weapon, you can choose one or two targets in range and
+  line of sight, making attack rolls for reach.'
+Range: 15
+SP: 0
+Size: Main
+Tags: Arcing
+Type: Launcher
+id: Sharanga_Missiles

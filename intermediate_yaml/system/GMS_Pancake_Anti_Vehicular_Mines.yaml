@@ -1,0 +1,8 @@
+Cost: 1
+Effect: 'This mine detonates when any target moves adjacent to it for a burst 1 attack,
+  1d6+3 explosive damage. A target can pass an agility check to halve this damage.'
+Keywords: 'Limited (3), Mine'
+License: GMS
+Name: 'GMS “Pancake” Anti-Vehicular Mines'
+Unique: "-"
+id: GMS_Pancake_Anti_Vehicular_Mines

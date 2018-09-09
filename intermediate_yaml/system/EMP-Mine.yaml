@@ -1,9 +1,0 @@
-Cost: 1
-Effect: 'Once planted, EMP charges can be detonated remotely as an action, or activate
-  normally like a mine. All affected mechs in a burst 1 area around the charge when
-  it activates must pass a systems check with 1 difficulty or take 1d6 heat, or half
-  on successful check.'
-Keywords: 'Limited (2), Mine'
-License: 'HORUS Manticore I'
-Name: 'EMP Mine'
-Unique: "-"

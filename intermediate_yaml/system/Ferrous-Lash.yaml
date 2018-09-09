@@ -1,9 +1,0 @@
-Cost: 2
-Effect: 'A target of your choice in Range 10 must pass an agility check with 1 difficulty.
-  On a failure, it is pulled 5 in a direction of your choice. This movement must obey
-  obstructions, terrain, etc, but doesn''t provoke reactions and ignores engagement.
-  If it collides with an obstacle or another mech, it is additionally knocked prone.'
-Keywords: 'Quick Action'
-License: 'SSC Black Witch I'
-Name: 'Ferrous Lash'
-Unique: "-"

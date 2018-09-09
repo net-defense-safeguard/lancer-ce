@@ -1,0 +1,10 @@
+Damage: '1d3+1 Explosive'
+License: 'IPS-N Nelson III'
+Name: 'Power Knuckles'
+Notes: 'On a critical hit, your target must pass a hull check or be knocked prone'
+Range: 'Threat 1'
+SP: 0
+Size: Auxiliary
+Tags: "-"
+Type: Melee
+id: Power_Knuckles

@@ -1,0 +1,38 @@
+{% extends 'bootstrap/card.html' %}
+{% set prefixed_id = id_prefix ~ 'card-item-' ~ item[id_field] %}
+{% set body_prefixed_id = id_prefix ~ 'card-item-body-' ~ item[id_field] %}
+{% block card_title %}<a id="{{ prefixed_id }}" 
+                         href="#{{ body_prefixed_id }}" 
+                         data-toggle="collapse" 
+                         aria-expanded="true" 
+                         role="button"
+                         aria-controls="{{ body_prefixed_id }}">{{ item[name_field] }}</a>{% endblock card_title %}
+{% block card_header %}
+    {{ super() }}
+    {% for title_field in title_fields %}
+        <span class="badge badge-secondary">{{ item[title_field] }}</span>
+    {% endfor %}
+{% endblock card_header %}
+{% block card_body_classes %}{{ super() }} collapse show{% endblock card_body_classes %}
+{% block card_body_id %}{{ body_prefixed_id }}{% endblock card_body_id %}
+{% block card_body %}
+    {% for brief_field in brief_fields %}
+        <div><h6 class="d-inline">{{brief_field}}</h6>: <span class="badge badge-info">{{ item[brief_field] }}</span></div>
+    {% endfor %}
+    {% for detail_field in detail_fields %}
+        {% set detail_anchor_prefixed_id = id_prefix ~ 'card-detail-anchor-' ~ detail_field ~ '-item-' ~ item[id_field] %}
+        {% set detail_main_prefixed_id = id_prefix ~ 'card-detail-main-' ~ detail_field ~ '-item-' ~ item[id_field] %}
+        <div>
+        <h6><a id="{{ detail_anchor_prefixed_id }}" 
+               href="#{{ detail_main_prefixed_id }}" 
+               data-toggle="collapse" 
+               aria-expanded="true" 
+               role="button"
+               aria-controls="{{ detail_main_prefixed_id }}">{{detail_field}}</a></h6>
+        <p class="collapse show" id="{{ detail_main_prefixed_id }}">
+            {{ item[detail_field] }}
+        </p>
+        </div>
+    {% endfor %}
+{% endblock card_body %}
+{% block card_classes %}{{ super() }} {{ id_prefix }}card-item-{{ item[id_field] }}{% endblock card_classes %}

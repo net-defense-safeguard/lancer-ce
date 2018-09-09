@@ -1,0 +1,11 @@
+Damage: '1 Kinetic'
+License: 'HORUS Pegasus SHELL'
+Name: 'Ushabti Omnigun'
+Notes: 'Free action to fire 1/round. This doesn''t count as an attack, can''t miss,
+  ignores Cover, and the damage can''t be prevented. Core System of the HORUS Pegasus.'
+Range: 30
+SP: 0
+Size: "-"
+Tags: AP
+Type: "-"
+id: Ushabti_Omnigun

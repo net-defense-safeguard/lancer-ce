@@ -1,0 +1,13 @@
+Cost: 2
+Effect: 'This brutal system can be used against any adjacent target. That target must
+  pass an hull check with 1 difficulty or take 2d6 energy damage damage and become
+  immobilized and impaled. At the end of each of its turns, the target can repeat
+  this check to end the effect on itself, otherwise it takes 3 AP energy damage and
+  remains immobilized until it makes the check successfully. Only one target can be
+  immobilized by this system at once, but it can be re-used and picked up as an quick
+  action.'
+Keywords: 'Full Action'
+License: 'IPS-N Vlad III'
+Name: 'Charged Stake'
+Unique: "-"
+id: Charged_Stake

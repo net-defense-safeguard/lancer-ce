@@ -1,0 +1,10 @@
+Damage: '2d6 Energy + Burn 8'
+License: 'HA Sherman III'
+Name: 'Tachyon Lance'
+Notes: "-"
+Range: 20
+SP: 0
+Size: Superheavy
+Tags: 'Ordnance, 4 heat (self)'
+Type: Cannon
+id: Tachyon_Lance

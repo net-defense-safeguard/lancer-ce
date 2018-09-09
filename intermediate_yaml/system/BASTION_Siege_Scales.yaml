@@ -1,0 +1,10 @@
+Cost: 2
+Effect: 'When activated as a free action at the start of your tun, until the start
+  of your next turn, your mech is immobilized, but you both count as in light cover,
+  even out in the open, and provide light cover for allied mechs. You additionally
+  gain resistance to all damage from blast, line, and cone attacks.'
+Keywords: Protocol
+License: 'IPS-N Drake II'
+Name: '"BASTION" Siege Scales'
+Unique: true
+id: BASTION_Siege_Scales

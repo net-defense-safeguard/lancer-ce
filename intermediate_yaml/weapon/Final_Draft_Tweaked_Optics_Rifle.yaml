@@ -1,0 +1,10 @@
+Damage: '1d6 Kinetic, Explosive, or Energy'
+License: 'Engineer III'
+Name: 'Final Draft Tweaked Optics Rifle'
+Notes: 'This weapon always has +1 Accuracy'
+Range: 8
+SP: 0
+Size: Main
+Tags: 'Limited (2d6+1), Unreliable'
+Type: Rifle
+id: Final_Draft_Tweaked_Optics_Rifle

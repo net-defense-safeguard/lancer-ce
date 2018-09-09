@@ -1,0 +1,12 @@
+Cost: 2
+Effect: 'To activate this system, choose a clear 4x4 space adjacent to you and take
+  a quick action. At the start of your next turn, this system unfolds into a fortified
+  emplacement that grants heavy cover to anyone within the area from all directions,
+  as long as they are fully covered by the area. The bunker is open topped and can
+  be entered and exited at will. If attacked the bunker has evasion 5, 30 HP, and
+  3 armor. It cannot be moved or deactivated once deployed.'
+Keywords: 'Limited (2), Deployable, Quick Action'
+License: 'IPS-N Drake III'
+Name: 'Portable Bunker'
+Unique: "-"
+id: Portable_Bunker

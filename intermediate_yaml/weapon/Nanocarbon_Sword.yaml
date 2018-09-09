@@ -1,0 +1,10 @@
+Damage: '1d6+3 Kinetic'
+License: 'IPS-N Blackbeard II'
+Name: 'Nanocarbon Sword'
+Notes: "-"
+Range: 'Threat 2'
+SP: 0
+Size: Heavy
+Tags: 'Reliable 3'
+Type: Melee
+id: Nanocarbon_Sword

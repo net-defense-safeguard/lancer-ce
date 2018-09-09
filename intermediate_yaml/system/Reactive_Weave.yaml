@@ -1,0 +1,8 @@
+Cost: 1
+Effect: 'When you Brace, your mech can immediately move its speed as a reaction and
+  also gains invisibility until the end of its next turn.'
+Keywords: "-"
+License: 'SSC Metalmark I'
+Name: 'Reactive Weave'
+Unique: true
+id: Reactive_Weave

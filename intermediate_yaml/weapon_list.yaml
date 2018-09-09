@@ -8,7 +8,8 @@ Annihilator:
     Size: Main
     Tags: '2 heat (self), AP'
     Type: CQB
-Anti-Material-Rifle:
+    id: Annihilator
+Anti_Material_Rifle:
     Damage: '2d6+2 Kinetic'
     License: GMS
     Name: 'Anti-Material Rifle'
@@ -18,7 +19,8 @@ Anti-Material-Rifle:
     Size: Heavy
     Tags: 'Loading, Ordnance, AP'
     Type: Rifle
-Arc-Projector:
+    id: Anti_Material_Rifle
+Arc_Projector:
     Damage: '1d3+1 Heat'
     License: 'HORUS Manticore I'
     Name: 'Arc Projector'
@@ -28,7 +30,8 @@ Arc-Projector:
     Size: Main
     Tags: '2 heat (self)'
     Type: CQB
-Assault-Cannon:
+    id: Arc_Projector
+Assault_Cannon:
     Damage: '2d6+2 Kinetic'
     License: 'IPS-N Drake I'
     Name: 'Assault Cannon'
@@ -38,7 +41,8 @@ Assault-Cannon:
     Size: Heavy
     Tags: '1 heat (self), Unreliable'
     Type: Cannon
-Assault-Launcher:
+    id: Assault_Cannon
+Assault_Launcher:
     Damage: "-"
     License: 'HA Iskander II'
     Name: 'Assault Launcher'
@@ -50,7 +54,8 @@ Assault-Launcher:
     Size: Auxiliary
     Tags: Arcing
     Type: Launcher
-Assault-Rifle:
+    id: Assault_Launcher
+Assault_Rifle:
     Damage: '1d6 Kinetic'
     License: GMS
     Name: 'Assault Rifle'
@@ -60,6 +65,7 @@ Assault-Rifle:
     Size: Main
     Tags: "-"
     Type: Rifle
+    id: Assault_Rifle
 Autogun:
     Damage: '3 Kinetic'
     License: 'HORUS Pegasus I'
@@ -71,7 +77,8 @@ Autogun:
     Size: Main
     Tags: '1 SP'
     Type: Cannon
-Automatic-Shotgun:
+    id: Autogun
+Automatic_Shotgun:
     Damage: '2d6 Kinetic'
     License: 'IPS-N Tortuga I'
     Name: 'Automatic Shotgun'
@@ -81,6 +88,7 @@ Automatic-Shotgun:
     Size: Main
     Tags: Inaccurate
     Type: CQB
+    id: Automatic_Shotgun
 Autopod:
     Damage: '2 Kinetic'
     License: 'HORUS Goblin II'
@@ -93,7 +101,8 @@ Autopod:
     Size: Auxiliary
     Tags: 'Unique, Seeking'
     Type: Launcher
-Bolt-Thrower:
+    id: Autopod
+Bolt_Thrower:
     Damage: '1d6 Kinetic + 1d6 Explosive'
     License: 'IPS-N Raleigh II'
     Name: 'Bolt Thrower'
@@ -103,7 +112,8 @@ Bolt-Thrower:
     Size: Heavy
     Tags: "-"
     Type: Cannon
-Burst-Launcher:
+    id: Bolt_Thrower
+Burst_Launcher:
     Damage: '1d3 Heat'
     License: 'SSC Dusk Wing II'
     Name: 'Burst Launcher'
@@ -114,7 +124,8 @@ Burst-Launcher:
     Size: Main
     Tags: Arcing
     Type: Launcher
-Chain-Axe:
+    id: Burst_Launcher
+Chain_Axe:
     Damage: 1d6
     License: 'IPS-N Blackbeard I'
     Name: 'Chain Axe'
@@ -124,7 +135,8 @@ Chain-Axe:
     Size: Main
     Tags: 'Reliable 2'
     Type: Melee
-Charged-Blade:
+    id: Chain_Axe
+Charged_Blade:
     Damage: '1d3+3 Energy'
     License: GMS
     Name: 'Charged Blade'
@@ -134,7 +146,8 @@ Charged-Blade:
     Size: Main
     Tags: AP
     Type: Melee
-Combat-Drill:
+    id: Charged_Blade
+Combat_Drill:
     Damage: '3d6 Kinetic + 1d6 Energy'
     License: 'IPS-N Vlad III'
     Name: 'Combat Drill'
@@ -144,7 +157,8 @@ Combat-Drill:
     Size: Superheavy
     Tags: 'Unreliable, AP'
     Type: Melee
-Concussion-Missiles:
+    id: Combat_Drill
+Concussion_Missiles:
     Damage: '1d3+1 Explosive'
     License: 'IPS-N Drake II'
     Name: 'Concussion Missiles'
@@ -155,7 +169,8 @@ Concussion-Missiles:
     Size: Main
     Tags: "-"
     Type: Launcher
-Daisy-Cutter:
+    id: Concussion_Missiles
+Daisy_Cutter:
     Damage: '3d6 Kinetic'
     License: 'IPS-N Tortuga II'
     Name: 'Daisy Cutter'
@@ -167,6 +182,7 @@ Daisy-Cutter:
     Size: Heavy
     Tags: 'Limited (2)'
     Type: CQB
+    id: Daisy_Cutter
 Displacer:
     Damage: '12 Energy'
     License: 'HA Napoleon III'
@@ -177,7 +193,8 @@ Displacer:
     Size: Main
     Tags: 'Unique, Loading, AP, 10 Heat (Self)'
     Type: Rifle
-Drone-Nexus-Hunter-Killer:
+    id: Displacer
+Drone_Nexus_Hunter_Killer:
     Damage: '1d6 Kinetic'
     License: GMS
     Name: 'Drone Nexus (Hunter-Killer)'
@@ -187,7 +204,8 @@ Drone-Nexus-Hunter-Killer:
     Size: Main
     Tags: Smart
     Type: Nexus
-Drone-Nexus-Light:
+    id: Drone_Nexus_Hunter_Killer
+Drone_Nexus_Light:
     Damage: '1d3 Kinetic'
     License: GMS
     Name: 'Drone Nexus (Light)'
@@ -197,6 +215,7 @@ Drone-Nexus-Light:
     Size: Auxiliary
     Tags: Smart
     Type: Nexus
+    id: Drone_Nexus_Light
 Empty:
     Damage: "-"
     License: "-"
@@ -207,7 +226,8 @@ Empty:
     Size: "-"
     Tags: "-"
     Type: "-"
-Final-Draft-Remove-Reactor-Shielding-CQB:
+    id: Empty
+Final_Draft_Remove_Reactor_Shielding_CQB:
     Damage: '1d6 Kinetic, Explosive, or Energy'
     License: 'Engineer III'
     Name: 'Final Draft Remove Reactor Shielding CQB'
@@ -217,7 +237,8 @@ Final-Draft-Remove-Reactor-Shielding-CQB:
     Size: Main
     Tags: 'Limited (2d6+1), Unreliable'
     Type: CQB
-Final-Draft-Remove-Reactor-Shielding-Cannon:
+    id: Final_Draft_Remove_Reactor_Shielding_CQB
+Final_Draft_Remove_Reactor_Shielding_Cannon:
     Damage: '1d6 Kinetic, Explosive, or Energy'
     License: 'Engineer III'
     Name: 'Final Draft Remove Reactor Shielding Cannon'
@@ -227,7 +248,8 @@ Final-Draft-Remove-Reactor-Shielding-Cannon:
     Size: Main
     Tags: 'Limited (2d6+1), Unreliable'
     Type: Cannon
-Final-Draft-Remove-Reactor-Shielding-Launcher:
+    id: Final_Draft_Remove_Reactor_Shielding_Cannon
+Final_Draft_Remove_Reactor_Shielding_Launcher:
     Damage: '1d6 Kinetic, Explosive, or Energy'
     License: 'Engineer III'
     Name: 'Final Draft Remove Reactor Shielding Launcher'
@@ -237,7 +259,8 @@ Final-Draft-Remove-Reactor-Shielding-Launcher:
     Size: Main
     Tags: 'Limited (2d6+1), Unreliable'
     Type: Launcher
-Final-Draft-Remove-Reactor-Shielding-Melee:
+    id: Final_Draft_Remove_Reactor_Shielding_Launcher
+Final_Draft_Remove_Reactor_Shielding_Melee:
     Damage: '1d6 Kinetic, Explosive, or Energy'
     License: 'Engineer III'
     Name: 'Final Draft Remove Reactor Shielding Melee'
@@ -247,7 +270,8 @@ Final-Draft-Remove-Reactor-Shielding-Melee:
     Size: Main
     Tags: 'Limited (2d6+1), Unreliable'
     Type: Melee
-Final-Draft-Remove-Reactor-Shielding-Rifle:
+    id: Final_Draft_Remove_Reactor_Shielding_Melee
+Final_Draft_Remove_Reactor_Shielding_Rifle:
     Damage: '1d6 Kinetic, Explosive, or Energy'
     License: 'Engineer III'
     Name: 'Final Draft Remove Reactor Shielding Rifle'
@@ -257,7 +281,8 @@ Final-Draft-Remove-Reactor-Shielding-Rifle:
     Size: Main
     Tags: 'Limited (2d6+1), Unreliable'
     Type: Rifle
-Final-Draft-Tweaked-Computer-CQB:
+    id: Final_Draft_Remove_Reactor_Shielding_Rifle
+Final_Draft_Tweaked_Computer_CQB:
     Damage: '1d6 Kinetic, Explosive, or Energy'
     License: 'Engineer III'
     Name: 'Final Draft Tweaked Computer CQB'
@@ -267,7 +292,8 @@ Final-Draft-Tweaked-Computer-CQB:
     Size: Main
     Tags: 'Limited (2d6+1), Unreliable, Smart'
     Type: CQB
-Final-Draft-Tweaked-Computer-Cannon:
+    id: Final_Draft_Tweaked_Computer_CQB
+Final_Draft_Tweaked_Computer_Cannon:
     Damage: '1d6 Kinetic, Explosive, or Energy'
     License: 'Engineer III'
     Name: 'Final Draft Tweaked Computer Cannon'
@@ -277,7 +303,8 @@ Final-Draft-Tweaked-Computer-Cannon:
     Size: Main
     Tags: 'Limited (2d6+1), Unreliable, Smart'
     Type: Cannon
-Final-Draft-Tweaked-Computer-Launcher:
+    id: Final_Draft_Tweaked_Computer_Cannon
+Final_Draft_Tweaked_Computer_Launcher:
     Damage: '1d6 Kinetic, Explosive, or Energy'
     License: 'Engineer III'
     Name: 'Final Draft Tweaked Computer Launcher'
@@ -287,7 +314,8 @@ Final-Draft-Tweaked-Computer-Launcher:
     Size: Main
     Tags: 'Limited (2d6+1), Unreliable, Smart'
     Type: Launcher
-Final-Draft-Tweaked-Computer-Melee:
+    id: Final_Draft_Tweaked_Computer_Launcher
+Final_Draft_Tweaked_Computer_Melee:
     Damage: '1d6 Kinetic, Explosive, or Energy'
     License: 'Engineer III'
     Name: 'Final Draft Tweaked Computer Melee'
@@ -297,7 +325,8 @@ Final-Draft-Tweaked-Computer-Melee:
     Size: Main
     Tags: 'Limited (2d6+1), Unreliable, Smart'
     Type: Melee
-Final-Draft-Tweaked-Computer-Rifle:
+    id: Final_Draft_Tweaked_Computer_Melee
+Final_Draft_Tweaked_Computer_Rifle:
     Damage: '1d6 Kinetic, Explosive, or Energy'
     License: 'Engineer III'
     Name: 'Final Draft Tweaked Computer Rifle'
@@ -307,7 +336,8 @@ Final-Draft-Tweaked-Computer-Rifle:
     Size: Main
     Tags: 'Limited (2d6+1), Unreliable, Smart'
     Type: Rifle
-Final-Draft-Tweaked-Optics-CQB:
+    id: Final_Draft_Tweaked_Computer_Rifle
+Final_Draft_Tweaked_Optics_CQB:
     Damage: '1d6 Kinetic, Explosive, or Energy'
     License: 'Engineer III'
     Name: 'Final Draft Tweaked Optics CQB'
@@ -317,7 +347,8 @@ Final-Draft-Tweaked-Optics-CQB:
     Size: Main
     Tags: 'Limited (2d6+1), Unreliable'
     Type: CQB
-Final-Draft-Tweaked-Optics-Cannon:
+    id: Final_Draft_Tweaked_Optics_CQB
+Final_Draft_Tweaked_Optics_Cannon:
     Damage: '1d6 Kinetic, Explosive, or Energy'
     License: 'Engineer III'
     Name: 'Final Draft Tweaked Optics Cannon'
@@ -327,7 +358,8 @@ Final-Draft-Tweaked-Optics-Cannon:
     Size: Main
     Tags: 'Limited (2d6+1), Unreliable'
     Type: Cannon
-Final-Draft-Tweaked-Optics-Melee:
+    id: Final_Draft_Tweaked_Optics_Cannon
+Final_Draft_Tweaked_Optics_Melee:
     Damage: '1d6 Kinetic, Explosive, or Energy'
     License: 'Engineer III'
     Name: 'Final Draft Tweaked Optics Melee'
@@ -337,7 +369,8 @@ Final-Draft-Tweaked-Optics-Melee:
     Size: Main
     Tags: 'Limited (2d6+1), Unreliable'
     Type: Launcher
-Final-Draft-Tweaked-Optics-Rifle:
+    id: Final_Draft_Tweaked_Optics_Melee
+Final_Draft_Tweaked_Optics_Rifle:
     Damage: '1d6 Kinetic, Explosive, or Energy'
     License: 'Engineer III'
     Name: 'Final Draft Tweaked Optics Rifle'
@@ -347,7 +380,8 @@ Final-Draft-Tweaked-Optics-Rifle:
     Size: Main
     Tags: 'Limited (2d6+1), Unreliable'
     Type: Rifle
-Flak-Cannon:
+    id: Final_Draft_Tweaked_Optics_Rifle
+Flak_Cannon:
     Damage: '1d3 Kinetic'
     License: 'HA Barbarossa II'
     Name: 'Flak Cannon'
@@ -358,6 +392,7 @@ Flak-Cannon:
     Size: Main
     Tags: 'Reliable 1'
     Type: Cannon
+    id: Flak_Cannon
 Flamethrower:
     Damage: '1 Heat + Burn 4'
     License: 'HA Genghis I'
@@ -368,7 +403,8 @@ Flamethrower:
     Size: Heavy
     Tags: 'Burn 4'
     Type: CQB
-Flechette-Launcher:
+    id: Flamethrower
+Flechette_Launcher:
     Damage: '1 Kinetic'
     License: 'IPS-N Blackbeard II'
     Name: 'Flechette Launcher'
@@ -379,7 +415,8 @@ Flechette-Launcher:
     Size: Auxiliary
     Tags: "-"
     Type: CQB
-Fuel-Rod-Gun:
+    id: Flechette_Launcher
+Fuel_Rod_Gun:
     Damage: '1d3+1 Energy'
     License: 'Nuclear Cavalier III'
     Name: 'Fuel Rod Gun'
@@ -389,7 +426,8 @@ Fuel-Rod-Gun:
     Size: Auxiliary
     Tags: 'Unique, Limited (6)'
     Type: CQB
-GHAST-Drone-Nexus:
+    id: Fuel_Rod_Gun
+GHAST_Drone_Nexus:
     Damage: '1d6+3 Explosive'
     License: 'HORUS Hydra II'
     Name: 'GHAST Drone Nexus'
@@ -399,7 +437,8 @@ GHAST-Drone-Nexus:
     Size: Heavy
     Tags: Smart
     Type: Nexus
-Gandiva-Missiles:
+    id: GHAST_Drone_Nexus
+Gandiva_Missiles:
     Damage: '1d6+1 Energy'
     License: 'SSC Monarch II'
     Name: 'Gandiva Missiles'
@@ -409,7 +448,8 @@ Gandiva-Missiles:
     Size: Heavy
     Tags: 'Smart, Seeking, Accurate, 1 SP'
     Type: Launcher
-Ghoul-Nexus:
+    id: Gandiva_Missiles
+Ghoul_Nexus:
     Damage: '1d3+1 Kinetic, Explosive, or Energy'
     License: 'HORUS Hydra I'
     Name: 'Ghoul Nexus'
@@ -419,7 +459,8 @@ Ghoul-Nexus:
     Size: Main
     Tags: Smart
     Type: Nexus
-Gravity-Gun:
+    id: Ghoul_Nexus
+Gravity_Gun:
     Damage: 'See Notes'
     License: 'HA Iskander II'
     Name: 'Gravity Gun'
@@ -430,7 +471,8 @@ Gravity-Gun:
     Size: Heavy
     Tags: "-"
     Type: Rifle
-Hand-Cannon:
+    id: Gravity_Gun
+Hand_Cannon:
     Damage: 1d6+1
     License: 'IPS-N Raleigh I'
     Name: 'Hand Cannon'
@@ -440,7 +482,8 @@ Hand-Cannon:
     Size: Auxiliary
     Tags: Loading
     Type: CQB
-Heavy-Charged-Blade:
+    id: Hand_Cannon
+Heavy_Charged_Blade:
     Damage: '1d6+3 Energy'
     License: GMS
     Name: 'Heavy Charged Blade'
@@ -450,7 +493,8 @@ Heavy-Charged-Blade:
     Size: Heavy
     Tags: AP
     Type: Melee
-Heavy-Laser:
+    id: Heavy_Charged_Blade
+Heavy_Laser:
     Damage: '2d6 Energy + Burn 3'
     License: 'HA Sherman II'
     Name: 'Heavy Laser'
@@ -460,7 +504,8 @@ Heavy-Laser:
     Size: Heavy
     Tags: '3 heat (self), Burn 3'
     Type: Cannon
-Heavy-Machine-Gun:
+    id: Heavy_Laser
+Heavy_Machine_Gun:
     Damage: '2d6+1 Kinetic'
     License: GMS
     Name: 'Heavy Machine Gun'
@@ -470,7 +515,8 @@ Heavy-Machine-Gun:
     Size: Heavy
     Tags: Inaccurate
     Type: Cannon
-Heavy-Melee-Weapon:
+    id: Heavy_Machine_Gun
+Heavy_Melee_Weapon:
     Damage: '2d6+2 Kinetic'
     License: GMS
     Name: 'Heavy Melee Weapon'
@@ -480,6 +526,7 @@ Heavy-Melee-Weapon:
     Size: Heavy
     Tags: "-"
     Type: Melee
+    id: Heavy_Melee_Weapon
 Howitzer:
     Damage: '2d6 Explosive'
     License: GMS
@@ -490,7 +537,8 @@ Howitzer:
     Size: Heavy
     Tags: 'Arcing, Loading, Ordnance, Inaccurate'
     Type: Cannon
-IPS-N-Argonaut-Shield:
+    id: Howitzer
+IPS_N_Argonaut_Shield:
     Damage: '1d6 Kinetic'
     License: 'IPS-N Drake SHELL'
     Name: 'IPS-N Argonaut Shield'
@@ -500,6 +548,7 @@ IPS-N-Argonaut-Shield:
     Size: Main
     Tags: "-"
     Type: Melee
+    id: IPS_N_Argonaut_Shield
 Impaler:
     Damage: '1d6 Kinetic'
     License: 'IPS-N Vlad I'
@@ -511,7 +560,8 @@ Impaler:
     Size: Main
     Tags: 'AP, 1 heat (self)'
     Type: Launcher
-Kinetic-Hammer:
+    id: Impaler
+Kinetic_Hammer:
     Damage: '2d6+1 Kinetic'
     License: 'IPS-N Raleigh III'
     Name: 'Kinetic Hammer'
@@ -521,7 +571,8 @@ Kinetic-Hammer:
     Size: Heavy
     Tags: 'Reliable 3'
     Type: Melee
-Kodandam-Missiles:
+    id: Kinetic_Hammer
+Kodandam_Missiles:
     Damage: '1d6 Explosive'
     License: 'SSC Death''s Head II'
     Name: 'Kodandam Missiles'
@@ -531,7 +582,8 @@ Kodandam-Missiles:
     Size: Auxiliary
     Tags: 'Limited (3)'
     Type: Launcher
-Laser-Rifle-SOL-Pattern:
+    id: Kodandam_Missiles
+Laser_Rifle_SOL_Pattern:
     Damage: '1d6 Energy + Burn 1'
     License: 'HA Sherman I'
     Name: 'Laser Rifle (SOL-Pattern)'
@@ -541,7 +593,8 @@ Laser-Rifle-SOL-Pattern:
     Size: Main
     Tags: '1 heat (self), Burn 1'
     Type: Rifle
-Latch-Drone:
+    id: Laser_Rifle_SOL_Pattern
+Latch_Drone:
     Damage: "-"
     License: 'IPS-N Lancaster II'
     Name: 'Latch Drone'
@@ -553,7 +606,8 @@ Latch-Drone:
     Size: Auxiliary
     Tags: "-"
     Type: Launcher
-Leviathan-Heavy-Assault-Cannon:
+    id: Latch_Drone
+Leviathan_Heavy_Assault_Cannon:
     Damage: '1d6 Kinetic'
     License: 'IPS-N Drake III'
     Name: 'Leviathan Heavy Assault Cannon'
@@ -567,7 +621,8 @@ Leviathan-Heavy-Assault-Cannon:
     Size: Superheavy
     Tags: '2 heat (self)'
     Type: Cannon
-M-35-MJOLNIR-cannon:
+    id: Leviathan_Heavy_Assault_Cannon
+M_35_MJOLNIR_cannon:
     Damage: '3 Kinetic'
     License: 'IPS-N Raleigh SHELL'
     Name: 'M-35 MJOLNIR cannon'
@@ -578,7 +633,8 @@ M-35-MJOLNIR-cannon:
     Size: Auxiliary
     Tags: "-"
     Type: CQB
-Mag-Cannon:
+    id: M_35_MJOLNIR_cannon
+Mag_Cannon:
     Damage: '1d3+1 Heat'
     License: 'SSC Black Witch I'
     Name: 'Mag Cannon'
@@ -588,6 +644,7 @@ Mag-Cannon:
     Size: Main
     Tags: "-"
     Type: Cannon
+    id: Mag_Cannon
 Markerlight:
     Damage: "-"
     License: 'SSC Swallowtail II'
@@ -599,7 +656,8 @@ Markerlight:
     Size: Main
     Tags: "-"
     Type: Rifle
-Mimic-Gun:
+    id: Markerlight
+Mimic_Gun:
     Damage: ???
     License: 'HORUS Pegasus III'
     Name: 'Mimic Gun'
@@ -611,7 +669,8 @@ Mimic-Gun:
     Size: Heavy
     Tags: "-"
     Type: ???
-Missile-Rack:
+    id: Mimic_Gun
+Missile_Rack:
     Damage: '1d3+1 Explosive'
     License: GMS
     Name: 'Missile Rack'
@@ -621,6 +680,7 @@ Missile-Rack:
     Size: Auxiliary
     Tags: Loading
     Type: Launcher
+    id: Missile_Rack
 Mortar:
     Damage: '1d6 Explosive'
     License: GMS
@@ -631,6 +691,7 @@ Mortar:
     Size: Main
     Tags: 'Arcing, Inaccurate'
     Type: Launcher
+    id: Mortar
 Nailgun:
     Damage: '1d6 Kinetic'
     License: 'IPS-N Vlad II'
@@ -642,7 +703,8 @@ Nailgun:
     Size: Main
     Tags: 'AP, 1 heat (self)'
     Type: CQB
-Nanobot-Whip:
+    id: Nailgun
+Nanobot_Whip:
     Damage: '2d6 Kinetic'
     License: 'HORUS Balor III'
     Name: 'Nanobot Whip'
@@ -654,7 +716,8 @@ Nanobot-Whip:
     Size: Heavy
     Tags: '2 SP'
     Type: Melee
-Nanocarbon-Sword:
+    id: Nanobot_Whip
+Nanocarbon_Sword:
     Damage: '1d6+3 Kinetic'
     License: 'IPS-N Blackbeard II'
     Name: 'Nanocarbon Sword'
@@ -664,7 +727,8 @@ Nanocarbon-Sword:
     Size: Heavy
     Tags: 'Reliable 3'
     Type: Melee
-ORACLE-Light-Machine-Gun:
+    id: Nanocarbon_Sword
+ORACLE_Light_Machine_Gun:
     Damage: '1d3 Kinetic'
     License: 'SSC Swallowtail I'
     Name: 'ORACLE Light Machine Gun'
@@ -674,7 +738,8 @@ ORACLE-Light-Machine-Gun:
     Size: Auxiliary
     Tags: 'Arcing, Accurate'
     Type: Rifle
-Pinaka-Missiles:
+    id: ORACLE_Light_Machine_Gun
+Pinaka_Missiles:
     Damage: '2d6+4 Explosive'
     License: 'SSC Monarch III'
     Name: 'Pinaka Missiles'
@@ -685,6 +750,7 @@ Pinaka-Missiles:
     Size: Superheavy
     Tags: 'Arcing, 2 heat (self)'
     Type: Launcher
+    id: Pinaka_Missiles
 Pistol:
     Damage: '1d3 Kinetic'
     License: GMS
@@ -695,7 +761,8 @@ Pistol:
     Size: Auxiliary
     Tags: "-"
     Type: CQB
-Plasma-Cutter:
+    id: Pistol
+Plasma_Cutter:
     Damage: '1 Energy +1 Heat + Burn 1'
     License: 'IPS-N Lancaster III'
     Name: 'Plasma Cutter'
@@ -705,7 +772,8 @@ Plasma-Cutter:
     Size: Auxiliary
     Tags: '1 heat (self)'
     Type: Melee
-Plasma-Lash:
+    id: Plasma_Cutter
+Plasma_Lash:
     Damage: ' 1 Energy Damage+ Burn 3'
     License: 'HA Tokugawa II'
     Name: 'Plasma Lash'
@@ -715,7 +783,8 @@ Plasma-Lash:
     Size: Main
     Tags: 'Burn 3'
     Type: Melee
-Plasma-Thrower:
+    id: Plasma_Lash
+Plasma_Thrower:
     Damage: 'Burn 5 + 1d6 Heat'
     License: 'HA Genghis III'
     Name: 'Plasma Thrower'
@@ -725,7 +794,8 @@ Plasma-Thrower:
     Size: Superheavy
     Tags: '4 heat (Self), Burn 5'
     Type: CQB
-Pneumatic-Hammer:
+    id: Plasma_Thrower
+Pneumatic_Hammer:
     Damage: '1d3+4 Kinetic'
     License: 'IPS-N Tortuga III'
     Name: 'Pneumatic Hammer'
@@ -736,7 +806,8 @@ Pneumatic-Hammer:
     Size: Main
     Tags: Loading
     Type: Melee
-Power-Knuckles:
+    id: Pneumatic_Hammer
+Power_Knuckles:
     Damage: '1d3+1 Explosive'
     License: 'IPS-N Nelson III'
     Name: 'Power Knuckles'
@@ -746,7 +817,8 @@ Power-Knuckles:
     Size: Auxiliary
     Tags: "-"
     Type: Melee
-Prototype-CQB:
+    id: Power_Knuckles
+Prototype_CQB:
     Damage: '1d6 Kinetic, Explosive, or Energy'
     License: 'Engineer I'
     Name: 'Prototype CQB'
@@ -756,7 +828,8 @@ Prototype-CQB:
     Size: Main
     Tags: 'Limited (1d6+2), Unreliable'
     Type: CQB
-Prototype-Cannon:
+    id: Prototype_CQB
+Prototype_Cannon:
     Damage: '1d6 Kinetic, Explosive, or Energy'
     License: 'Engineer I'
     Name: 'Prototype Cannon'
@@ -766,7 +839,8 @@ Prototype-Cannon:
     Size: Main
     Tags: 'Limited (1d6+2), Unreliable'
     Type: Cannon
-Prototype-Launcher:
+    id: Prototype_Cannon
+Prototype_Launcher:
     Damage: '1d6 Kinetic, Explosive, or Energy'
     License: 'Engineer I'
     Name: 'Prototype Launcher'
@@ -776,7 +850,8 @@ Prototype-Launcher:
     Size: Main
     Tags: 'Limited (1d6+2), Unreliable'
     Type: Launcher
-Prototype-Melee:
+    id: Prototype_Launcher
+Prototype_Melee:
     Damage: '1d6 Kinetic, Explosive, or Energy'
     License: 'Engineer I'
     Name: 'Prototype Melee'
@@ -786,7 +861,8 @@ Prototype-Melee:
     Size: Main
     Tags: 'Limited (1d6+2), Unreliable'
     Type: Melee
-Prototype-Remove-Reactor-Shielding-CQB:
+    id: Prototype_Melee
+Prototype_Remove_Reactor_Shielding_CQB:
     Damage: '1d6 Kinetic, Explosive, or Energy'
     License: 'Engineer II'
     Name: 'Prototype Remove Reactor Shielding CQB'
@@ -796,7 +872,8 @@ Prototype-Remove-Reactor-Shielding-CQB:
     Size: Main
     Tags: 'Limited (1d6+2), Unreliable'
     Type: CQB
-Prototype-Remove-Reactor-Shielding-Cannon:
+    id: Prototype_Remove_Reactor_Shielding_CQB
+Prototype_Remove_Reactor_Shielding_Cannon:
     Damage: '1d6 Kinetic, Explosive, or Energy'
     License: 'Engineer II'
     Name: 'Prototype Remove Reactor Shielding Cannon'
@@ -806,7 +883,8 @@ Prototype-Remove-Reactor-Shielding-Cannon:
     Size: Main
     Tags: 'Limited (1d6+2), Unreliable'
     Type: Cannon
-Prototype-Remove-Reactor-Shielding-Launcher:
+    id: Prototype_Remove_Reactor_Shielding_Cannon
+Prototype_Remove_Reactor_Shielding_Launcher:
     Damage: '1d6 Kinetic, Explosive, or Energy'
     License: 'Engineer II'
     Name: 'Prototype Remove Reactor Shielding Launcher'
@@ -816,7 +894,8 @@ Prototype-Remove-Reactor-Shielding-Launcher:
     Size: Main
     Tags: 'Limited (1d6+2), Unreliable'
     Type: Launcher
-Prototype-Remove-Reactor-Shielding-Melee:
+    id: Prototype_Remove_Reactor_Shielding_Launcher
+Prototype_Remove_Reactor_Shielding_Melee:
     Damage: '1d6 Kinetic, Explosive, or Energy'
     License: 'Engineer II'
     Name: 'Prototype Remove Reactor Shielding Melee'
@@ -826,7 +905,8 @@ Prototype-Remove-Reactor-Shielding-Melee:
     Size: Main
     Tags: 'Limited (1d6+2), Unreliable'
     Type: Melee
-Prototype-Remove-Reactor-Shielding-Rifle:
+    id: Prototype_Remove_Reactor_Shielding_Melee
+Prototype_Remove_Reactor_Shielding_Rifle:
     Damage: '1d6 Kinetic, Explosive, or Energy'
     License: 'Engineer II'
     Name: 'Prototype Remove Reactor Shielding Rifle'
@@ -836,7 +916,8 @@ Prototype-Remove-Reactor-Shielding-Rifle:
     Size: Main
     Tags: 'Limited (1d6+2), Unreliable'
     Type: Rifle
-Prototype-Rifle:
+    id: Prototype_Remove_Reactor_Shielding_Rifle
+Prototype_Rifle:
     Damage: '1d6 Kinetic, Explosive, or Energy'
     License: 'Engineer I'
     Name: 'Prototype Rifle'
@@ -846,7 +927,8 @@ Prototype-Rifle:
     Size: Main
     Tags: 'Limited (1d6+2), Unreliable'
     Type: Rifle
-Prototype-Tweaked-Computer-CQB:
+    id: Prototype_Rifle
+Prototype_Tweaked_Computer_CQB:
     Damage: '1d6 Kinetic, Explosive, or Energy'
     License: 'Engineer II'
     Name: 'Prototype Tweaked Computer CQB'
@@ -856,7 +938,8 @@ Prototype-Tweaked-Computer-CQB:
     Size: Main
     Tags: 'Limited (1d6+2), Unreliable, Smart'
     Type: CQB
-Prototype-Tweaked-Computer-Cannon:
+    id: Prototype_Tweaked_Computer_CQB
+Prototype_Tweaked_Computer_Cannon:
     Damage: '1d6 Kinetic, Explosive, or Energy'
     License: 'Engineer II'
     Name: 'Prototype Tweaked Computer Cannon'
@@ -866,7 +949,8 @@ Prototype-Tweaked-Computer-Cannon:
     Size: Main
     Tags: 'Limited (1d6+2), Unreliable, Smart'
     Type: Cannon
-Prototype-Tweaked-Computer-Launcher:
+    id: Prototype_Tweaked_Computer_Cannon
+Prototype_Tweaked_Computer_Launcher:
     Damage: '1d6 Kinetic, Explosive, or Energy'
     License: 'Engineer II'
     Name: 'Prototype Tweaked Computer Launcher'
@@ -876,7 +960,8 @@ Prototype-Tweaked-Computer-Launcher:
     Size: Main
     Tags: 'Limited (1d6+2), Unreliable, Smart'
     Type: Launcher
-Prototype-Tweaked-Computer-Melee:
+    id: Prototype_Tweaked_Computer_Launcher
+Prototype_Tweaked_Computer_Melee:
     Damage: '1d6 Kinetic, Explosive, or Energy'
     License: 'Engineer II'
     Name: 'Prototype Tweaked Computer Melee'
@@ -886,7 +971,8 @@ Prototype-Tweaked-Computer-Melee:
     Size: Main
     Tags: 'Limited (1d6+2), Unreliable, Smart'
     Type: Melee
-Prototype-Tweaked-Computer-Rifle:
+    id: Prototype_Tweaked_Computer_Melee
+Prototype_Tweaked_Computer_Rifle:
     Damage: '1d6 Kinetic, Explosive, or Energy'
     License: 'Engineer II'
     Name: 'Prototype Tweaked Computer Rifle'
@@ -896,7 +982,8 @@ Prototype-Tweaked-Computer-Rifle:
     Size: Main
     Tags: 'Limited (1d6+2), Unreliable, Smart'
     Type: Rifle
-Prototype-Tweaked-Optics-CQB:
+    id: Prototype_Tweaked_Computer_Rifle
+Prototype_Tweaked_Optics_CQB:
     Damage: '1d6 Kinetic, Explosive, or Energy'
     License: 'Engineer II'
     Name: 'Prototype Tweaked Optics CQB'
@@ -906,7 +993,8 @@ Prototype-Tweaked-Optics-CQB:
     Size: Main
     Tags: 'Limited (1d6+2), Unreliable'
     Type: CQB
-Prototype-Tweaked-Optics-Cannon:
+    id: Prototype_Tweaked_Optics_CQB
+Prototype_Tweaked_Optics_Cannon:
     Damage: '1d6 Kinetic, Explosive, or Energy'
     License: 'Engineer II'
     Name: 'Prototype Tweaked Optics Cannon'
@@ -916,7 +1004,8 @@ Prototype-Tweaked-Optics-Cannon:
     Size: Main
     Tags: 'Limited (1d6+2), Unreliable'
     Type: Cannon
-Prototype-Tweaked-Optics-Melee:
+    id: Prototype_Tweaked_Optics_Cannon
+Prototype_Tweaked_Optics_Melee:
     Damage: '1d6 Kinetic, Explosive, or Energy'
     License: 'Engineer II'
     Name: 'Prototype Tweaked Optics Melee'
@@ -926,7 +1015,8 @@ Prototype-Tweaked-Optics-Melee:
     Size: Main
     Tags: 'Limited (1d6+2), Unreliable'
     Type: Launcher
-Prototype-Tweaked-Optics-Rifle:
+    id: Prototype_Tweaked_Optics_Melee
+Prototype_Tweaked_Optics_Rifle:
     Damage: '1d6 Kinetic, Explosive, or Energy'
     License: 'Engineer II'
     Name: 'Prototype Tweaked Optics Rifle'
@@ -936,7 +1026,8 @@ Prototype-Tweaked-Optics-Rifle:
     Size: Main
     Tags: 'Limited (1d6+2), Unreliable'
     Type: Rifle
-Pulse-Rifle:
+    id: Prototype_Tweaked_Optics_Rifle
+Pulse_Rifle:
     Damage: '3d6+3 Kinetic'
     License: GMS
     Name: 'Pulse Rifle'
@@ -946,6 +1037,7 @@ Pulse-Rifle:
     Size: Superheavy
     Tags: 'Reliable 5, Accurate, Loading'
     Type: Rifle
+    id: Pulse_Rifle
 RPG:
     Damage: '1d6 Explosive'
     License: GMS
@@ -956,7 +1048,8 @@ RPG:
     Size: Main
     Tags: Loading
     Type: Launcher
-Rail-Rifle:
+    id: RPG
+Rail_Rifle:
     Damage: '1d6 Kinetic'
     License: 'SSC Metalmark II'
     Name: 'Rail Rifle'
@@ -966,6 +1059,7 @@ Rail-Rifle:
     Size: Main
     Tags: "-"
     Type: Rifle
+    id: Rail_Rifle
 Railgun:
     Damage: '1d6+3 Kinetic'
     License: 'SSC Death''s Head III'
@@ -976,7 +1070,8 @@ Railgun:
     Size: Heavy
     Tags: 'AP, Ordnance'
     Type: Rifle
-Seeker-Swarm-Nexus:
+    id: Railgun
+Seeker_Swarm_Nexus:
     Damage: '1 Kinetic'
     License: 'HORUS Balor III'
     Name: 'Seeker Swarm Nexus'
@@ -986,7 +1081,8 @@ Seeker-Swarm-Nexus:
     Size: Main
     Tags: 'Smart, Seeking, Burn 2'
     Type: Nexus
-Sharanga-Missiles:
+    id: Seeker_Swarm_Nexus
+Sharanga_Missiles:
     Damage: '3 Explosive'
     License: 'SSC Monarch I'
     Name: 'Sharanga Missiles'
@@ -997,7 +1093,8 @@ Sharanga-Missiles:
     Size: Main
     Tags: Arcing
     Type: Launcher
-Shock-Knife:
+    id: Sharanga_Missiles
+Shock_Knife:
     Damage: '1 Energy'
     License: 'SSC Metalmark III'
     Name: 'Shock Knife'
@@ -1007,6 +1104,7 @@ Shock-Knife:
     Size: Auxiliary
     Tags: '1 heat (self), Burn 2'
     Type: Melee
+    id: Shock_Knife
 Shotgun:
     Damage: '1d6 Kinetic'
     License: GMS
@@ -1017,7 +1115,8 @@ Shotgun:
     Size: Main
     Tags: 'Reliable 1'
     Type: CQB
-Siege-Cannon:
+    id: Shotgun
+Siege_Cannon:
     Damage: '3d6 Explosive'
     License: 'HA Barbarossa III'
     Name: 'Siege Cannon'
@@ -1027,7 +1126,8 @@ Siege-Cannon:
     Size: Superheavy
     Tags: '4 heat (self), Arcing, Ordnance, Loading'
     Type: Cannon
-Siege-Ram:
+    id: Siege_Cannon
+Siege_Ram:
     Damage: "-"
     License: 'IPS-N Tortuga I'
     Name: 'Siege Ram'
@@ -1038,7 +1138,8 @@ Siege-Ram:
     Size: Main
     Tags: Unique
     Type: Melee
-Smart-Gun:
+    id: Siege_Ram
+Smart_Gun:
     Damage: '4 Kinetic'
     License: 'HORUS Pegasus II'
     Name: 'Smart Gun'
@@ -1048,7 +1149,8 @@ Smart-Gun:
     Size: Main
     Tags: '2 SP, Smart, Seeking, Accurate'
     Type: Rifle
-Sticky-Bomb-Launcher:
+    id: Smart_Gun
+Sticky_Bomb_Launcher:
     Damage: "-"
     License: 'HA Iskander III'
     Name: 'Sticky Bomb Launcher'
@@ -1066,7 +1168,8 @@ Sticky-Bomb-Launcher:
     Size: Main
     Tags: Arcing
     Type: Launcher
-Stub-Cannon:
+    id: Sticky_Bomb_Launcher
+Stub_Cannon:
     Damage: '3 Kinetic'
     License: 'HA Iskander I'
     Name: 'Stub Cannon'
@@ -1077,7 +1180,8 @@ Stub-Cannon:
     Size: Auxiliary
     Tags: 'Limited (6)'
     Type: Cannon
-Tachyon-Lance:
+    id: Stub_Cannon
+Tachyon_Lance:
     Damage: '2d6 Energy + Burn 8'
     License: 'HA Sherman III'
     Name: 'Tachyon Lance'
@@ -1087,7 +1191,8 @@ Tachyon-Lance:
     Size: Superheavy
     Tags: 'Ordnance, 4 heat (self)'
     Type: Cannon
-Tactical-Knife:
+    id: Tachyon_Lance
+Tactical_Knife:
     Damage: '1d3+1 Kinetic'
     License: GMS
     Name: 'Tactical Knife'
@@ -1097,7 +1202,8 @@ Tactical-Knife:
     Size: Auxiliary
     Tags: "-"
     Type: Melee
-Tactical-Melee:
+    id: Tactical_Knife
+Tactical_Melee:
     Damage: '1d6+2 Kinetic'
     License: GMS
     Name: 'Tactical Melee'
@@ -1107,7 +1213,8 @@ Tactical-Melee:
     Size: Main
     Tags: "-"
     Type: Melee
-Thermal-Lance:
+    id: Tactical_Melee
+Thermal_Lance:
     Damage: '2d6 Energy'
     License: GMS
     Name: 'Thermal Lance'
@@ -1117,7 +1224,8 @@ Thermal-Lance:
     Size: Heavy
     Tags: '2 heat (self)'
     Type: Cannon
-Thermal-Pistol:
+    id: Thermal_Lance
+Thermal_Pistol:
     Damage: '2 Energy'
     License: GMS
     Name: 'Thermal Pistol'
@@ -1127,7 +1235,8 @@ Thermal-Pistol:
     Size: Auxiliary
     Tags: "-"
     Type: CQB
-Thermal-Rifle:
+    id: Thermal_Pistol
+Thermal_Rifle:
     Damage: '1d3+1 Energy'
     License: GMS
     Name: 'Thermal Rifle'
@@ -1137,6 +1246,7 @@ Thermal-Rifle:
     Size: Main
     Tags: AP
     Type: Rifle
+    id: Thermal_Rifle
 Torch:
     Damage: '1d6 Energy + Burn 2'
     License: 'HA Tokugawa III'
@@ -1147,7 +1257,8 @@ Torch:
     Size: Main
     Tags: '1 heat (self), Burn 2'
     Type: Melee
-Ushabti-Omnigun:
+    id: Torch
+Ushabti_Omnigun:
     Damage: '1 Kinetic'
     License: 'HORUS Pegasus SHELL'
     Name: 'Ushabti Omnigun'
@@ -1159,7 +1270,8 @@ Ushabti-Omnigun:
     Size: "-"
     Tags: AP
     Type: "-"
-Variable-Knife:
+    id: Ushabti_Omnigun
+Variable_Knife:
     Damage: '2 Kinetic'
     License: 'SSC Mourning Cloak I'
     Name: 'Variable Knife'
@@ -1169,7 +1281,8 @@ Variable-Knife:
     Size: Auxiliary
     Tags: 'AP, Accurate '
     Type: Melee
-Variable-Sword:
+    id: Variable_Knife
+Variable_Sword:
     Damage: '4 Kinetic'
     License: 'SSC Mourning Cloak III'
     Name: 'Variable Sword'
@@ -1179,7 +1292,8 @@ Variable-Sword:
     Size: Main
     Tags: 'AP, Accurate, Unique'
     Type: Melee
-Vijaya-Rockets:
+    id: Variable_Sword
+Vijaya_Rockets:
     Damage: '1d3 Explosive'
     License: 'SSC Mourning Cloak I'
     Name: 'Vijaya Rockets'
@@ -1189,7 +1303,8 @@ Vijaya-Rockets:
     Size: Auxiliary
     Tags: Accurate
     Type: Launcher
-Vorpal-Gun:
+    id: Vijaya_Rockets
+Vorpal_Gun:
     Damage: '2d6 Kinetic'
     License: 'HORUS Gorgon III'
     Name: 'Vorpal Gun'
@@ -1200,7 +1315,8 @@ Vorpal-Gun:
     Size: Main
     Tags: "-"
     Type: Cannon
-Vulture-Battle-Rifle:
+    id: Vorpal_Gun
+Vulture_Battle_Rifle:
     Damage: '1d6+1 Kinetic'
     License: 'SSC Dusk Wing I'
     Name: 'Vulture Battle Rifle'
@@ -1210,7 +1326,8 @@ Vulture-Battle-Rifle:
     Size: Main
     Tags: 'Unreliable, Accurate'
     Type: Rifle
-War-Pike:
+    id: Vulture_Battle_Rifle
+War_Pike:
     Damage: '1d6 Kinetic'
     License: 'IPS-N Nelson I'
     Name: 'War Pike'
@@ -1220,7 +1337,8 @@ War-Pike:
     Size: Main
     Tags: "-"
     Type: Melee
-Zone-Focus-Mk-IV-SOLIDCORE:
+    id: War_Pike
+Zone_Focus_Mk_IV_SOLIDCORE:
     Damage: '1d3+1 Energy'
     License: 'HA Sherman II'
     Name: 'Zone Focus Mk IV SOLIDCORE'
@@ -1230,3 +1348,4 @@ Zone-Focus-Mk-IV-SOLIDCORE:
     Size: Main
     Tags: Ordnance
     Type: Cannon
+    id: Zone_Focus_Mk_IV_SOLIDCORE

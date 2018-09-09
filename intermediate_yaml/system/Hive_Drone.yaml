@@ -1,0 +1,12 @@
+Cost: 2
+Effect: 'You can fire this drone to an empty space as a quick action. While it’s active,
+  it emits a burst 1 area around it that grants light cover to any allied mech at
+  least partially covered by the zone (it benefits from its own cover). In addition,
+  any hostile target that starts its turn in the area or enters it for the first time
+  on their turn takes 1 AP kinetic damage. You can move it to a different space in
+  your sensor range by repeating this action.'
+Keywords: 'Drone, Quick Action, Sensor Range'
+License: 'HORUS Balor I'
+Name: 'Hive Drone'
+Unique: "-"
+id: Hive_Drone

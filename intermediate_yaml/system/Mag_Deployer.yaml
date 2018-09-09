@@ -1,0 +1,18 @@
+Cost: 2
+Effect: 'You flash-print a heavy metal plate that takes up a 2x2 free space in range
+  5 of you. It is flat and doesn’t obstruct movement. You can set the system to one
+  of two settings when you create it: Repulse: Any hostile target that enters the
+  space must pass an hull check or be pushed in a direction of your choice 3 spaces.
+  If this causes them to collide with an obstruction (terrain, a mech, etc) it is
+  additionally knocked prone. An allied target that enters the space can fly 3 in
+  any direction as a free action. Attract: Any target, allied or enemy, that enters
+  the space, must pass a hull check or become immobilized. It can end this status
+  by taking a quick action and repeating this check successfully to free itself. The
+  deployer can be attacked - it has evasion 5, 20 hp, and 2 armor, and it lasts until
+  the end of the current challenge or around an hour outside. You can only deploy
+  one at at time. If you create a new deployer, the old one disintegrates and is destroyed.'
+Keywords: 'Quick Action'
+License: 'SSC Black Witch II'
+Name: 'Mag Deployer'
+Unique: "-"
+id: Mag_Deployer

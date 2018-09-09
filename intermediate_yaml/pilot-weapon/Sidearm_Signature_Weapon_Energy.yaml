@@ -1,0 +1,9 @@
+Damage: '1 Energy'
+Manufacturer: GMS
+Name: 'Sidearm Signature Weapon (Energy)'
+Notes: 'Once per round, reroll an attack roll with this weapon. You must keep the
+  second result.'
+Range: 3
+Rarity: 0
+Tags: "-"
+id: Sidearm_Signature_Weapon_Energy

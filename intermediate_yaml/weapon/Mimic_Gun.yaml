@@ -1,0 +1,12 @@
+Damage: ???
+License: 'HORUS Pegasus III'
+Name: 'Mimic Gun'
+Notes: 'At the start of your turn, roll 1d20. This gun has range equal to the number
+  rolled, and damage equal to half that number(rounded up) +1. If the roll is odd,
+  it deals energy damage, if even, then explosive.'
+Range: ???
+SP: 0
+Size: Heavy
+Tags: "-"
+Type: ???
+id: Mimic_Gun

@@ -1,0 +1,8 @@
+Cost: 2
+Effect: 'When you gain your first point of reactor stress, you can re-roll your overheating
+  check (but must keep the second result, even if it’s worse).'
+Keywords: "-"
+License: 'HA Sherman I'
+Name: 'Reactor Stabilizer'
+Unique: true
+id: Reactor_Stabilizer

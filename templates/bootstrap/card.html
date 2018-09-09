@@ -1,0 +1,19 @@
+{% block card_wrapper %}
+<div class="{% block card_classes %}card{% endblock card_classes %}" id="{% block card_id %}{% endblock card_id %}">
+{% block card %}
+	<div class="card-header">
+	{% block card_header %}
+		<h5 class="card-title">{% block card_title %}{% endblock card_title %}</h5>
+	{% endblock card_header %}
+    </div>
+	<div class="{% block card_body_classes %}card-body{% endblock card_body_classes %}" id="{% block card_body_id %}{% endblock card_body_id %}">
+	{% block card_body %}
+	{% endblock card_body %}
+	</div>
+	<div class="card-footer">
+	{% block card_footer %}
+	{% endblock card_footer %}
+	</div>
+{% endblock card %}
+</div>
+{% endblock card_wrapper %}

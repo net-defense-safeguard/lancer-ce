@@ -1,0 +1,9 @@
+Description: '2 Uses: Grenades that detonate for a burst of concussive energy and
+  a bright flash on impact. A pilot can throw a concussion grenade at any point in
+  range 5 as an action. It detonates on impact in a blast 1 area. Make an attack roll
+  against each target caught in the area, on hit, the target is stunned until the
+  start of your next turn. Does not affect mechs or targets larger than human-sized.'
+License: GMS
+Name: 'Concussion Grenade'
+Rarity: 0
+id: Concussion_Grenade

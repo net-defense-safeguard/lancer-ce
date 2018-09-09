@@ -1,0 +1,10 @@
+Damage: '1 Energy +1 Heat + Burn 1'
+License: 'IPS-N Lancaster III'
+Name: 'Plasma Cutter'
+Notes: .nan
+Range: 'Threat 1'
+SP: 0
+Size: Auxiliary
+Tags: '1 heat (self)'
+Type: Melee
+id: Plasma_Cutter

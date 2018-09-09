@@ -1,0 +1,9 @@
+Cost: 2
+Effect: 'Activate or deactivate this shield at the start of your turn. While this
+  module is active, gain resistance to explosive damage, but take 1 heat when you
+  take damage.'
+Keywords: 'Shield, Protocol'
+License: 'HA Barbarossa III'
+Name: 'Molded Armor'
+Unique: true
+id: Molded_Armor

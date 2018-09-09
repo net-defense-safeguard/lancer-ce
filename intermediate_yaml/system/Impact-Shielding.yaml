@@ -1,7 +1,0 @@
-Cost: 3
-Effect: 'While this system is active, gain resistance to kinetic damage, but take
-  1 heat when you take damage.'
-Keywords: Protocol
-License: 'IPS-N Raleigh II'
-Name: 'Impact Shielding'
-Unique: true

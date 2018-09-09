@@ -1,7 +1,0 @@
-Cost: 2
-Effect: 'When you brace, immediately after taking damage, you can spend 1 repair to
-  restore your HP to full.'
-Keywords: "-"
-License: 'HA Saladin I'
-Name: 'Emergency Repair System'
-Unique: true

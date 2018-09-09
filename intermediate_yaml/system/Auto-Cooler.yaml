@@ -1,8 +1,0 @@
-Cost: 2
-Effect: 'Activate this cooler as a free action at the start of your turn. If you don’t
-  take damage, move, or overheat before the start of your next turn, cool your mech
-  at the start of your next turn.'
-Keywords: "-"
-License: 'HA Genghis II'
-Name: Auto-Cooler
-Unique: true

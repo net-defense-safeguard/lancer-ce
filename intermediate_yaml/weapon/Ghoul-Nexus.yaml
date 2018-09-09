@@ -1,9 +1,0 @@
-Damage: '1d3+1 Kinetic, Explosive, or Energy'
-License: 'HORUS Hydra I'
-Name: 'Ghoul Nexus'
-Notes: 'Choose damage type when attacking.'
-Range: 15
-SP: 0
-Size: Main
-Tags: Smart
-Type: Nexus

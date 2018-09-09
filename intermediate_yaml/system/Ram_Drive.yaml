@@ -1,0 +1,9 @@
+Cost: 2
+Effect: 'While you are in the Danger Zone (the bottom half of your heat gauge), all
+  adjacent targets to you, allied or enemy, take 1d3 energy damage if they begin their
+  turn next to you or move there during the course of their turn.'
+Keywords: 'Danger Zone'
+License: 'HORUS Manticore II'
+Name: 'Ram Drive'
+Unique: true
+id: Ram_Drive

@@ -1,8 +1,0 @@
-Cost: 3
-Effect: 'When your mech moves or boosts, it can fly. However, at the end of each turn
-  that you activated this module, generate heat equal to the size of your mech +1,
-  rounding up.'
-Keywords: "-"
-License: GMS
-Name: 'GMS Type 1 Flight System'
-Unique: true

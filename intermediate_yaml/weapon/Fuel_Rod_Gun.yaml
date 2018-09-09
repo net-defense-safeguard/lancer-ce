@@ -1,0 +1,10 @@
+Damage: '1d3+1 Energy'
+License: 'Nuclear Cavalier III'
+Name: 'Fuel Rod Gun'
+Notes: 'When you fire this weapon, hit or miss, cool 1d3+1 Heat'
+Range: 8
+SP: 0
+Size: Auxiliary
+Tags: 'Unique, Limited (6)'
+Type: CQB
+id: Fuel_Rod_Gun

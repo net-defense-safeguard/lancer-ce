@@ -1,0 +1,10 @@
+Damage: '1 Energy'
+License: 'SSC Metalmark III'
+Name: 'Shock Knife'
+Notes: "-"
+Range: 'Threat 1'
+SP: 0
+Size: Auxiliary
+Tags: '1 heat (self), Burn 2'
+Type: Melee
+id: Shock_Knife

@@ -1,4 +1,4 @@
-Arc-Blade:
+Arc_Blade:
     Damage: '2 Energy'
     Manufacturer: SSC
     Name: 'Arc Blade'
@@ -6,6 +6,7 @@ Arc-Blade:
     Range: Threat
     Rarity: 2
     Tags: 'Reliable 1'
+    id: Arc_Blade
 Atlatl:
     Damage: '1 Explosive'
     Manufacturer: HA
@@ -15,7 +16,8 @@ Atlatl:
     Range: 'Threat, Thrown 5'
     Rarity: 3
     Tags: Seeking
-Coldcore-Sabot-AA-Rifle:
+    id: Atlatl
+Coldcore_Sabot_AA_Rifle:
     Damage: '3 Energy'
     Manufacturer: SSC
     Name: 'Coldcore Sabot AA Rifle'
@@ -23,7 +25,8 @@ Coldcore-Sabot-AA-Rifle:
     Range: 15
     Rarity: 3
     Tags: 'Accurate, Loading, Ordnance'
-Combat-Alloy-Composite-Weapon:
+    id: Coldcore_Sabot_AA_Rifle
+Combat_Alloy_Composite_Weapon:
     Damage: '2 Kinetic'
     Manufacturer: GMS
     Name: 'Combat Alloy/Composite Weapon'
@@ -31,7 +34,8 @@ Combat-Alloy-Composite-Weapon:
     Range: Threat
     Rarity: 0
     Tags: "-"
-Combat-Signature-Weapon-Energy:
+    id: Combat_Alloy_Composite_Weapon
+Combat_Signature_Weapon_Energy:
     Damage: '2 Energy'
     Manufacturer: GMS
     Name: 'Combat Signature Weapon (Energy)'
@@ -39,7 +43,8 @@ Combat-Signature-Weapon-Energy:
     Range: 5
     Rarity: 0
     Tags: "-"
-Combat-Signature-Weapon-Explosive:
+    id: Combat_Signature_Weapon_Energy
+Combat_Signature_Weapon_Explosive:
     Damage: '2 Explosive'
     Manufacturer: GMS
     Name: 'Combat Signature Weapon (Explosive)'
@@ -47,7 +52,8 @@ Combat-Signature-Weapon-Explosive:
     Range: 5
     Rarity: 0
     Tags: "-"
-Combat-Signature-Weapon-Kinetic:
+    id: Combat_Signature_Weapon_Explosive
+Combat_Signature_Weapon_Kinetic:
     Damage: '2 Kinetic'
     Manufacturer: GMS
     Name: 'Combat Signature Weapon (Kinetic)'
@@ -55,7 +61,8 @@ Combat-Signature-Weapon-Kinetic:
     Range: 5
     Rarity: 0
     Tags: "-"
-EYESTACK-WINK:
+    id: Combat_Signature_Weapon_Kinetic
+EYESTACK_WINK:
     Damage: '3 Kinetic'
     Manufacturer: HORUS
     Name: EYESTACK_WINK
@@ -63,6 +70,7 @@ EYESTACK-WINK:
     Range: 2
     Rarity: 4
     Tags: 'Limited 1, AP'
+    id: EYESTACK_WINK
 Hackiron:
     Damage: '3 Kinetic'
     Manufacturer: IPS-N
@@ -71,7 +79,8 @@ Hackiron:
     Range: Threat
     Rarity: 2
     Tags: 'Reliable 1, Inaccurate'
-Hardlight-Weapon:
+    id: Hackiron
+Hardlight_Weapon:
     Damage: '2 Energy'
     Manufacturer: HA
     Name: 'Hardlight Weapon'
@@ -79,7 +88,8 @@ Hardlight-Weapon:
     Range: Threat
     Rarity: 4
     Tags: 'Burn 1'
-Heavy-Alloy-Composite-Weapon:
+    id: Hardlight_Weapon
+Heavy_Alloy_Composite_Weapon:
     Damage: '4 Kinetic'
     Manufacturer: GMS
     Name: 'Heavy Alloy/Composite Weapon'
@@ -87,7 +97,8 @@ Heavy-Alloy-Composite-Weapon:
     Range: Threat
     Rarity: 0
     Tags: Inaccurate
-Heavy-Signature-Weapon-Energy:
+    id: Heavy_Alloy_Composite_Weapon
+Heavy_Signature_Weapon_Energy:
     Damage: '4 Energy'
     Manufacturer: GMS
     Name: 'Heavy Signature Weapon (Energy)'
@@ -95,7 +106,8 @@ Heavy-Signature-Weapon-Energy:
     Range: 10
     Rarity: 0
     Tags: 'Ordnance, Limited (3)'
-Heavy-Signature-Weapon-Explosive:
+    id: Heavy_Signature_Weapon_Energy
+Heavy_Signature_Weapon_Explosive:
     Damage: '4 Explosive'
     Manufacturer: GMS
     Name: 'Heavy Signature Weapon (Explosive)'
@@ -103,7 +115,8 @@ Heavy-Signature-Weapon-Explosive:
     Range: 10
     Rarity: 0
     Tags: 'Ordnance, Limited (3)'
-Heavy-Signature-Weapon-Kinetic:
+    id: Heavy_Signature_Weapon_Explosive
+Heavy_Signature_Weapon_Kinetic:
     Damage: '4 Kinetic'
     Manufacturer: GMS
     Name: 'Heavy Signature Weapon (Kinetic)'
@@ -111,7 +124,8 @@ Heavy-Signature-Weapon-Kinetic:
     Range: 10
     Rarity: 0
     Tags: 'Ordnance, Limited (3)'
-Implanted-Gun:
+    id: Heavy_Signature_Weapon_Kinetic
+Implanted_Gun:
     Damage: '1 Energy'
     Manufacturer: SSC
     Name: 'Implanted Gun'
@@ -120,7 +134,8 @@ Implanted-Gun:
     Range: 2
     Rarity: 1
     Tags: "-"
-KOTTOS-AA-Largearm-Rifle:
+    id: Implanted_Gun
+KOTTOS_AA_Largearm_Rifle:
     Damage: '1d3 Kinetic'
     Manufacturer: HA
     Name: 'KOTTOS AA/Largearm Rifle'
@@ -130,7 +145,8 @@ KOTTOS-AA-Largearm-Rifle:
     Range: 8
     Rarity: 1
     Tags: Ordnance
-Light-Alloy-Composite-Weapon:
+    id: KOTTOS_AA_Largearm_Rifle
+Light_Alloy_Composite_Weapon:
     Damage: '1 Kinetic'
     Manufacturer: GMS
     Name: 'Light Alloy/Composite Weapon'
@@ -139,7 +155,8 @@ Light-Alloy-Composite-Weapon:
     Range: Threat
     Rarity: 0
     Tags: "-"
-MicroCore-Laser-Rifle:
+    id: Light_Alloy_Composite_Weapon
+MicroCore_Laser_Rifle:
     Damage: '1 Energy'
     Manufacturer: HA
     Name: 'MicroCore Laser Rifle'
@@ -147,7 +164,8 @@ MicroCore-Laser-Rifle:
     Range: 5
     Rarity: 2
     Tags: 'Burn 2, Loading'
-Micropack-Launcher:
+    id: MicroCore_Laser_Rifle
+Micropack_Launcher:
     Damage: '2 Explosive'
     Manufacturer: SSC
     Name: 'Micropack Launcher'
@@ -155,7 +173,8 @@ Micropack-Launcher:
     Range: '5, Blast 1'
     Rarity: 3
     Tags: Loading
-Nanobot-Whip:
+    id: Micropack_Launcher
+Nanobot_Whip:
     Damage: '1 Kinetic'
     Manufacturer: HORUS
     Name: 'Nanobot Whip'
@@ -164,7 +183,8 @@ Nanobot-Whip:
     Range: Threat+1
     Rarity: 3
     Tags: "-"
-Null-Spike:
+    id: Nanobot_Whip
+Null_Spike:
     Damage: "-"
     Manufacturer: HORUS
     Name: 'Null Spike'
@@ -174,7 +194,8 @@ Null-Spike:
     Range: Threat
     Rarity: 3
     Tags: "-"
-PGR-GOURD:
+    id: Null_Spike
+PGR_GOURD:
     Damage: '1 Kinetic'
     Manufacturer: HORUS
     Name: PGR_GOURD
@@ -182,7 +203,8 @@ PGR-GOURD:
     Range: 5
     Rarity: 2
     Tags: 'Smart, Seeking'
-Peacekeeper-R35:
+    id: PGR_GOURD
+Peacekeeper_R35:
     Damage: '3 Explosive'
     Manufacturer: IPS-N
     Name: '"Peacekeeper" R35'
@@ -190,7 +212,8 @@ Peacekeeper-R35:
     Range: 3
     Rarity: 1
     Tags: 'Limited (6)'
-Pilot-Weapon:
+    id: Peacekeeper_R35
+Pilot_Weapon:
     Damage: "-"
     Manufacturer: "-"
     Name: 'Pilot Weapon'
@@ -198,7 +221,8 @@ Pilot-Weapon:
     Range: "-"
     Rarity: 0
     Tags: "-"
-Primitive-Melee:
+    id: Pilot_Weapon
+Primitive_Melee:
     Damage: '1 Kinetic'
     Manufacturer: GMS
     Name: 'Primitive Melee'
@@ -206,7 +230,8 @@ Primitive-Melee:
     Range: Threat
     Rarity: 0
     Tags: Unreliable
-Primitive-Ranged:
+    id: Primitive_Melee
+Primitive_Ranged:
     Damage: '1 Kinetic'
     Manufacturer: GMS
     Name: 'Primitive Ranged'
@@ -214,7 +239,8 @@ Primitive-Ranged:
     Range: 5
     Rarity: 0
     Tags: Unreliable
-Prism-Gun:
+    id: Primitive_Ranged
+Prism_Gun:
     Damage: '2 Energy'
     Manufacturer: IPS-N
     Name: 'Prism Gun'
@@ -222,6 +248,7 @@ Prism-Gun:
     Range: 'Cone 3'
     Rarity: 4
     Tags: Inaccurate
+    id: Prism_Gun
 Ripjack:
     Damage: '2 Kinetic'
     Manufacturer: IPS-N
@@ -232,7 +259,8 @@ Ripjack:
     Range: 'Threat, Thrown 4'
     Rarity: 3
     Tags: "-"
-Sidearm-Signature-Weapon-Energy:
+    id: Ripjack
+Sidearm_Signature_Weapon_Energy:
     Damage: '1 Energy'
     Manufacturer: GMS
     Name: 'Sidearm Signature Weapon (Energy)'
@@ -241,7 +269,8 @@ Sidearm-Signature-Weapon-Energy:
     Range: 3
     Rarity: 0
     Tags: "-"
-Sidearm-Signature-Weapon-Explosive:
+    id: Sidearm_Signature_Weapon_Energy
+Sidearm_Signature_Weapon_Explosive:
     Damage: '1 Explosive'
     Manufacturer: GMS
     Name: 'Sidearm Signature Weapon (Explosive)'
@@ -250,7 +279,8 @@ Sidearm-Signature-Weapon-Explosive:
     Range: 3
     Rarity: 0
     Tags: "-"
-Sidearm-Signature-Weapon-Kinetic:
+    id: Sidearm_Signature_Weapon_Explosive
+Sidearm_Signature_Weapon_Kinetic:
     Damage: '1 Kinetic'
     Manufacturer: GMS
     Name: 'Sidearm Signature Weapon (Kinetic)'
@@ -259,6 +289,7 @@ Sidearm-Signature-Weapon-Kinetic:
     Range: 3
     Rarity: 0
     Tags: "-"
+    id: Sidearm_Signature_Weapon_Kinetic
 Sidekick:
     Damage: '1 Kinetic'
     Manufacturer: HORUS
@@ -267,7 +298,8 @@ Sidekick:
     Range: 3
     Rarity: 2
     Tags: 'Reliable 1'
-Siege-Hammer:
+    id: Sidekick
+Siege_Hammer:
     Damage: '5 Kinetic'
     Manufacturer: IPS-N
     Name: 'Siege Hammer'
@@ -275,7 +307,8 @@ Siege-Hammer:
     Range: Threat
     Rarity: 3
     Tags: 'Loading, AP'
-Smart-Knife:
+    id: Siege_Hammer
+Smart_Knife:
     Damage: '1 Kinetic'
     Manufacturer: HORUS
     Name: 'Smart Knife'
@@ -283,7 +316,8 @@ Smart-Knife:
     Range: Threat
     Rarity: 2
     Tags: Accurate
-Variable-Sword:
+    id: Smart_Knife
+Variable_Sword:
     Damage: '3 Kinetic'
     Manufacturer: SSC
     Name: 'Variable Sword'
@@ -291,3 +325,4 @@ Variable-Sword:
     Range: Threat+1
     Rarity: 4
     Tags: 'AP, Limited 6'
+    id: Variable_Sword

@@ -1,7 +1,0 @@
-Description: 'This shield can be deployed as an action in a free adjacent space. Once
-  deployed, it creates a burst 2 zone around it. Ranged attacks against all non-mech
-  targets size ½ or smaller in the zone suffer from +1 difficulty. The shield deactivates
-  after the current challenge and must recharge on a full repair.'
-License: HA
-Name: 'Dispersal Dropshield'
-Rarity: 2

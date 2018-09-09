@@ -1,9 +1,0 @@
-Damage: ' 1 Energy Damage+ Burn 3'
-License: 'HA Tokugawa II'
-Name: 'Plasma Lash'
-Notes: 'Can be used in either profile, but not both in the same round.'
-Range: 'Threat 3'
-SP: 0
-Size: Main
-Tags: 'Burn 3'
-Type: Melee

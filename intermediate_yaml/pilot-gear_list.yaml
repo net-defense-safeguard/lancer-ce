@@ -1,25 +1,28 @@
-Ambrosia-Reservoir:
+Ambrosia_Reservoir:
     Description: 'Typically collar-mounted, an Ambrosia Reservoir carries a two-week
         complement of flavored or unflavored Ambrosia, a fuel-paste that can keep
         pilots fed and hydrated in emergency situation.'
     License: GMS
     Name: 'Ambrosia Reservoir'
     Rarity: 0
-Antiphoton-Visor:
+    id: Ambrosia_Reservoir
+Antiphoton_Visor:
     Description: 'Flash/light protection, commonly found among breach teams, solarforward
         operators. Effective against flash weapons, intense UV light, and incidental
         charge from energy weapons.'
     License: GMS
     Name: 'Antiphoton Visor'
     Rarity: 0
-Camo-Cloth:
+    id: Antiphoton_Visor
+Camo_Cloth:
     Description: 'A 5x5 square of reactive material that slowly shifts to reflect
         the environment around it. The effect takes about 10 seconds to complete,
         and makes anything hidden underneath very hard to spot.'
     License: GMS
     Name: 'Camo Cloth'
     Rarity: 0
-Concussion-Grenade:
+    id: Camo_Cloth
+Concussion_Grenade:
     Description: '2 Uses: Grenades that detonate for a burst of concussive energy
         and a bright flash on impact. A pilot can throw a concussion grenade at any
         point in range 5 as an action. It detonates on impact in a blast 1 area. Make
@@ -29,6 +32,7 @@ Concussion-Grenade:
     License: GMS
     Name: 'Concussion Grenade'
     Rarity: 0
+    id: Concussion_Grenade
 Corrective:
     Description: '1 Use: This clear, plastic-sheet like medical deployable can be
         attached to severely wounded pilot, where it instantly begins stabilizing
@@ -38,7 +42,8 @@ Corrective:
     License: GMS
     Name: Corrective
     Rarity: 0
-Dispersal-Dropshield:
+    id: Corrective
+Dispersal_Dropshield:
     Description: 'This shield can be deployed as an action in a free adjacent space.
         Once deployed, it creates a burst 2 zone around it. Ranged attacks against
         all non-mech targets size ½ or smaller in the zone suffer from +1 difficulty.
@@ -47,7 +52,8 @@ Dispersal-Dropshield:
     License: HA
     Name: 'Dispersal Dropshield'
     Rarity: 2
-Dream-Projector:
+    id: Dispersal_Dropshield
+Dream_Projector:
     Description: 'This small, puck-like system can be deployed or thrown to a point
         within range 4 as an action and remotely activated as another action. While
         deployed and active, it can project extremely convincing holographic images
@@ -57,7 +63,8 @@ Dream-Projector:
     License: HORUS
     Name: 'Dream Projector'
     Rarity: 1
-External-Dataplating:
+    id: Dream_Projector
+External_Dataplating:
     Description: 'Linked jewelry/faceplates that allow sub-vocal communication and
         augmented reality. Dataplates can quickly translate many languages, and anyone
         with a dataplate can talk to any other person with a dataplate without vocalizing,
@@ -65,7 +72,8 @@ External-Dataplating:
     License: HA
     Name: 'External Dataplating'
     Rarity: 1
-Extra-Rations:
+    id: External_Dataplating
+Extra_Rations:
     Description: 'Pilot rations are typically no better than their nautical antecedents
         - hard tack and nutritious paste. It’s not uncommon for pilots to store extra
         food or luxuries such as chocolate, coffee, alcohol, or canned or dried goods
@@ -73,6 +81,7 @@ Extra-Rations:
     License: GMS
     Name: 'Extra Rations'
     Rarity: 0
+    id: Extra_Rations
 Flexsuit:
     Description: 'A strong, under-clothing suit that recycles water, generates nutrients,
         and adapts very rapidly to hostile environs, keeping its wearer in a state
@@ -81,21 +90,24 @@ Flexsuit:
     License: HA
     Name: Flexsuit
     Rarity: 1
-Fragmentation-Grenade:
+    id: Flexsuit
+Fragmentation_Grenade:
     Description: '2 Uses: A pilot can throw a frag grenade at any point in range 5
         as an action. It detonates on impact in a blast 1 area. Make an attack roll
         against each target caught in the area, on hit, it deals 2 explosive damage.'
     License: GMS
     Name: 'Fragmentation Grenade'
     Rarity: 0
-Handheld-Printer:
+    id: Fragmentation_Grenade
+Handheld_Printer:
     Description: 'A miniaturized version of the much larger Union printers, can make
         simple objects out of a flexible and durable plastic as long as you have the
         pattern chip for them.'
     License: GMS
     Name: 'Handheld Printer'
     Rarity: 0
-Hold-Lock-Nonlethal:
+    id: Handheld_Printer
+Hold_Lock_Nonlethal:
     Description: 'This mine can be planted in a free adjacent space as an action,
         and detonated remotely as an action. It can also be set to detonate once any
         target moves adjacent to it. Once detonated, any target caught in a burst
@@ -104,6 +116,7 @@ Hold-Lock-Nonlethal:
     License: HA
     Name: 'Hold/Lock Nonlethal'
     Rarity: 1
+    id: Hold_Lock_Nonlethal
 Infoskin:
     Description: 'This reactive, synthetic polymer bonds easily to real skin and hair.
         It responds to electronic signals and can rapidly change color, texture, or
@@ -113,12 +126,14 @@ Infoskin:
     License: SSC
     Name: Infoskin
     Rarity: 1
-K-Cal-Wafer:
+    id: Infoskin
+K_Cal_Wafer:
     Description: 'Provides a full day’s worth of sustenance in compact form. Nobody
         can vouch for the taste.'
     License: IPS-N
     Name: 'K-Cal Wafer'
     Rarity: 1
+    id: K_Cal_Wafer
 Lifesaver:
     Description: 'A personal transponder and vacuum movement device, in case you get
         spaced. The lifesaver compacts to a tiny pack that can be strapped on the
@@ -127,26 +142,30 @@ Lifesaver:
     License: IPS-N
     Name: Lifesaver
     Rarity: 1
-Mag-clamps:
+    id: Lifesaver
+Mag_clamps:
     Description: 'These clamps attach easily onto any metal surface, giving good maneuverability
         in zero-g or when repairing mechs. Can be fitted to boots.'
     License: GMS
     Name: Mag-clamps
     Rarity: 0
-Nanite-Spray:
+    id: Mag_clamps
+Nanite_Spray:
     Description: 'This spray paint can be sprayed on any surface. It is invisible
         to the naked eye but can be used to transmit a simple message or limited data
         packets when scanned'
     License: GMS
     Name: 'Nanite Spray'
     Rarity: 0
-Null-Rad-Caps:
+    id: Nanite_Spray
+Null_Rad_Caps:
     Description: 'Anti-radiation medication for extended interstellar trips. If taken
         in concentrated form, a pilot can pass through areas of high or even deadly
         radiation for around an hour, with relative safety.'
     License: IPS-N
     Name: 'Null-Rad Caps'
     Rarity: 1
+    id: Null_Rad_Caps
 Omnihook:
     Description: 'A bulky, miniaturized, portable field omninet terminal that allows
         for communication, data transfer, and limited hotspotting. Very valuable.
@@ -155,6 +174,7 @@ Omnihook:
     License: GMS
     Name: Omnihook
     Rarity: 0
+    id: Omnihook
 Panacea:
     Description: 'This fast healing injectable derived from the Sylph protects its
         host from disease and promotes rapid healing. When injected as an action,
@@ -163,6 +183,7 @@ Panacea:
     License: SSC
     Name: Panacea
     Rarity: 3
+    id: Panacea
 Patch:
     Description: '1 Use: ‘Patch’ is a catch all term for sprayable medi-gel, instant-acting
         medical patches, or other first aid gear. Using a patch takes two actions
@@ -172,18 +193,21 @@ Patch:
     License: GMS
     Name: Patch
     Rarity: 0
-Personal-Drone:
+    id: Patch
+Personal_Drone:
     Description: 'A small, non-combat drone. Fairly noisy, but can fly with good maneuverability
         up to half a mile without losing signal and can relay audio and visual information.'
     License: GMS
     Name: 'Personal Drone'
     Rarity: 0
-Pilot-Gear:
+    id: Personal_Drone
+Pilot_Gear:
     Description: "-"
     License: "-"
     Name: 'Pilot Gear'
     Rarity: 0
-Player-Two:
+    id: Pilot_Gear
+Player_Two:
     Description: 'With this implant, you can hand complete control of your body’s
         motor functions over to an NHP, allowing you to sleep, rest, or relax while
         it performs tasks. It’s not skilled enough to pilot a mech in combat or perform
@@ -195,6 +219,7 @@ Player-Two:
     License: HORUS
     Name: Player_Two
     Rarity: 2
+    id: Player_Two
 Prosocollar:
     Description: 'A collar-like device that fits snugly around the mech and projects
         a holographic image over your face and head. The collar can change your voice
@@ -203,7 +228,8 @@ Prosocollar:
     License: HORUS
     Name: Prosocollar
     Rarity: 1
-Sleep-Suit:
+    id: Prosocollar
+Sleep_Suit:
     Description: 'Once activated, the suit can put an individual into a state of human
         hibernation for 3 hours and up to 6 months, lowering their vital signs to
         almost nothing, relieving them of the need for food, air, or sleep, and halting
@@ -213,13 +239,15 @@ Sleep-Suit:
     License: HA
     Name: 'Sleep Suit'
     Rarity: 1
-Sleeping-Bag:
+    id: Sleep_Suit
+Sleeping_Bag:
     Description: 'Compact enough to fit in a mech cockpit, highly resistant to changes
         in temperature. Some mech pilots swear by them as emergency fire protection'
     License: GMS
     Name: 'Sleeping Bag'
     Rarity: 0
-Smart-Scope:
+    id: Sleeping_Bag
+Smart_Scope:
     Description: 'A powerful electronic scope that can give good vision up to two
         miles away, automatically adjusts its reticle for wind, gravity, and pressure.
         Can be paired with other thermal, optical, or simulated-vision devices to
@@ -228,13 +256,15 @@ Smart-Scope:
     License: GMS
     Name: 'Smart Scope'
     Rarity: 0
-Sound-System:
+    id: Smart_Scope
+Sound_System:
     Description: 'Though not strictly necessary, many mech pilots hook up internal
         speakers to give them a clear line to their compatriots during combat, or
         simply play music'
     License: GMS
     Name: 'Sound System'
     Rarity: 0
+    id: Sound_System
 Stims:
     Description: '3 Uses: These chemical stimulants are sometimes administered automatically
         by built-in injectors in a pilot’s suit, or even their body. Choose one when
@@ -247,7 +277,8 @@ Stims:
     License: GMS
     Name: Stims
     Rarity: 0
-Subjectivity-Enhancement-Suite:
+    id: Stims
+Subjectivity_Enhancement_Suite:
     Description: 'Cybernetic implants that allow you to hack without gear or a rig.
         While you have these implants, you can extrude cables or ports from within
         your body to plug in and experience an alternate reality interface that provides
@@ -255,7 +286,8 @@ Subjectivity-Enhancement-Suite:
     License: HORUS
     Name: 'Subjectivity Enhancement Suite'
     Rarity: 1
-Tertiary-Arm:
+    id: Subjectivity_Enhancement_Suite
+Tertiary_Arm:
     Description: 'A powered third arm, mounted on a bracket on the hardsuit. Can be
         equipped with a manipulator to allow for fine motor control, fitted with a
         weapon to allow for greater combat efficacy, or a specialty tool. It is powered,
@@ -264,7 +296,8 @@ Tertiary-Arm:
     License: GMS
     Name: 'Tertiary Arm'
     Rarity: 0
-Thermal-Charge:
+    id: Tertiary_Arm
+Thermal_Charge:
     Description: '1 Use: This charge can be planted on any free space for two actions,
         and detonated remotely as an action. Once detonated, it explodes in a blast
         1 area. Attack all targets in the area, aim vs evasion, for 3 AP energy damage.
@@ -273,7 +306,8 @@ Thermal-Charge:
     License: GMS
     Name: 'Thermal Charge'
     Rarity: 0
-Vascular-Stabilizers:
+    id: Thermal_Charge
+Vascular_Stabilizers:
     Description: 'A custom drug cocktail that helps the human body deal with combat-rated
         gee forces; ensures blood movement to brain, mixed with a suite of anti-nausea
         and anti-fatigue drugs. When you take them, until the end of the current challenge,
@@ -282,9 +316,11 @@ Vascular-Stabilizers:
     License: IPS-N
     Name: 'Vascular Stabilizers'
     Rarity: 2
-Wilderness-Survival-Kit:
+    id: Vascular_Stabilizers
+Wilderness_Survival_Kit:
     Description: 'Contains many of the essentials for surviving in a hostile environment
         - rebreather, water filter, backup environmental suit, bivouac kit, etc'
     License: GMS
     Name: 'Wilderness Survival Kit'
     Rarity: 0
+    id: Wilderness_Survival_Kit

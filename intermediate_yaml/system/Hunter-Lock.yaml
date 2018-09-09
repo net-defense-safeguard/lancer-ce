@@ -1,8 +1,0 @@
-Cost: 2
-Effect: 'Nominate a target in your sensor range. Your first attack that hits that
-  target per round deals +3 bonus damage. You cannot nominate a new target until your
-  nominated target is destroyed or the current challenge ends.'
-Keywords: Protocol
-License: 'HORUS Pegasus I'
-Name: 'Hunter Lock'
-Unique: true

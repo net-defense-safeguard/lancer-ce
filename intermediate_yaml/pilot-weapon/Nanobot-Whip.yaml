@@ -1,8 +1,0 @@
-Damage: '1 Kinetic'
-Manufacturer: HORUS
-Name: 'Nanobot Whip'
-Notes: 'If you don''t attack with this weapon, until the end of your next turn, weapons
-  and systems with the Smart, Nexus, and Drone tags cannot target you.'
-Range: Threat+1
-Rarity: 3
-Tags: "-"

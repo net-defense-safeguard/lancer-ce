@@ -1,9 +1,0 @@
-Cost: 3
-Effect: 'You can choose to activate this shield protocol at the start of your turn.
-  Nominate up to two enemies you can see. All those enemy’s ranged or melee attacks
-  against you are made at +2 difficulty until the start of your next turn, but your
-  ranged or melee weapon attacks against them also suffer the same penalty.'
-Keywords: 'Shield, Protocol, 3 heat (self)'
-License: GMS
-Name: 'GMS Shield Type-II'
-Unique: true

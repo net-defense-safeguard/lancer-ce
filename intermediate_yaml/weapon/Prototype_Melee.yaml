@@ -1,0 +1,10 @@
+Damage: '1d6 Kinetic, Explosive, or Energy'
+License: 'Engineer I'
+Name: 'Prototype Melee'
+Notes: "-"
+Range: 'Threat 1'
+SP: 0
+Size: Main
+Tags: 'Limited (1d6+2), Unreliable'
+Type: Melee
+id: Prototype_Melee

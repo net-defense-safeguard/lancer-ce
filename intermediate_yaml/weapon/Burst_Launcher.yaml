@@ -1,0 +1,11 @@
+Damage: '1d3 Heat'
+License: 'SSC Dusk Wing II'
+Name: 'Burst Launcher'
+Notes: 'On a critical hit, a target struck by this weapon must pass an engineering
+  skill check or become impaired until the start of your next turn.'
+Range: 10
+SP: 0
+Size: Main
+Tags: Arcing
+Type: Launcher
+id: Burst_Launcher

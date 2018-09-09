@@ -1,0 +1,7 @@
+Cost: 2
+Effect: 'Choose one ranged or melee weapon. It gains the AP tag.'
+Keywords: Mod
+License: 'SSC Metalmark II'
+Name: 'Armor-Piercing Mod'
+Unique: "-"
+id: Armor_Piercing_Mod

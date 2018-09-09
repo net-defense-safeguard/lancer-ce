@@ -1,0 +1,11 @@
+Cost: 2
+Effect: 'Gain the following quick tech option: Hunt: Choose a target in your sensor
+  range. Your systems infect the target with a viral logic that wipes your image from
+  their sensors. Until you are damaged by that target, they count you as invisible.
+  This system can only affect one target at a time (other targets still count you
+  as visible and can see you normally).'
+Keywords: 'Quick Tech'
+License: 'SSC Mourning Cloak II'
+Name: 'Hunter Cloak'
+Unique: true
+id: Hunter_Cloak

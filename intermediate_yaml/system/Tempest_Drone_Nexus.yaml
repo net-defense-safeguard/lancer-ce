@@ -1,0 +1,12 @@
+Cost: 2
+Effect: 'You fire a large shielded drone to an empty space within sensor range. Any
+  target that starts their turn adjacent to the drone or moves their for the first
+  time on their turn must pass an engineering check or take 1d6 energy damage, then
+  get knocked back 3 spaces directly away from the drone. The drone persists until
+  recalled. You can move the drone to a new space within sensor range as a quick action.
+  The drone can be targeted and destroyed as normal, but has resistance to all damage'
+Keywords: 'Drone, Quick Action'
+License: 'HORUS Hydra III'
+Name: 'Tempest Drone Nexus'
+Unique: "-"
+id: Tempest_Drone_Nexus

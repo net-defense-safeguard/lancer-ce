@@ -1,0 +1,10 @@
+Damage: '1d6+2 Kinetic'
+License: GMS
+Name: 'Tactical Melee'
+Notes: "-"
+Range: 'Threat 1'
+SP: 0
+Size: Main
+Tags: "-"
+Type: Melee
+id: Tactical_Melee

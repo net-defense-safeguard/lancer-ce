@@ -1,0 +1,11 @@
+Cost: 2
+Effect: 'You can prime your PDW by taking a quick action. Roll 1d3, and gain that
+  many charges. You can use a reaction while you have charges to spend 1 charge when
+  any mech in your sensor range is attacked by a weapon with the smart, nexus, or
+  launcher tag to completely nullify that attack (it automatically misses). You lose
+  these charges at the start of your next turn.'
+Keywords: 'Quick Action'
+License: 'HORUS Gorgon I'
+Name: 'Point Defense Weapon'
+Unique: "-"
+id: Point_Defense_Weapon

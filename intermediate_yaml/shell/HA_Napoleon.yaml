@@ -1,0 +1,34 @@
+AGI: 1
+ARMOR: 0
+EDEF: 0
+ENG: 2
+EVASION: 0
+HEAT-CAP: 0
+HP: 0
+HULL: -1
+MOUNT1: Flex
+MOUNT2: Main
+MOUNT3: N/a
+Name: 'HA Napoleon'
+SIZE: 0.5
+SP: 8
+SPEED: 0
+SYS: 0
+TARGETTING: 0
+Ultimate-Active: 'Activate Aegis (Action): A shimmering, utterly black field envelops
+  your mech, covering it like a second skin, and taking only a few moments to activate.
+  While this field is active, your mech reduces all damage from any source to 1, though
+  it can still be grabbed, knocked back, pinned, thrown, and affected by other mechs.
+  While this shield is active, your mech can only make the grapple, improvised attack,
+  ram, boost, and stabilize systems actions. It cannot take free actions, reactions,
+  or overcharge, and cannot fly(If flying, it falls). It cannot activate systems,
+  though it can interact normally with the world otherwise. It cannot benefit from,
+  be the target of, or make tech actions (including lock on, etc), and cannot communicate
+  or receive communications with or from anyone except the GM (though hand signals
+  are still possible). The shield lasts until the end of the current challenge, or
+  about an hour otherwise. Damage that goes through reduction (such as paracausal
+  ammo) can still harm the Napoleon while its aegis is up.'
+Ultimate-Name: 'HA Vantablack Aegis'
+Ultimate-Passive: 'If you would take half damage from an effect (weapon, system, explosion,
+  etc) on a successful check of any kind, you instead take 0 damage.'
+id: HA_Napoleon

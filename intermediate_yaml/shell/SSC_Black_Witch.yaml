@@ -1,0 +1,36 @@
+AGI: 1
+ARMOR: 0
+EDEF: 0
+ENG: 0
+EVASION: 0
+HEAT-CAP: 0
+HP: 0
+HULL: 0
+MOUNT1: Auxiliary
+MOUNT2: Flex
+MOUNT3: N/a
+Name: 'SSC Black Witch'
+SIZE: 1.0
+SP: 8
+SPEED: 0
+SYS: 1
+TARGETTING: 0
+Ultimate-Active: 'Mag Field (1 core power): As an action, activate the mag field to
+  create a Blast 4 area with at least one square adjacent to you. Inside, ranged weapon
+  attacks that deal kinetic or explosive damage cannot penetrate into or out of the
+  field and deal no damage (keep track of them). The field is difficult terrain for
+  all mechs and vehicles made at least partly of metal. Targets that start their turn
+  in the Mag Field or enter it for the first time must make a successful Engineering
+  chec with 1 difficulty or be pulled to the center and immobilized. You can repeat
+  this check at the start of your turns while trapped this way, and can move normally
+  on a success, otherwise you remain trapped. The field persists for 3 round after
+  deployment. At the end of the third round, any attacks fired into the field resume
+  trajectory towards the center of the zone; the GM rolls a single attack roll versus
+  each target still inside the zone with +1 targeting per attack fired into the zone
+  (max +6). Successful hits deal 1d6 Kinetic per attack (cumulative). Then, the zone
+  deactivates.'
+Ultimate-Name: 'Mag Projector'
+Ultimate-Passive: 'Once per turn, you can attempt to parry any attack that hits your
+  mech as a reaction. Roll a d6; on a 6, reduce the damage from that attack to 0,
+  and deal 1d6 heat back to your attacker.'
+id: SSC_Black_Witch
