@@ -4,3 +4,5 @@
   - [ ] 2d6 **Energy**
 ## Range
 ## Tags
+
+[Back to Weapons](../weapons.md)
