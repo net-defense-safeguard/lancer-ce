@@ -1,0 +1,3 @@
+[submodule "wiki"]
+	path = wiki
+	url = git://github.com/net-defense-safeguard/lancer-ce.wiki.git
